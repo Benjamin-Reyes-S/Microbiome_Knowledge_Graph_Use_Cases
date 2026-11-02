@@ -1,0 +1,19 @@
+pattern,n,pct
+BiGG>models,1199,29.23
+KEGG>ENZYME>UniProt + ChEBI>Rhea>EC>UniProt + BiGG>models + HMDB (implied),569,13.87
+BiGG>models + HMDB (implied),442,10.78
+no id of a queryable type,356,8.68
+HMDB (implied),299,7.29
+KEGG>ENZYME>UniProt,251,6.12
+KEGG>ENZYME>UniProt + BiGG>models + HMDB (implied),207,5.05
+other taxa only,170,4.14
+KEGG>ENZYME>UniProt + HMDB (implied),129,3.14
+KEGG>ENZYME>UniProt + BiGG>models,119,2.9
+KEGG>ENZYME>UniProt + ChEBI>Rhea>EC>UniProt + BiGG>models,91,2.22
+"ids present, no taxon returned",85,2.07
+KEGG>ENZYME>UniProt + ChEBI>Rhea>EC>UniProt,75,1.83
+KEGG>ENZYME>UniProt + ChEBI>Rhea>EC>UniProt + HMDB (implied),48,1.17
+ChEBI>Rhea>EC>UniProt + BiGG>models + HMDB (implied),34,0.83
+ChEBI>Rhea>EC>UniProt,15,0.37
+ChEBI>Rhea>EC>UniProt + BiGG>models,7,0.17
+ChEBI>Rhea>EC>UniProt + HMDB (implied),6,0.15

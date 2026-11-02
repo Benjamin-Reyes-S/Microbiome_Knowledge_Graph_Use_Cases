@@ -1,0 +1,133 @@
+pathway,sample,paper_calculator,kg,kg_shared_reactions,kg_unique_proteins
+Wood-Ljungdahl,BGP_02_T1_Ext1,2205.0,2205.0,2205.0,1483.0
+Wood-Ljungdahl,BGP_02_T1_Ext2,1698.0,1698.0,1698.0,1177.0
+Wood-Ljungdahl,BGP_02_T2_Ext1,647.0,647.0,647.0,405.0
+Wood-Ljungdahl,BGP_02_T2_Ext2,402.0,402.0,402.0,271.0
+Wood-Ljungdahl,BGP_03_T1_Ext1,126.0,126.0,126.0,93.0
+Wood-Ljungdahl,BGP_03_T1_Ext2,96.0,96.0,96.0,78.0
+Wood-Ljungdahl,BGP_03_T2_Ext1,375.0,375.0,375.0,314.0
+Wood-Ljungdahl,BGP_03_T2_Ext2,194.0,194.0,194.0,159.0
+Wood-Ljungdahl,BGP_04_T1_Ext1,499.0,499.0,499.0,395.0
+Wood-Ljungdahl,BGP_04_T1_Ext2,540.0,540.0,540.0,413.0
+Wood-Ljungdahl,BGP_04_T2_Ext1,257.0,257.0,257.0,202.0
+Wood-Ljungdahl,BGP_04_T2_Ext2,287.0,287.0,287.0,231.0
+Wood-Ljungdahl,BGP_05a_T1_Ext1,1009.0,1009.0,1009.0,705.0
+Wood-Ljungdahl,BGP_05a_T1_Ext2,829.0,829.0,829.0,589.0
+Wood-Ljungdahl,BGP_05a_T2_Ext1,1579.0,1579.0,1579.0,1121.0
+Wood-Ljungdahl,BGP_05a_T2_Ext2,949.0,949.0,949.0,657.0
+Wood-Ljungdahl,BGP_05b_T1_Ext1,1022.0,1022.0,1022.0,716.0
+Wood-Ljungdahl,BGP_05b_T1_Ext2,1216.0,1216.0,1216.0,861.0
+Wood-Ljungdahl,BGP_05b_T2_Ext1,570.0,570.0,570.0,369.0
+Wood-Ljungdahl,BGP_05b_T2_Ext2,492.0,492.0,492.0,348.0
+Wood-Ljungdahl,BGP_07_T1_Ext1,216.0,216.0,216.0,167.0
+Wood-Ljungdahl,BGP_07_T1_Ext2,246.0,246.0,246.0,183.0
+Wood-Ljungdahl,BGP_07_T2_Ext1,176.0,176.0,176.0,138.0
+Wood-Ljungdahl,BGP_07_T2_Ext2,259.0,259.0,259.0,194.0
+Wood-Ljungdahl,BGP_09_T1_Ext1,1144.0,1144.0,1144.0,882.0
+Wood-Ljungdahl,BGP_09_T1_Ext2,1066.0,1066.0,1066.0,869.0
+Wood-Ljungdahl,BGP_09_T2_Ext1,1556.0,1556.0,1556.0,1245.0
+Wood-Ljungdahl,BGP_09_T2_Ext2,1222.0,1222.0,1222.0,940.0
+Wood-Ljungdahl,BGP_10_T1_Ext1,2060.0,2060.0,2060.0,1495.0
+Wood-Ljungdahl,BGP_10_T1_Ext2,1900.0,1900.0,1900.0,1411.0
+Wood-Ljungdahl,BGP_10_T2_Ext1,1144.0,1144.0,1144.0,871.0
+Wood-Ljungdahl,BGP_10_T2_Ext2,1533.0,1533.0,1533.0,1107.0
+Wood-Ljungdahl,BGP_X1_T1_Ext1,935.0,935.0,935.0,734.0
+Wood-Ljungdahl,BGP_X1_T1_Ext2,876.0,876.0,876.0,697.0
+Wood-Ljungdahl,BGP_X1_T2_Ext1,1264.0,1264.0,1264.0,1016.0
+Wood-Ljungdahl,BGP_X1_T2_Ext2,1167.0,1167.0,1167.0,919.0
+Wood-Ljungdahl,BGP_X2_T1_Ext1,1059.0,1059.0,1059.0,808.0
+Wood-Ljungdahl,BGP_X2_T1_Ext2,1027.0,1027.0,1027.0,786.0
+Wood-Ljungdahl,BGP_X2_T2_Ext1,1054.0,1054.0,1054.0,767.0
+Wood-Ljungdahl,BGP_X2_T2_Ext2,794.0,794.0,794.0,584.0
+Wood-Ljungdahl,BGP_X3_T1_Ext1,6.0,6.0,6.0,5.0
+Wood-Ljungdahl,BGP_X3_T1_Ext2,17.0,17.0,17.0,16.0
+Wood-Ljungdahl,BGP_X3_T2_Ext1,12.0,12.0,12.0,12.0
+Wood-Ljungdahl,BGP_X3_T2_Ext2,24.0,24.0,24.0,22.0
+Hydrogenotrophic methanogenesis,BGP_02_T1_Ext1,1668.0,1668.0,1668.0,1156.0
+Hydrogenotrophic methanogenesis,BGP_02_T1_Ext2,1408.0,1408.0,1408.0,981.0
+Hydrogenotrophic methanogenesis,BGP_02_T2_Ext1,306.0,306.0,306.0,265.0
+Hydrogenotrophic methanogenesis,BGP_02_T2_Ext2,258.0,258.0,258.0,213.0
+Hydrogenotrophic methanogenesis,BGP_03_T1_Ext1,501.0,501.0,501.0,485.0
+Hydrogenotrophic methanogenesis,BGP_03_T1_Ext2,506.0,505.0,505.0,487.0
+Hydrogenotrophic methanogenesis,BGP_03_T2_Ext1,781.0,779.0,779.0,645.0
+Hydrogenotrophic methanogenesis,BGP_03_T2_Ext2,782.0,781.0,781.0,709.0
+Hydrogenotrophic methanogenesis,BGP_04_T1_Ext1,418.0,418.0,418.0,410.0
+Hydrogenotrophic methanogenesis,BGP_04_T1_Ext2,442.0,442.0,442.0,434.0
+Hydrogenotrophic methanogenesis,BGP_04_T2_Ext1,230.0,230.0,230.0,226.0
+Hydrogenotrophic methanogenesis,BGP_04_T2_Ext2,269.0,269.0,269.0,269.0
+Hydrogenotrophic methanogenesis,BGP_05a_T1_Ext1,535.0,535.0,535.0,375.0
+Hydrogenotrophic methanogenesis,BGP_05a_T1_Ext2,441.0,441.0,441.0,293.0
+Hydrogenotrophic methanogenesis,BGP_05a_T2_Ext1,500.0,500.0,500.0,324.0
+Hydrogenotrophic methanogenesis,BGP_05a_T2_Ext2,391.0,391.0,391.0,275.0
+Hydrogenotrophic methanogenesis,BGP_05b_T1_Ext1,578.0,578.0,578.0,374.0
+Hydrogenotrophic methanogenesis,BGP_05b_T1_Ext2,390.0,390.0,390.0,303.0
+Hydrogenotrophic methanogenesis,BGP_05b_T2_Ext1,241.0,241.0,241.0,225.0
+Hydrogenotrophic methanogenesis,BGP_05b_T2_Ext2,512.0,512.0,512.0,400.0
+Hydrogenotrophic methanogenesis,BGP_07_T1_Ext1,205.0,201.0,201.0,200.0
+Hydrogenotrophic methanogenesis,BGP_07_T1_Ext2,247.0,246.0,246.0,242.0
+Hydrogenotrophic methanogenesis,BGP_07_T2_Ext1,988.0,988.0,988.0,904.0
+Hydrogenotrophic methanogenesis,BGP_07_T2_Ext2,975.0,974.0,974.0,918.0
+Hydrogenotrophic methanogenesis,BGP_09_T1_Ext1,429.0,429.0,429.0,372.0
+Hydrogenotrophic methanogenesis,BGP_09_T1_Ext2,386.0,386.0,386.0,314.0
+Hydrogenotrophic methanogenesis,BGP_09_T2_Ext1,404.0,404.0,404.0,340.0
+Hydrogenotrophic methanogenesis,BGP_09_T2_Ext2,328.0,328.0,328.0,304.0
+Hydrogenotrophic methanogenesis,BGP_10_T1_Ext1,517.0,517.0,517.0,489.0
+Hydrogenotrophic methanogenesis,BGP_10_T1_Ext2,371.0,371.0,371.0,367.0
+Hydrogenotrophic methanogenesis,BGP_10_T2_Ext1,276.0,275.0,275.0,264.0
+Hydrogenotrophic methanogenesis,BGP_10_T2_Ext2,312.0,312.0,312.0,280.0
+Hydrogenotrophic methanogenesis,BGP_X1_T1_Ext1,182.0,182.0,182.0,173.0
+Hydrogenotrophic methanogenesis,BGP_X1_T1_Ext2,187.0,186.0,186.0,181.0
+Hydrogenotrophic methanogenesis,BGP_X1_T2_Ext1,264.0,264.0,264.0,257.0
+Hydrogenotrophic methanogenesis,BGP_X1_T2_Ext2,231.0,231.0,231.0,218.0
+Hydrogenotrophic methanogenesis,BGP_X2_T1_Ext1,180.0,180.0,180.0,176.0
+Hydrogenotrophic methanogenesis,BGP_X2_T1_Ext2,318.0,318.0,318.0,318.0
+Hydrogenotrophic methanogenesis,BGP_X2_T2_Ext1,714.0,714.0,714.0,682.0
+Hydrogenotrophic methanogenesis,BGP_X2_T2_Ext2,564.0,564.0,564.0,541.0
+Hydrogenotrophic methanogenesis,BGP_X3_T1_Ext1,68.0,67.0,67.0,45.0
+Hydrogenotrophic methanogenesis,BGP_X3_T1_Ext2,278.0,276.0,276.0,242.0
+Hydrogenotrophic methanogenesis,BGP_X3_T2_Ext1,75.0,72.0,72.0,62.0
+Hydrogenotrophic methanogenesis,BGP_X3_T2_Ext2,525.0,523.0,523.0,368.0
+Acetoclastic methanogenesis,BGP_02_T1_Ext1,967.0,967.0,967.0,455.0
+Acetoclastic methanogenesis,BGP_02_T1_Ext2,962.0,962.0,962.0,535.0
+Acetoclastic methanogenesis,BGP_02_T2_Ext1,318.0,318.0,318.0,277.0
+Acetoclastic methanogenesis,BGP_02_T2_Ext2,280.0,280.0,280.0,235.0
+Acetoclastic methanogenesis,BGP_03_T1_Ext1,545.0,545.0,545.0,529.0
+Acetoclastic methanogenesis,BGP_03_T1_Ext2,552.0,551.0,551.0,533.0
+Acetoclastic methanogenesis,BGP_03_T2_Ext1,1173.0,1171.0,1171.0,1037.0
+Acetoclastic methanogenesis,BGP_03_T2_Ext2,1030.0,1029.0,1029.0,957.0
+Acetoclastic methanogenesis,BGP_04_T1_Ext1,780.0,780.0,780.0,772.0
+Acetoclastic methanogenesis,BGP_04_T1_Ext2,931.0,931.0,931.0,923.0
+Acetoclastic methanogenesis,BGP_04_T2_Ext1,446.0,446.0,446.0,442.0
+Acetoclastic methanogenesis,BGP_04_T2_Ext2,428.0,428.0,428.0,428.0
+Acetoclastic methanogenesis,BGP_05a_T1_Ext1,303.0,303.0,303.0,143.0
+Acetoclastic methanogenesis,BGP_05a_T1_Ext2,281.0,281.0,281.0,133.0
+Acetoclastic methanogenesis,BGP_05a_T2_Ext1,334.0,334.0,334.0,158.0
+Acetoclastic methanogenesis,BGP_05a_T2_Ext2,223.0,223.0,223.0,107.0
+Acetoclastic methanogenesis,BGP_05b_T1_Ext1,351.0,351.0,351.0,147.0
+Acetoclastic methanogenesis,BGP_05b_T1_Ext2,215.0,215.0,215.0,128.0
+Acetoclastic methanogenesis,BGP_05b_T2_Ext1,82.0,82.0,82.0,66.0
+Acetoclastic methanogenesis,BGP_05b_T2_Ext2,219.0,219.0,219.0,107.0
+Acetoclastic methanogenesis,BGP_07_T1_Ext1,259.0,255.0,255.0,254.0
+Acetoclastic methanogenesis,BGP_07_T1_Ext2,339.0,338.0,338.0,334.0
+Acetoclastic methanogenesis,BGP_07_T2_Ext1,372.0,372.0,372.0,288.0
+Acetoclastic methanogenesis,BGP_07_T2_Ext2,343.0,342.0,342.0,286.0
+Acetoclastic methanogenesis,BGP_09_T1_Ext1,209.0,209.0,209.0,152.0
+Acetoclastic methanogenesis,BGP_09_T1_Ext2,210.0,210.0,210.0,138.0
+Acetoclastic methanogenesis,BGP_09_T2_Ext1,223.0,223.0,223.0,159.0
+Acetoclastic methanogenesis,BGP_09_T2_Ext2,153.0,153.0,153.0,129.0
+Acetoclastic methanogenesis,BGP_10_T1_Ext1,193.0,193.0,193.0,165.0
+Acetoclastic methanogenesis,BGP_10_T1_Ext2,166.0,166.0,166.0,162.0
+Acetoclastic methanogenesis,BGP_10_T2_Ext1,97.0,96.0,96.0,85.0
+Acetoclastic methanogenesis,BGP_10_T2_Ext2,129.0,129.0,129.0,97.0
+Acetoclastic methanogenesis,BGP_X1_T1_Ext1,307.0,307.0,307.0,298.0
+Acetoclastic methanogenesis,BGP_X1_T1_Ext2,352.0,351.0,351.0,346.0
+Acetoclastic methanogenesis,BGP_X1_T2_Ext1,400.0,400.0,400.0,393.0
+Acetoclastic methanogenesis,BGP_X1_T2_Ext2,362.0,362.0,362.0,349.0
+Acetoclastic methanogenesis,BGP_X2_T1_Ext1,104.0,104.0,104.0,100.0
+Acetoclastic methanogenesis,BGP_X2_T1_Ext2,185.0,185.0,185.0,185.0
+Acetoclastic methanogenesis,BGP_X2_T2_Ext1,322.0,322.0,322.0,290.0
+Acetoclastic methanogenesis,BGP_X2_T2_Ext2,254.0,254.0,254.0,231.0
+Acetoclastic methanogenesis,BGP_X3_T1_Ext1,81.0,80.0,80.0,58.0
+Acetoclastic methanogenesis,BGP_X3_T1_Ext2,178.0,176.0,176.0,142.0
+Acetoclastic methanogenesis,BGP_X3_T2_Ext1,87.0,84.0,84.0,74.0
+Acetoclastic methanogenesis,BGP_X3_T2_Ext2,479.0,477.0,477.0,322.0

@@ -1,0 +1,4 @@
+script,requests_sent,cache_hits,failed,routes
+02_parse_genes.py,2900,1,0,"UniProt, NCBI Gene, Ensembl, HGNC"
+04_parse_metabolites.py,11749,1525,0,"KEGG, Rhea, UniProt, BiGG"
+03_parse_reactions.py,50,14854,0,"KEGG, UniProt, Rhea, BiGG, Reactome"

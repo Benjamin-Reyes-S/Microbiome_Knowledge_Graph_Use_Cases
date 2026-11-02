@@ -1,0 +1,16 @@
+component,route,label,total,human,other,none,noid
+reactions,RX1_kegg_ec_uniprot,KEGG>EC>UniProt,12748,2145,124,231,10248
+reactions,RX2_kegg_ko_genes,KEGG>KO>genes,12748,1899,143,458,10248
+reactions,RX3_ec_uniprot,EC>UniProt,12748,5499,145,51,7053
+reactions,RX4_rhea_uniprot,Rhea>UniProt,12748,2361,229,213,9945
+reactions,RX5_bigg_models,BiGG>models,12748,9019,585,0,3144
+reactions,RX6_bigg_ec_uniprot,BiGG>EC>UniProt,12748,1182,117,8305,3144
+reactions,RX7_reactome_species,Reactome,12748,195,0,12,12541
+genes,GX1_uniprot,UniProt,2870,2869,0,1,0
+genes,GX2_ncbigene,NCBI Gene,2870,2868,0,0,2
+genes,GX3_ensembl,Ensembl,2870,2868,0,2,0
+genes,GX4_hgnc,HGNC,2870,2860,0,10,0
+metabolites,MX1_kegg_enzyme_uniprot,KEGG>ENZYME>UniProt,4102,1489,115,268,2230
+metabolites,MX2_chebi_rhea_uniprot,ChEBI>Rhea>EC>UniProt,4102,845,179,1186,1892
+metabolites,MX3_bigg_models,BiGG>models,4102,2668,381,0,1053
+metabolites,MX4_hmdb_implied_human,HMDB (implied),4102,1734,0,0,2368

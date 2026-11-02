@@ -1,0 +1,7 @@
+pattern,n,pct
+UniProt + NCBI Gene + Ensembl + HGNC,2857,99.55
+UniProt + NCBI Gene + Ensembl,8,0.28
+UniProt + NCBI Gene + HGNC,2,0.07
+NCBI Gene + Ensembl,1,0.03
+UniProt + Ensembl,1,0.03
+UniProt + Ensembl + HGNC,1,0.03

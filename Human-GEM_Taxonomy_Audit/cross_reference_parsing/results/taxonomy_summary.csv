@@ -1,0 +1,4 @@
+component,total,human,other_only,unmappable,pct_human,pct_other_only,pct_unmappable,unmappable_no_queryable_id,unmappable_ids_but_empty,pct_human_strict,pct_other_only_strict,pct_unmappable_strict,n_patterns
+reactions,12748,11561,124,1063,90.7,1.0,8.3,999,64,48.5,1.3,50.2,74
+genes,2870,2870,0,0,100.0,0.0,0.0,0,0,100.0,0.0,0.0,6
+metabolites,4102,3491,170,441,85.1,4.1,10.8,356,85,37.8,2.9,59.3,15

@@ -1,0 +1,4 @@
+component,total,kg_human,api_human,both,only_api,only_kg,neither,kg_mapped_not_human,kg_unmappable
+reactions,12748,5534,11561,5534,6027,0,1187,303,6911
+genes,2870,2869,2870,2869,1,0,0,1,0
+metabolites,4102,1437,3491,1431,2060,6,605,352,2313

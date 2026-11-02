@@ -1,0 +1,78 @@
+pattern,n,pct
+BiGG>models,5382,42.22
+EC>UniProt + BiGG>models,1595,12.51
+EC>UniProt,1343,10.53
+no id of a queryable type,999,7.84
+KEGG>EC>UniProt + KEGG>KO>genes + EC>UniProt + Rhea>UniProt + BiGG>models + BiGG>EC>UniProt,677,5.31
+Rhea>UniProt + BiGG>models,453,3.55
+KEGG>EC>UniProt + KEGG>KO>genes + EC>UniProt + Rhea>UniProt,289,2.27
+KEGG>EC>UniProt + KEGG>KO>genes + EC>UniProt,287,2.25
+KEGG>EC>UniProt + KEGG>KO>genes + EC>UniProt + BiGG>models + BiGG>EC>UniProt,169,1.33
+KEGG>EC>UniProt + EC>UniProt + Rhea>UniProt,162,1.27
+KEGG>EC>UniProt + KEGG>KO>genes + EC>UniProt + Rhea>UniProt + BiGG>models,143,1.12
+EC>UniProt + Rhea>UniProt + BiGG>models,126,0.99
+other taxa only,124,0.97
+EC>UniProt + Rhea>UniProt,107,0.84
+Rhea>UniProt,106,0.83
+KEGG>EC>UniProt + KEGG>KO>genes + EC>UniProt + BiGG>models,87,0.68
+EC>UniProt + BiGG>models + BiGG>EC>UniProt,70,0.55
+"ids present, no taxon returned",64,0.5
+KEGG>EC>UniProt + EC>UniProt + Rhea>UniProt + BiGG>models + BiGG>EC>UniProt,40,0.31
+KEGG>EC>UniProt + EC>UniProt,37,0.29
+KEGG>EC>UniProt + KEGG>KO>genes + EC>UniProt + Rhea>UniProt + BiGG>EC>UniProt,32,0.25
+KEGG>EC>UniProt + KEGG>KO>genes + EC>UniProt + Rhea>UniProt + BiGG>models + BiGG>EC>UniProt + Reactome,31,0.24
+KEGG>EC>UniProt + EC>UniProt + Rhea>UniProt + BiGG>models,29,0.23
+EC>UniProt + BiGG>models + Reactome,22,0.17
+EC>UniProt + Reactome,22,0.17
+KEGG>KO>genes + EC>UniProt,22,0.17
+EC>UniProt + Rhea>UniProt + BiGG>models + BiGG>EC>UniProt,22,0.17
+KEGG>EC>UniProt + KEGG>KO>genes + EC>UniProt + BiGG>EC>UniProt,21,0.16
+KEGG>EC>UniProt + KEGG>KO>genes + EC>UniProt + Rhea>UniProt + Reactome,21,0.16
+KEGG>EC>UniProt + KEGG>KO>genes + EC>UniProt + Rhea>UniProt + BiGG>models + Reactome,21,0.16
+BiGG>models + BiGG>EC>UniProt,18,0.14
+EC>UniProt + BiGG>EC>UniProt,18,0.14
+KEGG>EC>UniProt + KEGG>KO>genes + Rhea>UniProt + BiGG>models + BiGG>EC>UniProt,16,0.13
+KEGG>EC>UniProt + EC>UniProt + BiGG>models + BiGG>EC>UniProt,16,0.13
+KEGG>KO>genes + EC>UniProt + BiGG>models,12,0.09
+BiGG>models + Reactome,12,0.09
+Reactome,11,0.09
+KEGG>EC>UniProt + KEGG>KO>genes + EC>UniProt + Reactome,10,0.08
+KEGG>KO>genes,9,0.07
+KEGG>KO>genes + EC>UniProt + Rhea>UniProt + BiGG>models + BiGG>EC>UniProt,9,0.07
+EC>UniProt + Rhea>UniProt + Reactome,9,0.07
+KEGG>EC>UniProt + KEGG>KO>genes + Rhea>UniProt + BiGG>models,7,0.05
+EC>UniProt + Rhea>UniProt + BiGG>EC>UniProt,7,0.05
+Rhea>UniProt + BiGG>models + BiGG>EC>UniProt,7,0.05
+EC>UniProt + Rhea>UniProt + BiGG>models + Reactome,7,0.05
+KEGG>EC>UniProt + KEGG>KO>genes + EC>UniProt + BiGG>models + Reactome,6,0.05
+KEGG>KO>genes + BiGG>models,6,0.05
+KEGG>EC>UniProt + Rhea>UniProt + BiGG>models,5,0.04
+KEGG>EC>UniProt + KEGG>KO>genes + BiGG>models + BiGG>EC>UniProt,5,0.04
+KEGG>EC>UniProt + Rhea>UniProt + BiGG>models + BiGG>EC>UniProt,5,0.04
+KEGG>EC>UniProt + EC>UniProt + Rhea>UniProt + BiGG>EC>UniProt,5,0.04
+KEGG>EC>UniProt + EC>UniProt + BiGG>models,4,0.03
+Rhea>UniProt + Reactome,3,0.02
+KEGG>EC>UniProt + EC>UniProt + Rhea>UniProt + Reactome,3,0.02
+Rhea>UniProt + BiGG>models + Reactome,3,0.02
+KEGG>KO>genes + EC>UniProt + Rhea>UniProt + Reactome,2,0.02
+KEGG>EC>UniProt + KEGG>KO>genes,2,0.02
+KEGG>EC>UniProt + EC>UniProt + BiGG>EC>UniProt,2,0.02
+KEGG>EC>UniProt + KEGG>KO>genes + EC>UniProt + BiGG>models + BiGG>EC>UniProt + Reactome,2,0.02
+KEGG>KO>genes + EC>UniProt + BiGG>models + Reactome,2,0.02
+KEGG>EC>UniProt + KEGG>KO>genes + BiGG>models,2,0.02
+KEGG>EC>UniProt + EC>UniProt + Rhea>UniProt + BiGG>models + BiGG>EC>UniProt + Reactome,2,0.02
+KEGG>EC>UniProt + Rhea>UniProt,2,0.02
+KEGG>EC>UniProt + KEGG>KO>genes + Rhea>UniProt,2,0.02
+Rhea>UniProt + BiGG>EC>UniProt,2,0.02
+KEGG>KO>genes + EC>UniProt + Rhea>UniProt,1,0.01
+KEGG>KO>genes + EC>UniProt + Reactome,1,0.01
+EC>UniProt + BiGG>models + BiGG>EC>UniProt + Reactome,1,0.01
+EC>UniProt + Rhea>UniProt + BiGG>models + BiGG>EC>UniProt + Reactome,1,0.01
+KEGG>KO>genes + EC>UniProt + Rhea>UniProt + BiGG>models,1,0.01
+KEGG>EC>UniProt + KEGG>KO>genes + EC>UniProt + Rhea>UniProt + BiGG>EC>UniProt + Reactome,1,0.01
+KEGG>EC>UniProt + EC>UniProt + Rhea>UniProt + BiGG>models + Reactome,1,0.01
+KEGG>EC>UniProt,1,0.01
+KEGG>KO>genes + EC>UniProt + BiGG>models + BiGG>EC>UniProt,1,0.01
+KEGG>KO>genes + BiGG>models + BiGG>EC>UniProt,1,0.01
+KEGG>KO>genes + Rhea>UniProt + Reactome,1,0.01
+BiGG>EC>UniProt,1,0.01
