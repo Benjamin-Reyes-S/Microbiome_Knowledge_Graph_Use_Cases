@@ -1,0 +1,150 @@
+id,taxon_group,n_proteins,n_taxa
+EC:1.1.1.110,Land plants,1,1
+EC:1.1.1.110,Bacteria,2,2
+EC:1.1.1.15,Fungi,1,1
+EC:1.1.1.15,Bacteria,1,2
+EC:1.1.1.237,Land plants,8,6
+EC:1.1.1.237,Fungi,1,1
+EC:1.1.1.237,Bacteria,2,2
+EC:1.1.1.244,Bacteria,10,6
+EC:1.1.1.28,Bacteria,35,43
+EC:1.1.1.28,Metazoa,1,1
+EC:1.1.1.28,Microbial eukaryotes,1,1
+EC:1.1.1.28,Archaea,1,2
+EC:1.1.1.28,Land plants,1,1
+EC:1.1.1.28,Fungi,1,2
+EC:1.1.1.59,Fungi,1,2
+EC:1.1.1.88,Bacteria,3,4
+EC:1.1.99.13,Bacteria,1,1
+EC:1.13.11.45,Fungi,6,8
+EC:1.13.11.45,Bacteria,1,2
+EC:1.14.14.57,Metazoa,1,1
+EC:1.14.15.-,Bacteria,3,3
+EC:1.14.15.-,Land plants,3,2
+EC:1.14.15.-,Metazoa,2,1
+EC:1.14.15.3,Bacteria,38,27
+EC:1.14.15.3,Land plants,4,2
+EC:1.14.99.-,Fungi,20,16
+EC:1.14.99.-,Land plants,6,3
+EC:1.14.99.-,Bacteria,17,17
+EC:1.14.99.-,Metazoa,5,3
+EC:1.14.99.-,Microbial eukaryotes,1,1
+EC:1.17.1.9,Bacteria,30,31
+EC:1.17.1.9,Land plants,6,5
+EC:1.17.1.9,Fungi,15,17
+EC:1.17.99.3,Metazoa,2,2
+EC:1.18.1.2,Bacteria,246,226
+EC:1.18.1.2,Land plants,30,15
+EC:1.18.1.2,Microbial eukaryotes,6,6
+EC:1.18.1.2,Archaea,10,10
+EC:1.18.1.2,Metazoa,1,1
+EC:1.2.1.-,Fungi,21,17
+EC:1.2.1.-,Land plants,17,10
+EC:1.2.1.-,Bacteria,58,58
+EC:1.2.1.16,Bacteria,11,16
+EC:1.2.1.16,Fungi,3,2
+EC:1.2.1.16,Archaea,1,2
+EC:1.2.1.29,Fungi,1,1
+EC:1.3.1.1,Bacteria,7,6
+EC:1.3.8.-,Microbial eukaryotes,1,1
+EC:1.3.8.-,Metazoa,1,1
+EC:1.3.8.-,Bacteria,13,14
+EC:1.4.3.14,Fungi,3,2
+EC:1.4.3.14,Bacteria,1,1
+EC:1.5.1.-,Bacteria,15,12
+EC:1.5.1.-,Land plants,2,2
+EC:1.5.1.-,Metazoa,1,1
+EC:1.5.1.-,Fungi,9,8
+EC:1.5.1.38,Bacteria,9,10
+EC:1.5.1.38,Microbial eukaryotes,3,3
+EC:1.5.1.38,Fungi,3,5
+EC:1.5.1.39,Bacteria,7,9
+EC:1.5.1.39,Fungi,4,5
+EC:1.5.1.41,Bacteria,4,5
+EC:1.7.3.3,Bacteria,5,5
+EC:1.7.3.3,Metazoa,21,21
+EC:1.7.3.3,Fungi,5,5
+EC:1.7.3.3,Land plants,7,5
+EC:1.7.3.3,Archaea,2,2
+EC:1.7.3.3,Microbial eukaryotes,1,1
+EC:1.8.2.1,Bacteria,3,5
+EC:1.8.2.1,Metazoa,1,1
+EC:1.8.5.-,Bacteria,80,80
+EC:1.8.5.-,Other,1,1
+EC:1.8.5.-,Fungi,1,2
+EC:2.1.1.103,Microbial eukaryotes,5,7
+EC:2.1.1.103,Metazoa,13,8
+EC:2.1.1.103,Land plants,10,6
+EC:2.1.1.98,Archaea,51,53
+EC:2.3.1.86,Fungi,33,18
+EC:2.4.2.2,Bacteria,208,210
+EC:2.4.2.2,Metazoa,1,1
+EC:2.6.1.21,Bacteria,21,25
+EC:2.6.1.21,Land plants,1,1
+EC:2.7.1.39,Bacteria,398,399
+EC:2.7.1.39,Archaea,37,38
+EC:2.7.1.39,Fungi,4,4
+EC:2.7.1.39,Microbial eukaryotes,1,1
+EC:2.7.1.39,Land plants,1,1
+EC:2.7.1.73,Bacteria,4,5
+EC:2.7.1.73,Archaea,2,2
+EC:2.7.8.8,Bacteria,10,11
+EC:2.7.8.8,Land plants,5,3
+EC:2.7.8.8,Archaea,1,1
+EC:2.7.8.8,Fungi,4,6
+EC:3.1.2.23,Bacteria,4,5
+EC:3.1.3.110,Bacteria,1,1
+EC:3.1.4.14,Bacteria,51,52
+EC:3.2.1.26,Land plants,70,25
+EC:3.2.1.26,Bacteria,32,29
+EC:3.2.1.26,Fungi,23,15
+EC:3.2.1.26,Microbial eukaryotes,2,2
+EC:3.2.1.26,Metazoa,3,2
+EC:3.2.1.84,Fungi,2,3
+EC:3.2.1.84,Land plants,1,1
+EC:3.2.1.84,Bacteria,3,4
+EC:3.2.1.84,Archaea,1,2
+EC:3.4.13.-,Bacteria,19,19
+EC:3.4.13.-,Fungi,3,3
+EC:3.4.13.-,Microbial eukaryotes,2,4
+EC:3.5.1.17,Bacteria,1,1
+EC:3.5.1.24,Bacteria,58,39
+EC:3.5.1.42,Archaea,1,2
+EC:3.5.1.42,Bacteria,9,13
+EC:3.5.2.5,Land plants,5,4
+EC:3.5.2.5,Bacteria,47,47
+EC:3.5.2.5,Metazoa,2,2
+EC:3.5.2.5,Fungi,1,1
+EC:3.5.2.5,Microbial eukaryotes,2,1
+EC:3.5.4.15,Land plants,1,1
+EC:3.5.99.14,Land plants,9,7
+EC:4.1.-.-,Bacteria,6,7
+EC:4.1.-.-,Archaea,1,1
+EC:4.2.1.55,Bacteria,4,4
+EC:4.2.1.55,Archaea,1,2
+EC:4.2.1.99,Bacteria,36,35
+EC:4.2.3.1,Bacteria,25,30
+EC:4.2.3.1,Fungi,5,7
+EC:4.2.3.1,Land plants,3,2
+EC:4.2.3.1,Microbial eukaryotes,1,1
+EC:4.2.3.1,Archaea,2,2
+EC:4.4.1.22,Fungi,15,15
+EC:4.4.1.22,Bacteria,14,14
+EC:4.4.1.22,Other,1,1
+EC:5.-.-.-,Fungi,25,20
+EC:5.-.-.-,Bacteria,7,6
+EC:5.-.-.-,Microbial eukaryotes,1,1
+EC:5.-.-.-,Metazoa,1,1
+EC:5.3.1.25,Bacteria,65,70
+EC:6.2.1.12,Bacteria,4,4
+EC:6.2.1.12,Land plants,88,43
+EC:6.2.1.12,Microbial eukaryotes,3,1
+EC:6.2.1.13,Microbial eukaryotes,3,3
+EC:6.2.1.13,Archaea,9,6
+EC:6.2.1.13,Fungi,1,1
+EC:6.3.2.4,Bacteria,593,582
+EC:6.3.2.4,Other,1,1
+EC:6.3.2.5,Fungi,1,2
+EC:6.3.2.5,Land plants,3,2
+EC:6.3.2.5,Bacteria,15,16
+EC:6.3.2.5,Archaea,2,3

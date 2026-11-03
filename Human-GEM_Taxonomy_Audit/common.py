@@ -5,19 +5,26 @@ queries against the Neo4j HTTP transaction endpoint (user neo4j, empty password)
 """
 import base64, json, re, urllib.request
 from pathlib import Path
+import os, sys
 
 import pandas as pd
 
 BASE = Path(__file__).resolve().parent
-DATA = BASE / "data"
-RESULTS = BASE / "results"
-FIGURES = BASE / "figures"
+
+# The KG endpoint is mandatory and comes from the environment (set by organizer.sh from its port argument).
+NEO4J_URL = os.getenv("NEO4J_URL")
+_m = re.match(r"^https?://[^:/]+:(\d+)/", NEO4J_URL or "")
+if not _m:
+    sys.exit("NEO4J_URL is not set or has no port. Run the pipeline via: ./organizer.sh <port>")
+VERSION_KG = f"KG_port{_m.group(1)}"   # one output folder per KG version
+
+OUT = BASE / VERSION_KG
+DATA, RESULTS, FIGURES = OUT / "data", OUT / "results", OUT / "figures"
 for p in (DATA, RESULTS, FIGURES):
-    p.mkdir(exist_ok=True)
+    p.mkdir(parents=True, exist_ok=True)
 
 MODEL_XML = BASE / "Human-GEM.xml"
 HUMAN = "NCBITaxon:9606"
-NEO4J_URL = "http://localhost:8004/db/neo4j/tx/commit"
 _WRITE = re.compile(r"\b(CREATE|MERGE|SET|DELETE|REMOVE|DROP|LOAD\s+CSV|FOREACH|CALL\s*\{|apoc\.(create|merge|periodic))\b", re.I)
 
 

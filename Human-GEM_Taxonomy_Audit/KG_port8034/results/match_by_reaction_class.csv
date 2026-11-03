@@ -1,0 +1,6 @@
+reaction_class,matched_human,mapped_not_human,unmappable,total
+artificial,1,0,16,17
+exchange_demand,0,0,1654,1654
+isolated,115,6,34,155
+metabolic,5144,241,1011,6396
+transport,320,10,4196,4526

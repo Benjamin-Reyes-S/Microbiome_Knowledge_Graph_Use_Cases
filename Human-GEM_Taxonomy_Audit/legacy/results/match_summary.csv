@@ -1,0 +1,4 @@
+entity,total,matched_human,mapped_not_human,unmappable,pct_matched_human
+genes,2870,2869,1,0,100.0
+reactions,12748,5534,303,6911,43.4
+metabolites (unique),4102,1437,352,2313,35.0

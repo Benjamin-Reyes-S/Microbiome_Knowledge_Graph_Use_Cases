@@ -1,0 +1,10 @@
+component,unmatched,rescue_potential,n,pct
+reactions,7168,"no KG-usable id, but another id type (new KG xref / mapping would rescue)",6378,89.0
+reactions,7168,no identifier at all (only name / stoichiometry / structure),529,7.4
+reactions,7168,"has KG-usable id (mapped, but no human route in KG)",261,3.6
+reactions (metabolic/isolated only),1292,"no KG-usable id, but another id type (new KG xref / mapping would rescue)",859,66.5
+reactions (metabolic/isolated only),1292,"has KG-usable id (mapped, but no human route in KG)",251,19.4
+reactions (metabolic/isolated only),1292,no identifier at all (only name / stoichiometry / structure),182,14.1
+metabolites,2655,"no KG-usable id, but another id type (new KG xref / mapping would rescue)",2084,78.5
+metabolites,2655,"has KG-usable id (mapped, but no human route in KG)",425,16.0
+metabolites,2655,no identifier at all (only name / stoichiometry / structure),146,5.5

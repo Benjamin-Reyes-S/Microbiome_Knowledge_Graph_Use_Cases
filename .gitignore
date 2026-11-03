@@ -2,3 +2,6 @@ data_MPA_Pathway_tool/
 *.md
 !/README.md
 *.pdf
+
+# file types with files over 100 MB (gitignore cannot filter by size)
+*.sqlite

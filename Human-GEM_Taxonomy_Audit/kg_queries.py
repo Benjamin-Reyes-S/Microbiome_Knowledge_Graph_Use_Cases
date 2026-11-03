@@ -89,16 +89,19 @@ RETURN i AS id, p.taxon_group AS taxon_group, count(DISTINCT p) AS n_proteins, c
 # =====================================================================================================================
 GENES = {}
 
-# every Gene node with its symbols, UniProt/RefSeq xrefs and KO memberships
+# NOTE: the expanded KG has ~8.4M Gene nodes (LocusTag, NCBIGene, EMBLCDS, KEGG), so every gene query is restricted
+# to the model's gene ids ($ids = the KEGG:hsa:<entrez> ids in Human_GEM_genes.csv, written by 02).
+
+# the Gene nodes for the model's ids, with symbols, UniProt/RefSeq xrefs and KO memberships
 GENES["G_NODES"] = """
-MATCH (g:Gene)
+MATCH (g:Gene) WHERE g.id IN $ids
 OPTIONAL MATCH (g)-[:MEMBER_OF]->(k:KeggOrthology)
 RETURN g.id AS id, g.symbols AS symbols, g.xrefs AS xrefs, collect(DISTINCT k.id) AS kos
 """
 
 # G1: gene xref UniProtKB:<acc> -> Protein with taxon edge to human                [strong]
 GENES["G1_uniprot_protein"] = """
-MATCH (g:Gene)
+MATCH (g:Gene) WHERE g.id IN $ids
 UNWIND [x IN g.xrefs WHERE x STARTS WITH 'UniProtKB:'] AS u
 MATCH (p:Protein {id:u})-[:BELONGS_TO]->(:Taxon {id:$h})
 RETURN g.id AS id, count(DISTINCT p) AS n_support
@@ -106,19 +109,21 @@ RETURN g.id AS id, count(DISTINCT p) AS n_support
 
 # G2: gene -> KO <- human protein                                                    [supporting; KO membership is broad]
 GENES["G2_ko_protein"] = """
-MATCH (g:Gene)-[:MEMBER_OF]->(:KeggOrthology)<-[:MEMBER_OF]-(p:Protein)-[:BELONGS_TO]->(:Taxon {id:$h})
+MATCH (g:Gene) WHERE g.id IN $ids
+MATCH (g)-[:MEMBER_OF]->(:KeggOrthology)<-[:MEMBER_OF]-(p:Protein)-[:BELONGS_TO]->(:Taxon {id:$h})
 RETURN g.id AS id, count(DISTINCT p) AS n_support
 """
 
 # G3: Gene id has the KEGG human prefix hsa (organism code, not a taxon edge)        [supporting, edge_type = id-prefix]
 GENES["G3_hsa_prefix"] = """
-MATCH (g:Gene) WHERE g.id STARTS WITH 'KEGG:hsa:'
+MATCH (g:Gene) WHERE g.id IN $ids AND g.id STARTS WITH 'KEGG:hsa:'
 RETURN g.id AS id
 """
 
 # check, expected 0 in this KG: direct taxon edge on Gene
 GENES["G_direct_taxon_edge_check"] = """
-MATCH (g:Gene)-[r]-(:Taxon {id:$h})
+MATCH (g:Gene) WHERE g.id IN $ids
+MATCH (g)-[r]-(:Taxon {id:$h})
 RETURN type(r) AS edge_type, count(DISTINCT g) AS n
 """
 

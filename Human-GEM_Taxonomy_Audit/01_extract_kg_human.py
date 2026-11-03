@@ -1,5 +1,7 @@
 """Run the queries of kg_queries.py and write one table per entity type: KG_human_{reactions,genes,metabolites}.csv.
-One row per KG node; one boolean column per route plus its n_support count. Nothing else queries the KG."""
+Reactions and metabolites: one row per KG node. Genes: one row per KG Gene node for the model's gene ids only (the expanded KG has
+~8.4M Gene nodes), so this script needs Human_GEM_genes.csv from 02 (organizer.sh runs 02 first).
+One boolean column per route plus its n_support count."""
 import pandas as pd
 import common as c
 import kg_queries as q
@@ -13,10 +15,12 @@ def run(section, name, **p):
     return rows
 
 
-def add_routes(df, section, routes):
+def add_routes(df, section, routes, **extra):
     """routes: {column_prefix: query_name}; adds <prefix> (bool) and <prefix>_n (support count)."""
     for col, name in routes.items():
-        hit = pd.DataFrame(run(section, name, h=H))
+        hit = pd.DataFrame(run(section, name, h=H, **extra))
+        if hit.empty:
+            hit = pd.DataFrame({"id": [], "n_support": []})
         n = dict(zip(hit.id, hit.n_support)) if "n_support" in hit else {i: 1 for i in hit.id}
         df[col] = df.id.isin(n)
         df[col + "_n"] = df.id.map(n).fillna(0).astype(int)
@@ -37,15 +41,20 @@ r["strong_human"] = r.R1_enzyme_protein | r.R2_ko_protein
 r.to_csv(c.RESULTS / "KG_human_reactions.csv", index=False)
 
 # ---- genes ---------------------------------------------------------------------------------------------------------
-g = pd.DataFrame(run(q.GENES, "G_NODES"))
+mg = c.RESULTS / "Human_GEM_genes.csv"
+if not mg.exists():
+    raise SystemExit(f"{mg} missing: run 02_extract_human_gem.py first (organizer.sh does)")
+gene_ids = sorted({x for s in pd.read_csv(mg).kg_gene.dropna() for x in s.split(";") if x})
+print(f"model gene ids to look up in the KG: {len(gene_ids)}")
+g = pd.DataFrame(run(q.GENES, "G_NODES", ids=gene_ids))
 g["symbols"], g["xrefs"], g["kos"] = g.symbols.map(join), g.xrefs.map(join), g.kos.map(join)
 g = add_routes(g, q.GENES, {"G1_uniprot_protein": "G1_uniprot_protein", "G2_ko_protein": "G2_ko_protein",
-                            "G3_hsa_prefix": "G3_hsa_prefix"})
+                            "G3_hsa_prefix": "G3_hsa_prefix"}, ids=gene_ids)
 g["edge_type"] = "none (no taxon edge on Gene)"
 g.loc[g.G1_uniprot_protein, "edge_type"] = "Protein-BELONGS_TO (via UniProt xref)"
 g["strong_human"] = g.G1_uniprot_protein
 g.to_csv(c.RESULTS / "KG_human_genes.csv", index=False)
-print("direct Gene-Taxon edges (expect none):", run(q.GENES, "G_direct_taxon_edge_check", h=H))
+print("direct Gene-Taxon edges (expect none):", run(q.GENES, "G_direct_taxon_edge_check", h=H, ids=gene_ids))
 
 # ---- metabolites ---------------------------------------------------------------------------------------------------
 m = pd.DataFrame(run(q.METABOLITES, "M_NODES"))
