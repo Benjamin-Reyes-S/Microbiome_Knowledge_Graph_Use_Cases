@@ -1,0 +1,27 @@
+Metabolites NOT matched to the KG (KG port 8034) with ChEBI ids: 10 per model, the ones used in the most reactions
+Columns (tab-separated): metabolite_id | name | status | n_reactions | chebi_ids (;-separated)
+status: mapped_not_taxon = compound in KG but no route to the model's taxon; unmappable = compound not in KG
+
+## E. coli iML1515
+q8h2	Ubiquinol-8	unmappable	25	CHEBI:61682
+mql8	Menaquinol 8	unmappable	25	CHEBI:61684
+q8	Ubiquinone-8	mapped_not_taxon	23	CHEBI:61683
+mqn8	Menaquinone 8	unmappable	23	CHEBI:44027
+na1	Sodium	mapped_not_taxon	17	CHEBI:26717;CHEBI:29101;CHEBI:49766;CHEBI:9175
+g3pg	Glycerophosphoglycerol	mapped_not_taxon	16	CHEBI:5457;CHEBI:61933
+2dmmql8	2-Demethylmenaquinol 8	unmappable	14	CHEBI:61873
+r5p	Alpha-D-Ribose 5-phosphate	mapped_not_taxon	12	CHEBI:10270;CHEBI:12331;CHEBI:18189;CHEBI:22413
+2dmmq8	2-Demethylmenaquinone 8	unmappable	11	CHEBI:48455
+udcpdp	Undecaprenyl diphosphate	unmappable	10	CHEBI:15284;CHEBI:17047;CHEBI:27192;CHEBI:53042;CHEBI:57995;CHEBI:9863
+
+## Human-GEM
+MAM02519	Na+	mapped_not_human	546	CHEBI:29101
+MAM02900	S-glutathionyl-2-4-dinitrobenzene	mapped_not_human	55	CHEBI:133977
+MAM02136	homoserine	mapped_not_human	47	CHEBI:15699
+MAM00119	(7Z,10Z,13Z,16Z)-docosatetraenoyl-CoA	mapped_not_human	21	CHEBI:63544
+MAM02147	hydroxide	mapped_not_human	19	CHEBI:16234
+MAM02971	tetracosanoyl-CoA	mapped_not_human	19	CHEBI:52974
+MAM00121	(7Z,10Z,13Z,16Z,19Z)-docosapentaenoyl-CoA	mapped_not_human	19	CHEBI:63541
+MAM00025	(15Z)-tetracosenoyl-CoA	mapped_not_human	18	CHEBI:74128
+MAM02543	N-acetylneuraminate	mapped_not_human	18	CHEBI:45744
+MAM02101	heptadecanoyl-CoA	unmappable	17	CHEBI:74307

@@ -1,0 +1,41 @@
+component,group,namespace,n,group_size,pct,kg_usable
+reactions,matched to human,biocyc,3,323,0.9,False
+reactions,matched to human,ec-code,323,323,100.0,True
+reactions,matched to human,kegg.reaction,322,323,99.7,True
+reactions,matched to human,metanetx.reaction,310,323,96.0,False
+reactions,matched to human,reactome,9,323,2.8,False
+reactions,matched to human,reactome.reaction,3,323,0.9,False
+reactions,matched to human,rhea,270,323,83.6,False
+reactions,matched to human,sabiork,3,323,0.9,False
+reactions,matched to human,seed.reaction,3,323,0.9,False
+reactions,matched to human,tcdb,0,323,0.0,False
+reactions,unmatched: exchange / artificial,biocyc,0,159,0.0,False
+reactions,unmatched: exchange / artificial,ec-code,1,159,0.6,True
+reactions,unmatched: exchange / artificial,kegg.reaction,0,159,0.0,True
+reactions,unmatched: exchange / artificial,metanetx.reaction,50,159,31.4,False
+reactions,unmatched: exchange / artificial,reactome,0,159,0.0,False
+reactions,unmatched: exchange / artificial,reactome.reaction,0,159,0.0,False
+reactions,unmatched: exchange / artificial,rhea,8,159,5.0,False
+reactions,unmatched: exchange / artificial,sabiork,0,159,0.0,False
+reactions,unmatched: exchange / artificial,seed.reaction,0,159,0.0,False
+reactions,unmatched: exchange / artificial,tcdb,23,159,14.5,False
+reactions,unmatched: metabolic / isolated,biocyc,0,11,0.0,False
+reactions,unmatched: metabolic / isolated,ec-code,4,11,36.4,True
+reactions,unmatched: metabolic / isolated,kegg.reaction,9,11,81.8,True
+reactions,unmatched: metabolic / isolated,metanetx.reaction,7,11,63.6,False
+reactions,unmatched: metabolic / isolated,reactome,0,11,0.0,False
+reactions,unmatched: metabolic / isolated,reactome.reaction,0,11,0.0,False
+reactions,unmatched: metabolic / isolated,rhea,4,11,36.4,False
+reactions,unmatched: metabolic / isolated,sabiork,0,11,0.0,False
+reactions,unmatched: metabolic / isolated,seed.reaction,0,11,0.0,False
+reactions,unmatched: metabolic / isolated,tcdb,0,11,0.0,False
+reactions,unmatched: transport,biocyc,0,67,0.0,False
+reactions,unmatched: transport,ec-code,3,67,4.5,True
+reactions,unmatched: transport,kegg.reaction,1,67,1.5,True
+reactions,unmatched: transport,metanetx.reaction,50,67,74.6,False
+reactions,unmatched: transport,reactome,0,67,0.0,False
+reactions,unmatched: transport,reactome.reaction,0,67,0.0,False
+reactions,unmatched: transport,rhea,4,67,6.0,False
+reactions,unmatched: transport,sabiork,0,67,0.0,False
+reactions,unmatched: transport,seed.reaction,0,67,0.0,False
+reactions,unmatched: transport,tcdb,27,67,40.3,False

@@ -1,0 +1,15 @@
+id,taxon_group,n_proteins,n_taxa
+KEGG:R00185,Metazoa,1,1
+KEGG:R00303,Metazoa,3,1
+KEGG:R00328,Metazoa,7,1
+KEGG:R00514,Metazoa,3,1
+KEGG:R00610,Metazoa,1,1
+KEGG:R00923,Metazoa,1,1
+KEGG:R00943,Metazoa,2,1
+KEGG:R01036,Metazoa,3,1
+KEGG:R01175,Metazoa,8,1
+KEGG:R01184,Metazoa,1,1
+KEGG:R01280,Metazoa,10,1
+KEGG:R01326,Metazoa,8,1
+KEGG:R01658,Metazoa,2,1
+KEGG:R09520,Metazoa,2,1

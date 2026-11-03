@@ -1,0 +1,29 @@
+component,group,namespace,n,group_size,pct,kg_usable
+metabolites,matched to E. coli K-12,biocyc,698,718,97.2,False
+metabolites,matched to E. coli K-12,chebi,701,718,97.6,False
+metabolites,matched to E. coli K-12,envipath,134,718,18.7,False
+metabolites,matched to E. coli K-12,hmdb,490,718,68.2,False
+metabolites,matched to E. coli K-12,inchi_key,681,718,94.8,False
+metabolites,matched to E. coli K-12,kegg.compound,718,718,100.0,True
+metabolites,matched to E. coli K-12,kegg.drug,94,718,13.1,False
+metabolites,matched to E. coli K-12,kegg.glycan,25,718,3.5,False
+metabolites,matched to E. coli K-12,lipidmaps,111,718,15.5,False
+metabolites,matched to E. coli K-12,metanetx.chemical,718,718,100.0,False
+metabolites,matched to E. coli K-12,reactome.compound,326,718,45.4,False
+metabolites,matched to E. coli K-12,sabiork,554,718,77.2,False
+metabolites,matched to E. coli K-12,seed.compound,710,718,98.9,False
+metabolites,matched to E. coli K-12,slm,34,718,4.7,False
+metabolites,unmatched,biocyc,192,451,42.6,False
+metabolites,unmatched,chebi,151,451,33.5,False
+metabolites,unmatched,envipath,15,451,3.3,False
+metabolites,unmatched,hmdb,88,451,19.5,False
+metabolites,unmatched,inchi_key,215,451,47.7,False
+metabolites,unmatched,kegg.compound,78,451,17.3,True
+metabolites,unmatched,kegg.drug,12,451,2.7,False
+metabolites,unmatched,kegg.glycan,7,451,1.6,False
+metabolites,unmatched,lipidmaps,47,451,10.4,False
+metabolites,unmatched,metanetx.chemical,396,451,87.8,False
+metabolites,unmatched,reactome.compound,23,451,5.1,False
+metabolites,unmatched,sabiork,57,451,12.6,False
+metabolites,unmatched,seed.compound,263,451,58.3,False
+metabolites,unmatched,slm,41,451,9.1,False

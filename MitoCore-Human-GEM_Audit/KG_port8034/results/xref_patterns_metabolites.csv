@@ -1,0 +1,4 @@
+pattern,n,pct
+(no identifier),5,71.4
+chebi;hmdb;kegg.compound;metanetx.chemical;pubchem.compound,1,14.3
+kegg.compound;metanetx.chemical,1,14.3

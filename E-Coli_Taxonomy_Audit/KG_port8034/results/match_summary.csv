@@ -1,0 +1,4 @@
+entity,total,matched_taxon,mapped_not_taxon,unmappable,species_only,pct_matched_taxon
+genes,1516,1514,0,2,0,99.9
+reactions,2712,940,137,1635,1,34.7
+metabolites (unique),1169,718,78,373,4,61.4

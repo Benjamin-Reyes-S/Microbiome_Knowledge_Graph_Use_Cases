@@ -1,0 +1,238 @@
+id,name,subsystem,reaction_class,compartments,status,kegg_reaction,ec,genes,copy,ec_hier,participants,part_cands,gene,other_taxa,other_taxa_groups,other_taxa_proteins,final_category
+EX_2hb_e,EX_2hb_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_ac_e,EX_ac_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_acac_e,EX_acac_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_akg_e,EX_akg_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_ala_B_e,EX_ala_B_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_ala_L_e,EX_ala_L_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_arg_L_e,EX_arg_L_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_argsuc_e,EX_argsuc_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_asn_L_e,EX_asn_L_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_asp_L_e,EX_asp_L_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_bhb_e,EX_bhb_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_bilirub_e,EX_bilirub_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_biomass_e,EX_biomass_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_but_e,EX_but_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_chol_e,EX_chol_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_cit_e,EX_cit_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_citr_L_e,EX_citr_L_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_co_e,EX_co_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_co2_e,EX_co2_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_creat_e,EX_creat_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_cyan_e,EX_cyan_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_cys_L_e,EX_cys_L_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_etoh_e,EX_etoh_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_fe2_e,EX_fe2_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_for_e,EX_for_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_fum_e,EX_fum_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_glc_D_e,EX_glc_D_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_gln_L_e,EX_gln_L_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_glu_L_e,EX_glu_L_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_gly_e,EX_gly_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_glyc_e,EX_glyc_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_h_e,EX_h_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_h2o_e,EX_h2o_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_HC00250_e,EX_HC00250_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_hco3_e,EX_hco3_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_hdca_e,EX_hdca_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_his_L_e,EX_his_L_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_icit_e,EX_icit_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_ile_L_e,EX_ile_L_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_lac_L_e,EX_lac_L_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_leu_L_e,EX_leu_L_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_lys_L_e,EX_lys_L_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_mal_L_e,EX_mal_L_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_mercplac_e,EX_mercplac_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_met_L_e,EX_met_L_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_nad_e,EX_nad_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_nadh_e,EX_nadh_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_nh4_e,EX_nh4_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_no_e,EX_no_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_o2_e,EX_o2_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_oaa_e,EX_oaa_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_pchol_hs_e,EX_pchol_hs_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_pcreat_e,EX_pcreat_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_pe_hs_e,EX_pe_hs_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_phe_L_e,EX_phe_L_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_pi_e,EX_pi_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_ppa_e,EX_ppa_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_pro_L_e,EX_pro_L_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_ps_hs_e,EX_ps_hs_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_ser_L_e,EX_ser_L_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_so3_e,EX_so3_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_succ_e,EX_succ_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_tcynt_e,EX_tcynt_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_thr_L_e,EX_thr_L_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_trp_L_e,EX_trp_L_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_tsul_e,EX_tsul_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_tyr_L_e,EX_tyr_L_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_urea_e,EX_urea_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_val_L_e,EX_val_L_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+EX_fol_e,EX_fol_e,(none),exchange_demand,External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+OF_ATP_MitoCore,R_OF_ATP_MitoCore Maximum ATP production (ATP hydrolysis),Objective Function - ATP,artificial,Cytosol,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+OF_HEME_MitoCore,R_OF_HEME_MitoCore Maximum Heme production,Objective Function - Heme,artificial,Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+OF_LIPID_MitoCore,R_OF_LIPID_MitoCore Maximum lipid synthesis (Mito Inner Membrane),Objective Function - Lipid synthesis,artificial,Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+OF_PROTEIN_MitoCore,R_OF_PROTEIN_MitoCore Maxmium production of amino acids for protein synthesis,Objective Function - Protein Synthesis,artificial,Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+CI_MitoCore,R_CI_MitoCore NADH dehydrogenase,Electron transport chain CI,transport,Cytosol;Mitochondrion,mapped_not_human,KEGG:R00281;KEGG:R02163;KEGG:R02166,EC:1.6.5.3;EC:1.6.5.8;EC:1.6.5.9,ENSG00000004779;ENSG00000023228;ENSG00000065518;ENSG00000090266;ENSG00000099795;ENSG00000109390;ENSG00000110717;ENSG000001152863;ENSG00000119013;ENSG00000119421;ENSG00000128609;ENSG00000130414;ENSG00000131495;ENSG00000136521;ENSG00000139180;ENSG00000140990;ENSG00000145494;ENSG00000147123;ENSG00000147684;ENSG00000151366;ENSG00000158864;ENSG00000160194;ENSG00000164258;ENSG00000165264;ENSG00000166136;ENSG00000167792;ENSG00000168653;ENSG00000170906;ENSG00000174886;ENSG00000178127;ENSG00000183648;ENSG00000184752;ENSG00000184983;ENSG00000185633;ENSG00000186010;ENSG00000189043;ENSG00000198695;ENSG00000198763;ENSG00000198786;ENSG00000198840;ENSG00000198886;ENSG00000198888;ENSG00000212907;ENSG00000213619;ENSG00000267855,False,False,False,,True,True,Bacteria;Fungi;Land plants,37,other_taxa_only
+NNT_MitoCore,R_NNT_MitoCore NADP+ + NADH --> NADPH + NAD+,TCA cycle periphery,metabolic,Cytosol;Mitochondrion,mapped_not_human,KEGG:R00112,EC:1.6.1.2,ENSG00000112992,False,False,False,,True,False,,0,gene_supported_only
+AKGMALtm,R_AKGMALtm Malate - Oxoglutarate (OGC) Antiporter,Malate aspartate shuttle,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000108528,False,False,False,,True,False,,0,gene_supported_only
+ASPGLUmB_MitoCore,R_ASPGLUmB_MitoCore Glutamate/Aspartate Antiporter (AGC1) - glutamate (in) for aspartate (out),Malate aspartate shuttle,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000004864;ENSG00000115840,False,False,False,,True,False,,0,gene_supported_only
+r2435,"R_r2435 carnitine carrier - Carnitine out, acyl carnitine in",Carnitine shuttle,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000178537,False,False,False,,True,False,,0,gene_supported_only
+r1155,R_r1155 2-oxobutanoate transport into mitochondrion,Threonine degradation,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000100156;ENSG00000108932;ENSG00000118596;ENSG00000141526;ENSG00000155380;ENSG00000168679;ENSG00000170190,False,False,False,,True,False,,0,gene_supported_only
+METAT2_MitoCore,R_METAT2_MitoCore S-Adenosyl-L-methionine + demethylated methyl donor --> S-Adenosyl-L-homocysteine + methyl donor,Methionine degradation,metabolic,Cytosol,unmappable,,,,False,False,False,KEGG:R10404,False,False,,0,no_evidence
+3SPYRSP,R_3SPYRSP 3-Sulfinylpyruvate + H2O --> Sulfite + Pyruvate,Cysteine degradation I,metabolic,Cytosol,mapped_not_human,KEGG:R04861,,ENSG00000139133,False,False,False,KEGG:R04861,True,False,,0,gene_supported_only
+AMCOXO,R_AMCOXO 2-Aminomuconate + NADPH + H+ + H2O --> 2-Oxoadipate + Ammonia + NADP+,Tryptophan Metabolism,metabolic,Cytosol,mapped_not_human,KEGG:R01938,,,False,False,False,KEGG:R01938,False,False,,0,no_evidence
+AMCOXO2_MitoCore,R_AMCOXO2_MitoCore 2-Aminomuconate + NADH + H+ + H2O --> 2-Oxoadipate + NH3 + NAD+,Tryptophan Metabolism,metabolic,Cytosol,mapped_not_human,KEGG:R01937,,,False,False,False,KEGG:R01937,False,False,,0,no_evidence
+2OXOADPTmB_MitoCore,R_2OXOADPTmB_MitoCore oxodicarboxylate carrier (ODC) - oxoadipate (in) for oxoglutarate (out),Tryptophan Metabolism,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000183032,False,False,False,,True,False,,0,gene_supported_only
+2OXOADPTmC_MitoCore,R_2OXOADPTmC_MitoCore oxodicarboxylate carrier (ODC) reverse - oxoadipate (out) for oxoglutarate (in),Tryptophan Metabolism,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000183032,False,False,False,,True,False,,0,gene_supported_only
+PPD2CSPc_MitoCore,R_PPD2CSPc_MitoCore 6-Amino-2-oxohexanoate --> delta1-Piperideine-2-carboxylate + H2O,Lysine degradation (L-pipecolate pathway),metabolic,Cytosol,mapped_not_human,KEGG:R04175,,,False,False,False,KEGG:R04175,False,False,,0,no_evidence
+2AMADPTmB_MitoCore,R_2AMADPTmB_MitoCore Oxodicarboxylate carrier (ODC) - L-aminoadipate (in) for oxoglutarate (out),Lysine degradation (L-pipecolate pathway),transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000183032,False,False,False,,True,False,,0,gene_supported_only
+2AMADPTmC_MitoCore,R_2AMADPTmC_MitoCore Oxodicarboxylate carrier (ODC) reverse - L-aminoadipate (out) for oxoglutarate (in),Lysine degradation (L-pipecolate pathway),transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000183032,False,False,False,,True,False,,0,gene_supported_only
+G5SADrm,R_G5SADrm L-Glutamate 5-semialdehyde --> (S)-1-Pyrroline-5-carboxylate + H2O,Proline degradation/synthesis,metabolic,Mitochondrion,mapped_not_human,KEGG:R03314,EC:1.5.1.12,ENSG00000159423,False,False,False,KEGG:R03314,True,False,,0,gene_supported_only
+4aabutn_MitoCore,R_4aabutn_MitoCore 4-Acetamidobutanoate + H2O --> 4-Aminobutanoate + Acetate,Arginine degradation,metabolic,Mitochondrion,mapped_not_human,KEGG:R01987,EC:3.5.1.63,,False,False,False,KEGG:R01987,False,False,,0,no_evidence
+4ABUTtm,R_4ABUTtm 4-aminobutanoate (GABA) mitochondrial transport,GABA shunt - transport,transport,Cytosol;Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+AOBUTDsm,R_AOBUTDsm L-2-Amino-3-oxobutanoic acid --> Aminoacetone + CO2,Glycine degradation,metabolic,Mitochondrion,mapped_not_human,KEGG:R03758,EC:1.1.1.381,,False,False,False,KEGG:R03758,False,True,Bacteria;Fungi,8,other_taxa_only
+ACALDtm,R_ACALDtm Acetaldehyde diffusion into mitochondrion,Alcohol metabolism,transport,Cytosol;Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+5AOPtm,R_5AOPtm 5-Aminolevulinate transport out of mitochondrion,Haem Synthesis,transport,Cytosol;Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+PHEMEtm,R_PHEMEtm Heme transport out of mitochondrion,Haem Synthesis,metabolic,Cytosol;Mitochondrion,unmappable,,,ENSG00000076351,False,False,False,,True,False,,0,gene_supported_only
+GLYC3Ptm,R_GLYC3Ptm Glycerol 3-phosphate transport - diffusion,Cardiolipin synthesis,transport,Cytosol;Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+CLPN_MitoCore,R_CLPN_MitoCore 2 Phosphatidylglycerol --> Cardiolipin + Glycerol,Cardiolipin synthesis,metabolic,Mitochondrion,mapped_not_human,KEGG:R07390,,ENSG00000088766,False,False,False,KEGG:R07390,True,False,,0,gene_supported_only
+CITtamB,R_CITtamB Citrate Carrier (CIC) - Citrate for Malate,Mitochondrial transporters - characterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000100075,False,False,False,,True,False,,0,gene_supported_only
+r0913,R_r0913 Citrate Carrier (CIC) - Isocitrate for Malate,Mitochondrial transporters - characterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000100075,False,False,False,,True,False,,0,gene_supported_only
+CITtbm,R_CITtbm Citrate Carrier (CIC) - Citrate for PEP,Mitochondrial transporters - characterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000100075,False,False,False,,True,False,,0,gene_supported_only
+r0917,R_r0917 Citrate Carrier (CIC) - Citrate for Isocitrate,Mitochondrial transporters - characterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000100075,False,False,False,,True,False,,0,gene_supported_only
+r0917b_MitoCore,R_r0917b_MitoCore Citrate Carrier (CIC) - Citrate for Isocitrate,Mitochondrial transporters - characterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000100075,False,False,False,,True,False,,0,gene_supported_only
+PIt2mB_MitoCore,R_PIt2mB_MitoCore Phosphate carrier (PIC) - Symport phosphate and H+ together,Mitochondrial transporters - characterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000075415,False,False,False,,True,False,,0,gene_supported_only
+HtmB_MitoCore,R_HtmB_MitoCore UCP uncoupling protein - Proton Cyto to Proton Mito,Mitochondrial transporters - characterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000102078;ENSG00000109424;ENSG00000153291;ENSG00000175564;ENSG00000175567,False,False,False,,True,False,,0,gene_supported_only
+MALtm,R_MALtm Dicarboxylate carrier (DIC) - antiport malate for phosphate,Mitochondrial transporters - characterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000183048,False,False,False,,True,False,,0,gene_supported_only
+MALSO3tm,R_MALSO3tm Dicarboxylate carrier (DIC) - antiport malate for sulfite,Mitochondrial transporters - characterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000183048,False,False,False,,True,False,,0,gene_supported_only
+MALTSULtm,R_MALTSULtm Dicarboxylate carrier (DIC) - antiport malate for thiosulfate,Mitochondrial transporters - characterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000183048,False,False,False,,True,False,,0,gene_supported_only
+MALSO4tm,R_MALSO4tm Dicarboxylate carrier (DIC) - antiport malate for sulfate,Mitochondrial transporters - characterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000183048,False,False,False,,True,False,,0,gene_supported_only
+SUCCt2m,R_SUCCt2m Dicarboxylate carrier (DIC) - antiport succinate for phosphate,Mitochondrial transporters - characterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000183048,False,False,False,,True,False,,0,gene_supported_only
+r0830,R_r0830 Dicarboxylate carrier (DIC) - antiport succinate for sulfite,Mitochondrial transporters - characterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000183048,False,False,False,,True,False,,0,gene_supported_only
+r0830B_MitoCore,R_r0830B_MitoCore Dicarboxylate carrier (DIC) - antiport succinate for thiosulfate,Mitochondrial transporters - characterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000183048,False,False,False,,True,False,,0,gene_supported_only
+r0829,R_r0829 Dicarboxylate carrier (DIC) - antiport succinate for sulfate,Mitochondrial transporters - characterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000183048,False,False,False,,True,False,,0,gene_supported_only
+SUCCt3m_MitoCore,R_SUCCt3m_MitoCore Dicarboxylate carrier (DIC) - antiport succinate for malate,Mitochondrial transporters - characterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000183048,False,False,False,,True,False,,0,gene_supported_only
+COAtmB_MitoCore,R_COAtmB_MitoCore CoA carrier (CoAPC) - antiport CoA for AMP,Mitochondrial transporters - characterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000181035,False,False,False,,True,False,,0,gene_supported_only
+COAtmC_MitoCore,R_COAtmC_MitoCore CoA carrier (CoAPC) - antiport CoA for ADP,Mitochondrial transporters - characterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000181035,False,False,False,,True,False,,0,gene_supported_only
+GLUt2mB_MitoCore,R_GLUt2mB_MitoCore Glutamate Carrier (GC2) - Symport L-glutamate with proton together,Mitochondrial transporters - characterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000177542;ENSG00000182902,False,False,False,,True,False,,0,gene_supported_only
+ORNt4mB_MitoCore,R_ORNt4mB_MitoCore Ornithine carrier (ORC1) - antiport ornithine for citrulline,Mitochondrial transporters - characterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000102743;ENSG00000120329,False,False,False,,True,False,,0,gene_supported_only
+r2398B_MitoCore,R_r2398B_MitoCore Ornithine carrier (ORC1) - antiport lysine for citrulline,Mitochondrial transporters - characterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000102743;ENSG00000120329,False,False,False,,True,False,,0,gene_supported_only
+r2402B_MitoCore,R_r2402B_MitoCore Ornithine carrier (ORC1) - arginine for citrulline,Mitochondrial transporters - characterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000102743;ENSG00000120329,False,False,False,,True,False,,0,gene_supported_only
+LYStmB_MitoCore,R_LYStmB_MitoCore Basic amino acid carrier (hBAC) - lysine,Mitochondrial transporters - characterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000102743;ENSG00000120329;ENSG00000197119,False,False,False,,True,False,,0,gene_supported_only
+ORNt3mB_MitoCore,R_ORNt3mB_MitoCore Basic amino acid carrier (hBAC) - ornithine,Mitochondrial transporters - characterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000102743;ENSG00000120329;ENSG00000197119,False,False,False,,True,False,,0,gene_supported_only
+ARGtmB_MitoCore,R_ARGtmB_MitoCore Basic amino acid carrier (hBAC) - arginine,Mitochondrial transporters - characterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000102743;ENSG00000120329;ENSG00000197119,False,False,False,,True,False,,0,gene_supported_only
+r1427,R_r1427 Basic amino acid carrier (hBAC) - L-histidine,Mitochondrial transporters - characterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000197119,False,False,False,,True,False,,0,gene_supported_only
+PYRt2m,R_PYRt2m Pyruvate Carrier - pyruvate transport via proton symport,Mitochondrial transporters - characterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000060762;ENSG00000100156;ENSG00000108932;ENSG00000118596;ENSG00000141526;ENSG00000143158;ENSG00000155380;ENSG00000168679;ENSG00000170190,False,False,False,,True,False,,0,gene_supported_only
+ACACt2mB_MitoCore,R_ACACt2mB_MitoCore Pyruvate Carrier - Acetoacetate transport via proton symport,Mitochondrial transporters - characterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000060762;ENSG00000100156;ENSG00000108932;ENSG00000118596;ENSG00000143158;ENSG00000155380;ENSG00000168679;ENSG00000170190,False,False,False,,True,False,,0,gene_supported_only
+ASNtm,R_ASNtm Unknown amino acid carrier - L-Asparagine,Mitochondrial transporters - uncharacterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000092068;ENSG00000103257;ENSG00000123643;ENSG00000149150;ENSG00000155465;ENSG00000168003,False,False,False,,True,False,,0,gene_supported_only
+GLNtm,R_GLNtm Unknown amino acid carrier - L-Glutamine,Mitochondrial transporters - uncharacterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000092068;ENSG00000103257;ENSG00000123643;ENSG00000149150;ENSG00000155465;ENSG00000168003,False,False,False,,True,False,,0,gene_supported_only
+PROtm,R_PROtm Unknown amino acid carrier - L-Proline,Mitochondrial transporters - uncharacterised,transport,Cytosol;Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+r1078,R_r1078 Unknown amino acid carrier - L-Tyrosine,Mitochondrial transporters - uncharacterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000092068;ENSG00000103257;ENSG00000112394;ENSG00000123643;ENSG00000149150;ENSG00000155465;ENSG00000168003,False,False,False,,True,False,,0,gene_supported_only
+r1436,R_r1436 Unknown amino acid carrier - L-Methionine,Mitochondrial transporters - uncharacterised,transport,Cytosol;Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+r1455,R_r1455 Unknown amino acid carrier - L-Phenylalanine,Mitochondrial transporters - uncharacterised,transport,Cytosol;Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+TRPtm_MitoCore,R_TRPtm_MitoCore Unknown amino acid carrier - L-Tryptophan,Mitochondrial transporters - uncharacterised,transport,Cytosol;Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+GLYtm,R_GLYtm Unknown amino acid carrier - Glycine,Mitochondrial transporters - uncharacterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000144659,False,False,False,,True,False,,0,gene_supported_only
+ILEt5m,R_ILEt5m Unknown amino acid carrier - L-Isoleucine,Mitochondrial transporters - uncharacterised,transport,Cytosol;Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+LEUt5m,R_LEUt5m Unknown amino acid carrier - L-Leucine,Mitochondrial transporters - uncharacterised,transport,Cytosol;Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+VALt5m,R_VALt5m Unknown amino acid carrier - L-Valine,Mitochondrial transporters - uncharacterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000092068;ENSG00000103257;ENSG00000123643;ENSG00000149150;ENSG00000155465;ENSG00000167703;ENSG00000168003,False,False,False,,True,False,,0,gene_supported_only
+r1434,R_r1434 Unknown amino acid carrier - L-Alanine,Mitochondrial transporters - uncharacterised,transport,Cytosol;Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+r1435,R_r1435 Unknown amino acid carrier - L-Serine,Mitochondrial transporters - uncharacterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000092068;ENSG00000103257;ENSG00000123643;ENSG00000130876;ENSG00000149150;ENSG00000155465;ENSG00000168003,False,False,False,,True,False,,0,gene_supported_only
+r1440,R_r1440 Unknown amino acid carrier - L-Threonine,Mitochondrial transporters - uncharacterised,transport,Cytosol;Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+BALAtmr,R_BALAtmr Beta-alanine reversible mitochondrial transport (diffusion),Mitochondrial transporters - uncharacterised,transport,Cytosol;Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+UREAtm,R_UREAtm Urea transport,Mitochondrial transporters - uncharacterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000103569,False,False,False,,True,False,,0,gene_supported_only
+FUMtmB_MitoCore,R_FUMtmB_MitoCore Fumarate transport,Mitochondrial transporters - uncharacterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000183048,False,False,False,,True,False,,0,gene_supported_only
+BHBtmB_MitoCore,R_BHBtmB_MitoCore (R)-3-Hydroxybutanoate mitochondrial transport,Mitochondrial transporters - uncharacterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000118596;ENSG00000141526;ENSG00000155380;ENSG00000168679;ENSG00000170190,False,False,False,,True,False,,0,gene_supported_only
+PPAtmB_MitoCore,R_PPAtmB_MitoCore Propanoate mitochondrial transport,Mitochondrial transporters - uncharacterised,transport,Cytosol;Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+BUTt2mB_MitoCore,R_BUTt2mB_MitoCore Butyrate mitochondrial transport,Mitochondrial transporters - uncharacterised,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000155380,False,False,False,,True,False,,0,gene_supported_only
+FORt2mB_MitoCore,R_FORt2mB_MitoCore Formate mitochondrial transport,Mitochondrial transporters - uncharacterised,transport,Cytosol;Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+r0962B_MitoCore,R_r0962B_MitoCore Folate mitochondrial transport,Mitochondrial transporters - uncharacterised,transport,Cytosol;Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+CHLtmB_MitoCore,R_CHLtmB_MitoCore Choline mitochondrial transport,Mitochondrial transporters - uncharacterised,transport,Cytosol;Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+CO2tm,"R_CO2tm CO2 transport (diffusion), mitochondrial",Mitochondrial transport - diffusion / artificial,artificial,Cytosol;Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+H2Otm,"R_H2Otm H2O transport, mitochondrial",Mitochondrial transport - diffusion / artificial,artificial,Cytosol;Mitochondrion,unmappable,,,ENSG00000086159;ENSG00000100170;ENSG00000103375;ENSG00000143595;ENSG00000161798;ENSG00000165269;ENSG00000165272;ENSG00000167580;ENSG00000171885;ENSG00000240583,False,False,False,,True,False,,0,gene_supported_only
+O2tm,R_O2tm O2 transport (diffusion),Mitochondrial transport - diffusion / artificial,artificial,Cytosol;Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+GLYCtm,R_GLYCtm glycerol transport,Mitochondrial transport - diffusion / artificial,artificial,Cytosol;Mitochondrion,unmappable,,,ENSG00000165269;ENSG00000165272,False,False,False,,True,False,,0,gene_supported_only
+CYANtm,R_CYANtm Cyanide transport via diffusion,Mitochondrial transport - diffusion / artificial,artificial,Cytosol;Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+TCYNTtmB_MitoCore,R_TCYNTtmB_MitoCore Thiocyanate transport via diffusion (mitochondrial),Mitochondrial transport - diffusion / artificial,artificial,Cytosol;Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+CREATtmdiffir,R_CREATtmdiffir Creatine transport to/from mitochondria,Mitochondrial transport - diffusion / artificial,artificial,Cytosol;Mitochondrion,unmappable,,,ENSG00000130821;ENSG00000165449,False,False,False,,True,False,,0,gene_supported_only
+PCREATtmdiffirB_MitoCore,R_PCREATtmdiffirB_MitoCore Phosphocreatine transport to/from mitochondria,Mitochondrial transport - diffusion / artificial,artificial,Cytosol;Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+r0941,R_r0941 Bicarbonate diffusion,Mitochondrial transport - diffusion / artificial,artificial,Cytosol;Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+r0838B_MitoCore,R_r0838B_MitoCore Ammonia free diffusion,Mitochondrial transport - diffusion / artificial,artificial,Cytosol;Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+Biomasst_MitoCore,R_Biomasst_MitoCore Biomass pseudo transport,Mitochondrial transport - diffusion / artificial,artificial,Cytosol;Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+PCFLOPm,R_PCFLOPm phosphatidylcholine flippase,Mitochondrial transport - lipids,transport,Cytosol;Mitochondrion,mapped_not_human,,EC:3.6.3.1,ENSG00000054793;ENSG00000058063;ENSG00000068650;ENSG00000081923;ENSG00000101974;ENSG00000104043;ENSG00000112697;ENSG00000124406;ENSG00000143515;ENSG00000145246;ENSG00000166377;ENSG00000182107;ENSG00000206190,False,False,False,,True,False,,0,gene_supported_only
+PSFLIPm,R_PSFLIPm phosphatidylserine flippase,Mitochondrial transport - lipids,transport,Cytosol;Mitochondrion,unmappable,,,ENSG00000054793;ENSG00000058063;ENSG00000068650;ENSG00000081923;ENSG00000101974;ENSG00000104043;ENSG00000112697;ENSG00000124406;ENSG00000143515;ENSG00000145246;ENSG00000166377;ENSG00000182107;ENSG00000206190,False,False,False,,True,False,,0,gene_supported_only
+PEFLIPm,R_PEFLIPm phosphatidylethanolamine flippase,Mitochondrial transport - lipids,transport,Cytosol;Mitochondrion,mapped_not_human,,EC:3.6.3.1,ENSG00000054793;ENSG00000058063;ENSG00000068650;ENSG00000081923;ENSG00000101974;ENSG00000104043;ENSG00000112697;ENSG00000124406;ENSG00000143515;ENSG00000145246;ENSG00000166377;ENSG00000182107;ENSG00000206190,False,False,False,,True,False,,0,gene_supported_only
+Biomass_MitoCore,R_Biomass_MitoCore Biomass Sink,Boundary conditions - core,artificial,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+O2t,R_O2t o2 transport (diffusion),Boundary conditions - core,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+CO2t,R_CO2t CO2 transporter via diffusion,Boundary conditions - core,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+HCO3t_MitoCore,R_HCO3t_MitoCore Bicarbonate diffusion,Boundary conditions - core,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+GLCt1r,R_GLCt1r glucose transport,Boundary conditions - core,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+HDCAtr,R_HDCAtr fatty acid transport via diffusion,Boundary conditions - core,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+HDCAtm_MitoCore,R_HDCAtm_MitoCore fatty acid accumulation - mitochondria,Boundary conditions - core,exchange_demand,External;Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+L_LACt2r,R_L_LACt2r L-lactate reversible transport via proton symport,Boundary conditions - core,exchange_demand,Cytosol;External,unmappable,,,ENSG00000155380,False,False,False,,True,False,,0,gene_supported_only
+BHBt,R_BHBt (R)-3-Hydroxybutanoate transport via H+ symport,Boundary conditions - core,exchange_demand,Cytosol;External,unmappable,,,ENSG00000118596;ENSG00000141526;ENSG00000155380;ENSG00000168679;ENSG00000170190,False,False,False,,True,False,,0,gene_supported_only
+ACACt2,R_ACACt2 acetoacetate transport via proton symport,Boundary conditions - core,exchange_demand,Cytosol;External,unmappable,,,ENSG00000100156;ENSG00000108932;ENSG00000118596;ENSG00000155380;ENSG00000168679;ENSG00000170190,False,False,False,,True,False,,0,gene_supported_only
+ETOHt,R_ETOHt ethanol reversible transport,Boundary conditions - alternative fuels,exchange_demand,Cytosol;External,unmappable,,,ENSG00000130649,False,False,False,,True,False,,0,gene_supported_only
+BUTt2r,"R_BUTt2r Butyrate transport via proton symport, reversible",Boundary conditions - alternative fuels,exchange_demand,Cytosol;External,unmappable,,,ENSG00000155380,False,False,False,,True,False,,0,gene_supported_only
+GLYCt,R_GLYCt glycerol transport via channel,Boundary conditions - alternative fuels,exchange_demand,Cytosol;External,unmappable,,,ENSG00000165269;ENSG00000165272,False,False,False,,True,False,,0,gene_supported_only
+r0942,R_r0942 Creatine storage,Boundary conditions - alternative fuels,exchange_demand,Cytosol;External,unmappable,,,ENSG00000130821;ENSG00000165449,False,False,False,,True,False,,0,gene_supported_only
+r0942b_MitoCore,R_r0942b_MitoCore Phosphocreatine storage,Boundary conditions - alternative fuels,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+HIStiDF,R_HIStiDF L-histidine transport via diffusion (extracellular to cytosol),Boundary conditions - essential amino acids,exchange_demand,Cytosol;External,unmappable,,,ENSG00000003989;ENSG00000092068;ENSG00000103257;ENSG00000123643;ENSG00000155465;ENSG00000165349;ENSG00000168003,False,False,False,,True,False,,0,gene_supported_only
+ILEtec,R_ILEtec L-isoleucine transport via diffusion (extracellular to cytosol),Boundary conditions - essential amino acids,exchange_demand,Cytosol;External,unmappable,,,ENSG00000092068;ENSG00000103257;ENSG00000123643;ENSG00000149150;ENSG00000155465;ENSG00000167703;ENSG00000168003,False,False,False,,True,False,,0,gene_supported_only
+LEUtec,R_LEUtec L-leucine transport via diffusion (extracellular to cytosol),Boundary conditions - essential amino acids,exchange_demand,Cytosol;External,unmappable,,,ENSG00000092068;ENSG00000103257;ENSG00000123643;ENSG00000149150;ENSG00000155465;ENSG00000167703;ENSG00000168003,False,False,False,,True,False,,0,gene_supported_only
+LYStiDF,R_LYStiDF L-lysine transport via diffusion (extracellular to cytosol),Boundary conditions - essential amino acids,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+METtec,R_METtec L-methionine transport via diffusion (extracellular to cytosol),Boundary conditions - essential amino acids,exchange_demand,Cytosol;External,unmappable,,,ENSG00000092068;ENSG00000103257;ENSG00000123643;ENSG00000149150;ENSG00000167703;ENSG00000168003,False,False,False,,True,False,,0,gene_supported_only
+PHEtec,R_PHEtec L-phenylalanine transport via diffusion (extracellular to cytosol),Boundary conditions - essential amino acids,exchange_demand,Cytosol;External,unmappable,,,ENSG00000092068;ENSG00000103257;ENSG00000112394;ENSG00000149150;ENSG00000155465;ENSG00000167703;ENSG00000168003,False,False,False,,True,False,,0,gene_supported_only
+r2534,R_r2534 L-threonine transport,Boundary conditions - essential amino acids,exchange_demand,Cytosol;External,unmappable,,,ENSG00000092068;ENSG00000103257;ENSG00000123643;ENSG00000130876;ENSG00000149150;ENSG00000155465;ENSG00000165349;ENSG00000168003,False,False,False,,True,False,,0,gene_supported_only
+TRPt,R_TRPt L-tryptophan transport,Boundary conditions - essential amino acids,exchange_demand,Cytosol;External,unmappable,,,ENSG00000092068;ENSG00000103257;ENSG00000112394;ENSG00000123643;ENSG00000149150;ENSG00000155465;ENSG00000167703;ENSG00000168003,False,False,False,,True,False,,0,gene_supported_only
+VALtec,R_VALtec L-valine transport via diffusion (extracellular to cytosol),Boundary conditions - essential amino acids,exchange_demand,Cytosol;External,unmappable,,,ENSG00000092068;ENSG00000103257;ENSG00000123643;ENSG00000149150;ENSG00000155465;ENSG00000167703;ENSG00000168003,False,False,False,,True,False,,0,gene_supported_only
+ARGtiDF,R_ARGtiDF L-arginine transport via diffusion (extracellular to cytosol),Boundary conditions - nonessential amino acids,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+ASPte,R_ASPte L-aspartate transport,Boundary conditions - nonessential amino acids,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+GLUt_MitoCore,R_GLUt_MitoCore L-glutamate transport,Boundary conditions - nonessential amino acids,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+r2525,R_r2525 L_glutamine transport,Boundary conditions - nonessential amino acids,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+GLYt2r,R_GLYt2r glycine reversible transport via proton symport,Boundary conditions - nonessential amino acids,exchange_demand,Cytosol;External,unmappable,,,ENSG00000092068;ENSG00000103257;ENSG00000123643;ENSG00000130876;ENSG00000149150;ENSG00000164363;ENSG00000168003,False,False,False,,True,False,,0,gene_supported_only
+PROt2r,R_PROt2r L-proline reversible transport via proton symport,Boundary conditions - nonessential amino acids,exchange_demand,Cytosol;External,unmappable,,,ENSG00000092068;ENSG00000123643;ENSG00000149150;ENSG00000155465,False,False,False,,True,False,,0,gene_supported_only
+r2526,R_r2526 L-serine transport,Boundary conditions - nonessential amino acids,exchange_demand,Cytosol;External,unmappable,,,ENSG00000092068;ENSG00000103257;ENSG00000123643;ENSG00000130876;ENSG00000149150;ENSG00000155465;ENSG00000168003,False,False,False,,True,False,,0,gene_supported_only
+TYRt,R_TYRt L-tyrosine transport,Boundary conditions - nonessential amino acids,exchange_demand,Cytosol;External,unmappable,,,ENSG00000092068;ENSG00000103257;ENSG00000112394;ENSG00000123643;ENSG00000149150;ENSG00000155465;ENSG00000168003,False,False,False,,True,False,,0,gene_supported_only
+r2532,R_r2532 L-asparagine transport,Boundary conditions - nonessential amino acids,exchange_demand,Cytosol;External,unmappable,,,ENSG00000092068;ENSG00000103257;ENSG00000123643;ENSG00000149150;ENSG00000155465;ENSG00000168003,False,False,False,,True,False,,0,gene_supported_only
+ALAt2r,R_ALAt2r L-alanine reversible transport via proton symport,Boundary conditions - nonessential amino acids,exchange_demand,Cytosol;External,unmappable,,,ENSG00000092068;ENSG00000103257;ENSG00000123643;ENSG00000130876;ENSG00000155465;ENSG00000168003,False,False,False,,True,False,,0,gene_supported_only
+FUMt_MitoCore,R_FUMt_MitoCore Fumarate transport,Boundary Conditions - Biomarkers,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+SUMt_MitoCore,R_SUMt_MitoCore Succinate transport,Boundary Conditions - Biomarkers,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+r0817,R_r0817 Citrulline transport,Boundary Conditions - Biomarkers,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+NH4t3r,R_NH4t3r ammonia transport via proton antiport,Boundary Conditions - Biomarkers,exchange_demand,Cytosol;External,unmappable,,,ENSG00000112077,False,False,False,,True,False,,0,gene_supported_only
+ACt2r,R_ACt2r acetate reversible transport via proton symport,Boundary Conditions - Biomarkers,exchange_demand,Cytosol;External,unmappable,,,ENSG00000100156;ENSG00000118596;ENSG00000141526;ENSG00000155380;ENSG00000168679;ENSG00000170190,False,False,False,,True,False,,0,gene_supported_only
+PPAt,"R_PPAt Propanoate transport, diffusion",Boundary Conditions - Biomarkers,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+2HBt2,R_2HBt2 2-hydroxybutyrate cotransport with proton,Boundary Conditions - Biomarkers,exchange_demand,Cytosol;External,unmappable,,,ENSG00000118596;ENSG00000141526;ENSG00000155380,False,False,False,,True,False,,0,gene_supported_only
+CHOLtu,R_CHOLtu Choline uniport,Boundary Conditions - Biomarkers,exchange_demand,Cytosol;External,unmappable,,,ENSG00000070214;ENSG00000112499;ENSG00000129353;ENSG00000137968;ENSG00000143036;ENSG00000175003;ENSG00000197375;ENSG00000204385,False,False,False,,True,False,,0,gene_supported_only
+r1088,R_r1088 Citrate transport,Boundary Conditions - Biomarkers,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+ICITt_MitoCore,R_ICITt_MitoCore Isocitrate transport,Boundary Conditions - Biomarkers,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+UREAt,R_UREAt Urea transport via facilitate diffusion,Boundary Conditions - Biomarkers,exchange_demand,Cytosol;External,unmappable,,,ENSG00000103569;ENSG00000132874;ENSG00000141469,False,False,False,,True,False,,0,gene_supported_only
+r1512,R_r1512 Bilirubin transport,Boundary Conditions - Biomarkers,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+ARGSUCt_MitoCore,R_ARGSUCt_MitoCore Argininosuccinate transport,Boundary Conditions - Biomarkers,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+MAL_Lte,R_MAL_Lte Malate transport,Boundary Conditions - Biomarkers,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+OAAt_MitoCore,R_OAAt_MitoCore Oxaloacetate transport,Boundary Conditions - Biomarkers,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+AKGt_MitoCore,R_AKGt_MitoCore 2-Oxoglutarate transport,Boundary Conditions - Biomarkers,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+MERCPLACt_MitoCore,R_MERCPLACt_MitoCore 3-Mercaptolactate transport,Boundary Conditions - Biomarkers,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+r0899,R_r0899 Beta-alanine,Boundary Conditions - Misc,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+FE2t,R_FE2t iron (II) transport,Boundary Conditions - Misc,exchange_demand,Cytosol;External,unmappable,,,ENSG00000018280;ENSG00000110911;ENSG00000138449,False,False,False,,True,False,,0,gene_supported_only
+H2Ot,R_H2Ot H2O transport via diffusion,Boundary Conditions - Misc,exchange_demand,Cytosol;External,unmappable,,,ENSG00000086159;ENSG00000100170;ENSG00000103375;ENSG00000143595;ENSG00000161798;ENSG00000165269;ENSG00000165272;ENSG00000167580;ENSG00000171885;ENSG00000240583,False,False,False,,True,False,,0,gene_supported_only
+Hct_MitoCore,R_Hct_MitoCore Proton escape - cytosolic,Boundary Conditions - Misc,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+Hmt_MitoCore,R_Hmt_MitoCore Proton escape - mitochondrial,Boundary Conditions - Misc,exchange_demand,External;Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+SO3t_MitoCore,R_SO3t_MitoCore Sulfite,Boundary Conditions - Misc,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+TSULt_MitoCore,R_TSULt_MitoCore Thiosulfate,Boundary Conditions - Misc,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+r0940,R_r0940 hydrogen sulfide,Boundary Conditions - Misc,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+CYANt,R_CYANt Cyanide transport via diffusion (extracellular to cytosol),Boundary Conditions - Misc,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+TCYNTt,R_TCYNTt Thiocyanate,Boundary Conditions - Misc,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+r1423,R_r1423 Phosphate facilitated diffusion,Boundary Conditions - Misc,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+FORt_MitoCore,R_FORt_MitoCore Formate,Boundary Conditions - Misc,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+FOLt_MitoCore,R_FOLt_MitoCore Folate,Boundary Conditions - Misc,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+NADHt_MitoCore,R_NADHt_MitoCore NADH pool,Boundary Conditions - Misc,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+NADt_MitoCore,R_NADt_MitoCore NAD+ pool,Boundary Conditions - Misc,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+NADHtm_MitoCore,R_NADHtm_MitoCore NADH pool mitochondrial,Boundary Conditions - Misc,exchange_demand,External;Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+NADtm_MitoCore,R_NADtm_MitoCore NAD+ pool mitochondrial,Boundary Conditions - Misc,exchange_demand,External;Mitochondrion,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+COt,R_COt CO transporter via diffusion,Boundary Conditions - Misc,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+NOt,R_NOt NO transport (diffusion),Boundary Conditions - Misc,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+PCHOLHSTDe,R_PCHOLHSTDe Phosphatidylcholine,Boundary Conditions - Lipids,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+PSt3,R_PSt3 Phosphatidylserine,Boundary Conditions - Lipids,exchange_demand,Cytosol;External,mapped_not_human,,EC:2.7.8.8,,False,False,False,,False,True,Archaea;Bacteria;Fungi;Land plants,20,other_taxa_only
+PEt,R_PEt Phosphatidylethanolamine,Boundary Conditions - Lipids,exchange_demand,Cytosol;External,unmappable,,,,False,False,False,,False,False,,0,no_evidence
+DM_orot_c,Orotate demand,(none),exchange_demand,Cytosol,unmappable,,,,False,False,False,,False,False,,0,no_evidence

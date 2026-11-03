@@ -1,0 +1,33 @@
+component,group,namespace,n,group_size,pct,kg_usable
+reactions,matched to E. coli K-12,biocyc,668,940,71.1,False
+reactions,matched to E. coli K-12,ec-code,940,940,100.0,True
+reactions,matched to E. coli K-12,kegg.reaction,708,940,75.3,True
+reactions,matched to E. coli K-12,metanetx.reaction,940,940,100.0,False
+reactions,matched to E. coli K-12,reactome.reaction,172,940,18.3,False
+reactions,matched to E. coli K-12,rhea,685,940,72.9,False
+reactions,matched to E. coli K-12,sabiork,448,940,47.7,False
+reactions,matched to E. coli K-12,seed.reaction,768,940,81.7,False
+reactions,unmatched: exchange / artificial,biocyc,94,339,27.7,False
+reactions,unmatched: exchange / artificial,ec-code,2,339,0.6,True
+reactions,unmatched: exchange / artificial,kegg.reaction,0,339,0.0,True
+reactions,unmatched: exchange / artificial,metanetx.reaction,328,339,96.8,False
+reactions,unmatched: exchange / artificial,reactome.reaction,36,339,10.6,False
+reactions,unmatched: exchange / artificial,rhea,101,339,29.8,False
+reactions,unmatched: exchange / artificial,sabiork,56,339,16.5,False
+reactions,unmatched: exchange / artificial,seed.reaction,258,339,76.1,False
+reactions,unmatched: metabolic / isolated,biocyc,112,800,14.0,False
+reactions,unmatched: metabolic / isolated,ec-code,151,800,18.9,True
+reactions,unmatched: metabolic / isolated,kegg.reaction,38,800,4.8,True
+reactions,unmatched: metabolic / isolated,metanetx.reaction,714,800,89.2,False
+reactions,unmatched: metabolic / isolated,reactome.reaction,10,800,1.2,False
+reactions,unmatched: metabolic / isolated,rhea,172,800,21.5,False
+reactions,unmatched: metabolic / isolated,sabiork,43,800,5.4,False
+reactions,unmatched: metabolic / isolated,seed.reaction,356,800,44.5,False
+reactions,unmatched: transport,biocyc,217,633,34.3,False
+reactions,unmatched: transport,ec-code,3,633,0.5,True
+reactions,unmatched: transport,kegg.reaction,0,633,0.0,True
+reactions,unmatched: transport,metanetx.reaction,579,633,91.5,False
+reactions,unmatched: transport,reactome.reaction,51,633,8.1,False
+reactions,unmatched: transport,rhea,219,633,34.6,False
+reactions,unmatched: transport,sabiork,68,633,10.7,False
+reactions,unmatched: transport,seed.reaction,484,633,76.5,False

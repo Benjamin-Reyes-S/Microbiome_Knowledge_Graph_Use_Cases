@@ -1,0 +1,139 @@
+id,taxon_group,n_proteins,n_taxa
+EC:1.1.1.21,Fungi,3,4
+EC:1.1.1.21,Metazoa,14,9
+EC:1.1.1.21,Land plants,3,3
+EC:1.1.1.21,Microbial eukaryotes,3,1
+EC:1.1.1.283,Fungi,9,10
+EC:1.1.1.283,Bacteria,1,1
+EC:1.1.1.283,Microbial eukaryotes,1,1
+EC:1.1.1.72,Fungi,2,2
+EC:1.1.1.72,Bacteria,1,2
+EC:1.1.2.3,Bacteria,2,2
+EC:1.1.2.3,Fungi,5,7
+EC:1.11.1.1,Bacteria,5,4
+EC:1.11.1.16,Fungi,7,4
+EC:1.11.1.16,Bacteria,2,4
+EC:1.11.1.16,Metazoa,2,2
+EC:1.13.99.1,Land plants,7,4
+EC:1.13.99.1,Fungi,3,5
+EC:1.13.99.1,Metazoa,7,7
+EC:1.13.99.1,Microbial eukaryotes,1,1
+EC:1.3.1.10,Bacteria,5,8
+EC:1.3.1.10,Fungi,1,2
+EC:1.3.3.4,Metazoa,5,5
+EC:1.3.3.4,Land plants,9,5
+EC:1.3.3.4,Microbial eukaryotes,3,3
+EC:1.3.3.4,Bacteria,3,5
+EC:1.3.3.4,Fungi,2,2
+EC:1.3.98.1,Microbial eukaryotes,9,9
+EC:1.3.98.1,Bacteria,31,33
+EC:1.3.98.1,Archaea,1,1
+EC:1.3.98.1,Fungi,7,7
+EC:1.5.1.30,Bacteria,5,5
+EC:1.5.1.30,Microbial eukaryotes,1,2
+EC:1.5.1.30,Metazoa,5,4
+EC:1.5.1.36,Bacteria,23,23
+EC:1.5.1.36,Fungi,2,2
+EC:1.5.1.37,Bacteria,6,7
+EC:1.5.1.45,Bacteria,1,1
+EC:1.5.3.1,Bacteria,11,9
+EC:1.5.3.1,Metazoa,4,4
+EC:1.5.3.1,Land plants,1,1
+EC:1.5.3.1,Fungi,1,1
+EC:1.5.3.1,Microbial eukaryotes,1,1
+EC:1.7.1.14,Fungi,2,2
+EC:1.7.3.3,Bacteria,5,5
+EC:1.7.3.3,Metazoa,21,21
+EC:1.7.3.3,Fungi,5,5
+EC:1.7.3.3,Land plants,7,5
+EC:1.7.3.3,Archaea,2,2
+EC:1.7.3.3,Microbial eukaryotes,1,1
+EC:1.8.4.2,Metazoa,12,8
+EC:1.8.4.2,Bacteria,5,9
+EC:1.8.4.2,Fungi,1,2
+EC:1.8.4.2,Microbial eukaryotes,5,1
+EC:2.3.1.86,Fungi,33,18
+EC:2.4.1.161,Bacteria,2,2
+EC:2.4.1.56,Bacteria,1,1
+EC:2.5.1.1,Land plants,36,17
+EC:2.5.1.1,Metazoa,15,11
+EC:2.5.1.1,Microbial eukaryotes,5,2
+EC:2.5.1.1,Fungi,50,43
+EC:2.5.1.1,Archaea,1,1
+EC:2.5.1.1,Bacteria,4,4
+EC:2.5.1.1,Viruses,5,5
+EC:2.7.1.1,Fungi,18,18
+EC:2.7.1.1,Metazoa,29,16
+EC:2.7.1.1,Microbial eukaryotes,6,7
+EC:2.7.1.1,Bacteria,3,5
+EC:2.7.1.1,Archaea,2,3
+EC:2.7.1.1,Land plants,37,11
+EC:2.7.1.20,Land plants,7,3
+EC:2.7.1.20,Fungi,4,5
+EC:2.7.1.20,Metazoa,5,5
+EC:2.7.1.20,Microbial eukaryotes,3,4
+EC:2.7.1.20,Archaea,1,1
+EC:2.7.1.20,Bacteria,4,5
+EC:2.7.1.7,Bacteria,2,3
+EC:2.7.1.74,Metazoa,11,7
+EC:2.7.1.74,Bacteria,1,1
+EC:2.7.1.74,Viruses,2,1
+EC:2.7.4.10,Metazoa,8,7
+EC:2.7.4.10,Fungi,2,2
+EC:2.7.4.10,Microbial eukaryotes,1,2
+EC:2.7.4.4,Metazoa,16,10
+EC:2.7.7.22,Land plants,2,2
+EC:2.7.7.22,Archaea,1,2
+EC:2.8.3.1,Bacteria,2,2
+EC:3.1.2.21,Land plants,2,2
+EC:3.1.3.58,Bacteria,1,2
+EC:3.1.3.9,Metazoa,19,12
+EC:3.1.3.94,Metazoa,8,8
+EC:3.1.3.94,Microbial eukaryotes,1,1
+EC:3.1.4.44,Metazoa,5,4
+EC:3.2.1.170,Land plants,2,1
+EC:3.2.1.170,Bacteria,3,4
+EC:3.2.2.1,Land plants,3,3
+EC:3.2.2.1,Bacteria,2,4
+EC:3.2.2.1,Microbial eukaryotes,5,7
+EC:3.2.2.1,Metazoa,1,1
+EC:3.2.2.1,Archaea,1,2
+EC:3.5.1.116,Land plants,2,2
+EC:3.6.1.42,Fungi,5,7
+EC:3.6.1.42,Metazoa,3,2
+EC:3.6.1.5,Microbial eukaryotes,7,7
+EC:3.6.1.5,Land plants,15,6
+EC:3.6.1.5,Metazoa,38,19
+EC:3.6.1.5,Bacteria,1,2
+EC:3.6.1.5,Fungi,2,2
+EC:3.6.1.6,Bacteria,99,102
+EC:3.6.1.6,Land plants,2,1
+EC:3.6.1.6,Metazoa,21,9
+EC:3.6.1.6,Microbial eukaryotes,1,1
+EC:3.6.1.6,Archaea,1,2
+EC:4.1.1.12,Bacteria,3,3
+EC:4.1.1.87,Bacteria,2,2
+EC:4.1.1.9,Metazoa,5,5
+EC:4.1.1.9,Bacteria,3,4
+EC:4.4.1.1,Bacteria,11,15
+EC:4.4.1.1,Fungi,5,7
+EC:4.4.1.1,Microbial eukaryotes,4,5
+EC:4.4.1.1,Metazoa,8,7
+EC:4.4.1.1,Land plants,2,1
+EC:4.4.1.22,Fungi,15,15
+EC:4.4.1.22,Bacteria,14,14
+EC:4.4.1.22,Other,1,1
+EC:5.3.1.-,Fungi,1,2
+EC:5.3.1.-,Bacteria,26,26
+EC:5.3.3.7,Bacteria,3,5
+EC:5.4.3.2,Archaea,5,8
+EC:5.4.3.2,Bacteria,5,6
+EC:6.2.1.13,Microbial eukaryotes,3,3
+EC:6.2.1.13,Archaea,9,6
+EC:6.2.1.13,Fungi,1,1
+EC:6.3.4.3,Unclassified,15,1
+EC:6.3.4.3,Bacteria,305,291
+EC:6.3.4.3,Fungi,4,3
+EC:6.3.4.3,Metazoa,9,7
+EC:6.3.4.3,Archaea,6,7
+EC:6.3.4.3,Land plants,2,2

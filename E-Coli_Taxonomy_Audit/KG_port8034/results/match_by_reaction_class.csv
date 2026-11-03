@@ -1,0 +1,5 @@
+reaction_class,matched_taxon,mapped_not_taxon,unmappable,total
+artificial,0,0,2,2
+exchange_demand,0,2,335,337
+metabolic,940,133,667,1740
+transport,0,2,631,633

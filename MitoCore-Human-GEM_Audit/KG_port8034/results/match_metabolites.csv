@@ -1,0 +1,278 @@
+id,unique_id,name,compartment,formula,kegg_compound,chebi,hmdb,n_reactions,in_kg,M1_human,M2_pathway,has_kegg_id,status
+10fthf_c,10fthf,10-Formyltetrahydrofolate,Cytosol,C20H21N7O7,KEGG:C00234,CHEBI:15637,,3,True,True,True,True,matched_human
+13dpg_c,13dpg,3-Phospho-D-glyceroyl phosphate,Cytosol,C3H4O10P2,KEGG:C00236,CHEBI:16001,,2,True,True,True,True,matched_human
+1pipdn2c_c,1pipdn2c,delta1-Piperideine-2-carboxylate,Cytosol,C6H9NO2,KEGG:C04092,CHEBI:30912,HMDB0001084,3,True,True,True,True,matched_human
+1pyr5c_m,1pyr5c,(S)-1-Pyrroline-5-carboxylate,Mitochondrion,C5H6NO2,KEGG:C03912,CHEBI:371,,4,True,True,True,True,matched_human
+2aobut_m,2aobut,L-2-Amino-3-oxobutanoic acid,Mitochondrion,C4H7NO3,KEGG:C03508,CHEBI:40673,HMDB0006454,2,True,True,True,True,matched_human
+2hb_c,2hb,2-Hydroxybutanoic acid,Cytosol,C4H7O3,KEGG:C05984,CHEBI:1148,HMDB0000008,2,True,True,True,True,matched_human
+2maacoa_m,2maacoa,2-Methylacetoacetyl-CoA,Mitochondrion,C26H38N7O18P3S,KEGG:C03344,CHEBI:15476,,2,True,True,True,True,matched_human
+2mb2coa_m,2mb2coa,2-Methylbut-2-enoyl-CoA,Mitochondrion,C26H38N7O17P3S,KEGG:C03345,CHEBI:15478,HMDB0002054,2,True,True,True,True,matched_human
+2mbcoa_m,2mbcoa,2-Methylbutanoyl-CoA,Mitochondrion,C26H40N7O17P3S,KEGG:C01033,CHEBI:15477,HMDB0001041,2,True,True,True,True,matched_human
+2mop_m,2mop,2-Methyl-3-oxopropanoate,Mitochondrion,C4H5O3,KEGG:C00349,CHEBI:16256,,2,True,True,True,True,matched_human
+2mp2coa_m,2mp2coa,2-Methylprop-2-enoyl-CoA,Mitochondrion,C25H36N7O17P3S,KEGG:C03460,CHEBI:27754,,2,True,True,True,True,matched_human
+2obut_c,2obut,2-Oxobutanoate,Cytosol,C4H5O3,KEGG:C00109,CHEBI:30831,HMDB0000005,4,True,True,True,True,matched_human
+2oxoadp_c,2oxoadp,2-Oxoadipate,Cytosol,C6H6O5,KEGG:C00322,CHEBI:15753,HMDB0000225,4,True,True,True,True,matched_human
+2pg_c,2pg,2-Phospho-D-glycerate,Cytosol,C3H4O7P,KEGG:C00631,CHEBI:17835,,2,True,True,True,True,matched_human
+34hpp_c,34hpp,3-(4-Hydroxyphenyl)pyruvate,Cytosol,C9H7O4,KEGG:C01179,CHEBI:15999,HMDB0000707,3,True,True,True,True,matched_human
+3hanthrn_c,3hanthrn,3-Hydroxyanthranilate,Cytosol,C7H7NO3,KEGG:C00632,CHEBI:15793,,2,True,True,True,True,matched_human
+3hbcoa_m,3hbcoa,(S)-3-Hydroxybutanoyl-CoA,Mitochondrion,C25H38N7O18P3S,KEGG:C01144,CHEBI:15453,,2,True,True,True,True,matched_human
+3hexdcoa_m,3hexdcoa,(S)-3-Hydroxyhexadecanoyl-CoA,Mitochondrion,C37H62N7O18P3S,KEGG:C05258,CHEBI:27402,,3,True,True,True,True,matched_human
+3hibutcoa_m,3hibutcoa,(S)-3-Hydroxyisobutyryl-CoA,Mitochondrion,C25H38N7O18P3S,KEGG:C06000,,,2,True,True,True,True,matched_human
+3hmbcoa_m,3hmbcoa,"(2S,3S)-3-Hydroxy-2-methylbutanoyl-CoA",Mitochondrion,C26H40N7O18P3S,KEGG:C04405,CHEBI:15449,,2,True,True,True,True,matched_human
+3hmp_m,3hmp,3-Hydroxy-2-methylpropanoate,Mitochondrion,C4H7O3,KEGG:C01188,,,2,True,True,False,True,matched_human
+3mb2coa_m,3mb2coa,3-Methylcrotonyl-CoA,Mitochondrion,C26H38N7O17P3S,KEGG:C03069,CHEBI:15486,HMDB0001493,2,True,True,True,True,matched_human
+3mgcoa_m,3mgcoa,3-Methylglutaconyl-CoA,Mitochondrion,C27H37N7O19P3S,KEGG:C03231,CHEBI:15488,,2,True,True,True,True,matched_human
+3mob_m,3mob,3-Methyl-2-oxobutanoic acid,Mitochondrion,C5H7O3,KEGG:C00141,CHEBI:16530,HMDB0000019,2,True,True,True,True,matched_human
+3mop_m,3mop,(S)-3-Methyl-2-oxopentanoic acid,Mitochondrion,C6H9O3,KEGG:C00671,,,2,True,True,True,True,matched_human
+3odcoa_m,3odcoa,3-Oxodecanoyl-CoA,Mitochondrion,C31H48N7O18P3S,KEGG:C05265,CHEBI:28528,,2,True,True,True,True,matched_human
+3oddcoa_m,3oddcoa,3-Oxododecanoyl-CoA,Mitochondrion,C33H52N7O18P3S,KEGG:C05263,CHEBI:27868,,2,True,True,True,True,matched_human
+3pg_c,3pg,3-Phospho-D-glycerate,Cytosol,C3H4O7P,KEGG:C00197,CHEBI:17794,,3,True,True,True,True,matched_human
+3php_c,3php,3-Phosphonooxypyruvate,Cytosol,C3H2O7P,KEGG:C03232,CHEBI:30933,,2,True,True,True,True,matched_human
+3sala_c,3sala,3-Sulfino-L-alanine,Cytosol,C3H5NO4S,KEGG:C00606,CHEBI:16345,,2,True,True,True,True,matched_human
+3snpyr_c,3snpyr,3-Sulfinylpyruvate,Cytosol,C3H2O5S,KEGG:C05527,,,2,True,True,True,True,matched_human
+3tetd7ecoa_m,3tetd7ecoa,trans-Tetradec-2-enoyl-CoA,Mitochondrion,C35H56N7O18P3S,KEGG:C05273,CHEBI:27721,,3,True,True,True,True,matched_human
+4aabutn_m,4aabutn,4-Acetamidobutanoate,Mitochondrion,C6H10NO3,KEGG:C02946,CHEBI:17645,HMDB0003681,2,True,True,True,True,matched_human
+4abut_c,4abut,4-Aminobutanoate,Cytosol,C4H9NO2,KEGG:C00334,CHEBI:16865,HMDB0000112,4,True,True,True,True,matched_human
+4abutn_c,4abutn,4-Aminobutyraldehyde,Cytosol,C4H10NO,KEGG:C00555,CHEBI:17769,HMDB0001080,3,True,True,True,True,matched_human
+4fumacac_c,4fumacac,4-Fumarylacetoacetate,Cytosol,C8H6O6,KEGG:C01061,CHEBI:30907,,2,True,True,True,True,matched_human
+4izp_c,4izp,4-Imidazolone-5-propanoate,Cytosol,C6H7N2O3,KEGG:C03680,,,2,True,True,True,True,matched_human
+4mlacac_c,4mlacac,4-Maleylacetoacetate,Cytosol,C8H6O6,KEGG:C01036,CHEBI:47904,,2,True,True,True,True,matched_human
+4mop_m,4mop,4-Methyl-2-oxopentanoate,Mitochondrion,C6H9O3,KEGG:C00233,CHEBI:48430,HMDB0000695,2,True,True,True,True,matched_human
+5aop_c,5aop,5-Aminolevulinate,Cytosol,C5H9NO3,KEGG:C00430,CHEBI:17549,HMDB0001149,2,True,True,True,True,matched_human
+5forthf_c,5forthf,5-Formiminotetrahydrofolate,Cytosol,C20H22N8O6,KEGG:C00664,CHEBI:15639,,2,True,True,True,True,matched_human
+6a2ohxnt_c,6a2ohxnt,6-Amino-2-oxohexanoate,Cytosol,C6H11NO3,KEGG:C03239,CHEBI:17534,HMDB0012151,2,True,False,True,True,mapped_not_human
+6pgc_c,6pgc,6-Phospho-D-gluconate,Cytosol,C6H10O10P,KEGG:C00345,CHEBI:48928,HMDB0001316,2,True,True,True,True,matched_human
+6pgl_c,6pgl,"D-Glucono-1,5-lactone 6-phosphate",Cytosol,C6H9O9P,KEGG:C01236,CHEBI:16938,,2,True,True,True,True,matched_human
+aacoa_m,aacoa,Acetoacetyl-CoA,Mitochondrion,C25H36N7O18P3S,KEGG:C00332,CHEBI:15345,,4,True,True,True,True,matched_human
+aact_m,aact,Aminoacetone,Mitochondrion,C3H8NO,KEGG:C01888,,,2,True,True,True,True,matched_human
+ac_c,ac,Acetate,Cytosol,C2H3O2,KEGG:C00033,CHEBI:15366,HMDB0000042,4,True,True,True,True,matched_human
+acac_c,acac,Acetoacetate,Cytosol,C4H5O3,KEGG:C00164,CHEBI:15344,HMDB0000060,3,True,True,True,True,matched_human
+acald_c,acald,Acetaldehyde,Cytosol,C2H4O,KEGG:C00084,CHEBI:15343,HMDB0000990,4,True,True,True,True,matched_human
+accoa_c,accoa,Acetyl-CoA,Cytosol,C23H34N7O17P3S,KEGG:C00024,CHEBI:15351,HMDB0001206,5,True,True,True,True,matched_human
+adn_c,adn,Adenosine,Cytosol,C10H13N5O4,KEGG:C00212,CHEBI:16335,HMDB0000050,2,True,True,True,True,matched_human
+adp_c,adp,ADP,Cytosol,C10H12N5O10P2,KEGG:C00008,CHEBI:16761,HMDB0001341,22,True,True,True,True,matched_human
+agm_m,agm,Agmatine,Mitochondrion,C5H16N4,KEGG:C00179,CHEBI:17431,HMDB0001432,2,True,True,True,True,matched_human
+ahcys_c,ahcys,S-Adenosyl-L-homocysteine,Cytosol,C14H20N6O5S,KEGG:C00021,CHEBI:16680,HMDB0000939,2,True,True,True,True,matched_human
+akg_c,akg,2-Oxoglutarate,Cytosol,C5H4O5,KEGG:C00026,CHEBI:30915,HMDB0000208,15,True,True,True,True,matched_human
+ala_B_c,ala_B,beta-Alanine,Cytosol,C3H7NO2,KEGG:C00099,CHEBI:16958,HMDB0000056,3,True,True,True,True,matched_human
+ala_L_c,ala_L,L-Alanine,Cytosol,C3H7NO2,KEGG:C00041,CHEBI:16977,HMDB0000161,4,True,True,True,True,matched_human
+alpa_hs_m,alpa_hs,1-Acyl-sn-glycerol 3-phosphate,Mitochondrion,C4H8O7PR,KEGG:C00681,CHEBI:16975,,2,True,True,True,True,matched_human
+alpro_m,alpro,S-Aminomethyldihydrolipoylprotein,Mitochondrion,C9H19N2OS2R,KEGG:C01242,,,2,True,True,True,True,matched_human
+am6sa_c,am6sa,2-Aminomuconate semialdehyde,Cytosol,C6H7NO3,KEGG:C03824,CHEBI:15745,HMDB0001280,2,True,True,True,True,matched_human
+amet_c,amet,S-Adenosyl-L-methionine,Cytosol,C15H23N6O5S,KEGG:C00019,CHEBI:15414,HMDB0001185,2,True,True,True,True,matched_human
+amp_c,amp,AMP,Cytosol,C10H12N5O7P,KEGG:C00020,CHEBI:16027,HMDB0000045,9,True,True,True,True,matched_human
+amuco_c,amuco,2-Aminomuconate,Cytosol,C6H6NO4,KEGG:C02220,CHEBI:16886,,3,True,True,True,True,matched_human
+aprut_m,aprut,N-Acetylputrescine,Mitochondrion,C6H15N2O,KEGG:C02714,CHEBI:17768,HMDB0002064,2,True,True,True,True,matched_human
+arg_L_c,arg_L,L-Arginine,Cytosol,C6H15N4O2,KEGG:C00062,CHEBI:16467,HMDB0000517,6,True,True,True,True,matched_human
+argsuc_c,argsuc,N-(L-Arginino)succinate,Cytosol,C10H17N4O6,KEGG:C03406,CHEBI:15682,HMDB0000052,3,True,True,True,True,matched_human
+asn_L_c,asn_L,L-Asparagine,Cytosol,C4H8N2O3,KEGG:C00152,CHEBI:17196,HMDB0000168,4,True,True,True,True,matched_human
+asp_L_c,asp_L,L-Aspartate,Cytosol,C4H6NO4,KEGG:C00049,CHEBI:17053,HMDB0000191,9,True,True,True,True,matched_human
+atp_c,atp,ATP,Cytosol,C10H12N5O13P3,KEGG:C00002,CHEBI:15422,HMDB0000538,26,True,True,True,True,matched_human
+b2coa_m,b2coa,Crotonoyl-CoA,Mitochondrion,C25H36N7O17P3S,KEGG:C00877,CHEBI:15473,,3,True,True,True,True,matched_human
+bhb_c,bhb,(R)-3-Hydroxybutanoate,Cytosol,C4H7O3,KEGG:C01089,CHEBI:17066,HMDB0000011,2,True,True,True,True,matched_human
+bilirub_c,bilirub,Bilirubin,Cytosol,C33H34N4O6,KEGG:C00486,CHEBI:16990,HMDB0000054,3,True,True,True,True,matched_human
+biliverd_c,biliverd,Biliverdin,Cytosol,C33H32N4O6,KEGG:C00500,CHEBI:17033,,3,True,True,True,True,matched_human
+biomass_c,biomass,Biomass,Cytosol,,,,,3,False,False,False,False,unmappable
+btcoa_m,btcoa,Butanoyl-CoA,Mitochondrion,C25H38N7O17P3S,KEGG:C00136,CHEBI:57371,HMDB0001088,3,True,True,True,True,matched_human
+but_c,but,Butanoic acid,Cytosol,C4H7O2,KEGG:C00246,CHEBI:30772,HMDB0000039,2,True,True,True,True,matched_human
+cbp_m,cbp,Carbamoyl phosphate,Mitochondrion,CH2NO5P,KEGG:C00169,CHEBI:17672,,2,True,True,True,True,matched_human
+cdp_m,cdp,CDP,Mitochondrion,C9H12N3O11P2,KEGG:C00112,CHEBI:17239,,2,True,True,True,True,matched_human
+cdpdag_hs_m,cdpdag_hs,CDP-diacylglycerol,Mitochondrion,C12H17N3O11P2FULLRCO2FULLR2CO2,KEGG:C00269,,,3,True,True,True,True,matched_human
+cgly_c,cgly,Cys-Gly,Cytosol,C5H10N2O3S,KEGG:C01419,CHEBI:4047,HMDB0000078,2,True,True,True,True,matched_human
+chol_c,chol,Choline,Cytosol,C5H14NO,KEGG:C00114,CHEBI:15354,HMDB0000097,2,True,True,True,True,matched_human
+cit_c,cit,Citrate,Cytosol,C6H5O7,KEGG:C00158,CHEBI:30769,HMDB0000094,7,True,True,True,True,matched_human
+citr_L_c,citr_L,L-Citrulline,Cytosol,C6H13N3O3,KEGG:C00327,CHEBI:16349,HMDB0000904,6,True,True,True,True,matched_human
+clpn_hs_m,clpn_hs,Cardiolipin,Mitochondrion,C9H16O9P2FULLRCO2FULLR2CO2FULLRCO2FULLR2CO2,KEGG:C05980,,,3,True,True,True,True,matched_human
+cmp_m,cmp,CMP,Mitochondrion,C9H12N3O8P,KEGG:C00055,CHEBI:17361,HMDB0000095,3,True,True,True,True,matched_human
+cmusa_c,cmusa,2-Amino-3-carboxymuconate semialdehyde,Cytosol,C7H6NO5,KEGG:C04409,CHEBI:995,,2,True,True,True,True,matched_human
+co_c,co,CO,Cytosol,CO,KEGG:C00237,CHEBI:17245,,2,True,True,True,True,matched_human
+co2_c,co2,CO2,Cytosol,CO2,KEGG:C00011,CHEBI:16526,HMDB0001967,21,True,True,True,True,matched_human
+coa_c,coa,CoA,Cytosol,C21H32N7O16P3S,KEGG:C00010,CHEBI:1146900,HMDB0001423,9,True,True,True,True,matched_human
+cpppg3_c,cpppg3,Coproporphyrinogen III,Cytosol,C36H40N4O8,KEGG:C03263,CHEBI:15439,HMDB0001261,2,True,True,True,True,matched_human
+creat_c,creat,Creatine,Cytosol,C4H9N3O2,KEGG:C00300,CHEBI:16919,HMDB0000064,3,True,True,True,True,matched_human
+crn_c,crn,L-Carnitine,Cytosol,C7H15NO3,KEGG:C00318,,,2,True,True,True,True,matched_human
+ctp_m,ctp,CTP,Mitochondrion,C9H12N3O14P3,KEGG:C00063,CHEBI:17677,,2,True,True,True,True,matched_human
+cyan_c,cyan,Cyanide ion,Cytosol,CHN,KEGG:C00177,,,3,True,True,False,True,matched_human
+cys_L_c,cys_L,L-Cysteine,Cytosol,C3H7NO2S,KEGG:C00097,CHEBI:17561,HMDB0000574,8,True,True,True,True,matched_human
+cyst_L_c,cyst_L,L-Cystathionine,Cytosol,C7H14N2O4S,KEGG:C02291,CHEBI:17482,HMDB0000099,2,True,True,True,True,matched_human
+dc2coa_m,dc2coa,trans-Dec-2-enoyl-CoA,Mitochondrion,C31H48N7O17P3S,KEGG:C05275,CHEBI:10723,,3,True,True,True,True,matched_human
+dcacoa_m,dcacoa,Decanoyl-CoA,Mitochondrion,C31H50N7O17P3S,KEGG:C05274,CHEBI:28493,HMDB0006404,3,True,True,True,True,matched_human
+dcamp_c,dcamp,"N6-(1,2-Dicarboxyethyl)-AMP",Cytosol,C14H14N5O11P,KEGG:C03794,CHEBI:15919,,2,True,True,True,True,matched_human
+dd2coa_m,dd2coa,2-trans-Dodecenoyl-CoA,Mitochondrion,C33H52N7O17P3S,KEGG:C03221,CHEBI:15471,,3,True,True,True,True,matched_human
+ddcacoa_m,ddcacoa,Lauroyl-CoA,Mitochondrion,C33H54N7O17P3S,KEGG:C01832,CHEBI:15521,HMDB0003571,3,True,True,True,True,matched_human
+dhap_c,dhap,Glycerone phosphate,Cytosol,C3H5O6P,KEGG:C00111,CHEBI:16108,,4,True,True,True,True,matched_human
+dhbpt_c,dhbpt,Dihydrobiopterin,Cytosol,C9H13N5O3,KEGG:C00268,,,2,True,True,True,True,matched_human
+dhlpro_m,dhlpro,Dihydrolipoylprotein,Mitochondrion,C8H16NOS2R,KEGG:C02972,,,2,True,True,True,True,matched_human
+e4p_c,e4p,D-Erythrose 4-phosphate,Cytosol,C4H7O7P,KEGG:C00279,CHEBI:48153,,2,True,True,True,True,matched_human
+etoh_c,etoh,Ethanol,Cytosol,C2H6O,KEGG:C00469,CHEBI:16236,HMDB0000108,3,True,True,True,True,matched_human
+f6p_c,f6p,D-Fructose 6-phosphate,Cytosol,C6H11O9P,KEGG:C00085,CHEBI:15946,,5,True,True,True,True,matched_human
+fdp_c,fdp,"D-Fructose 1,6-bisphosphate",Cytosol,C6H11O9P,KEGG:C00354,CHEBI:16905,,3,True,True,True,True,matched_human
+fe2_c,fe2,Fe2,Cytosol,Fe,KEGG:C14818,CHEBI:29033,HMDB0000692,3,True,True,True,True,matched_human
+ficytC_m,ficytC,Ferricytochrome c,Mitochondrion,C42H54FeN8O6S2,KEGG:C00125,CHEBI:15991,,2,True,True,False,True,matched_human
+focytC_m,focytC,Ferrocytochrome c,Mitochondrion,C42H54FeN8O6S2,KEGG:C00126,CHEBI:16928,,2,True,True,False,True,matched_human
+for_c,for,Formate,Cytosol,CH1O2,KEGG:C00058,CHEBI:30751,HMDB0000142,4,True,True,True,True,matched_human
+forglu_c,forglu,N-Formimino-L-glutamate,Cytosol,C6H8N2O4,KEGG:C00439,CHEBI:7274,HMDB0000854,2,True,True,True,True,matched_human
+fum_c,fum,Fumarate,Cytosol,C4H2O4,KEGG:C00122,CHEBI:18012,HMDB0000134,6,True,True,True,True,matched_human
+g3p_c,g3p,D-Glyceraldehyde 3-phosphate,Cytosol,C3H5O6P,KEGG:C00118,CHEBI:29052,,6,True,True,True,True,matched_human
+g6p_c,g6p,D-Glucose 6-phosphate,Cytosol,C6H11O9P,KEGG:C00092,CHEBI:4170,,4,True,True,True,True,matched_human
+gdp_c,gdp,GDP,Cytosol,C10H12N5O11P2,KEGG:C00035,CHEBI:17552,HMDB0001201,4,True,True,True,True,matched_human
+glc_D_c,glc_D,D-Glucose,Cytosol,C6H12O6,KEGG:C00031,CHEBI:4167,HMDB0000122,3,True,True,True,True,matched_human
+gln_L_c,gln_L,L-Glutamine,Cytosol,C5H10N2O3,KEGG:C00064,CHEBI:18050,HMDB0000641,6,True,True,True,True,matched_human
+glu_L_c,glu_L,L-Glutamate,Cytosol,C5H8NO4,KEGG:C00025,CHEBI:16015,HMDB0000148,19,True,True,True,True,matched_human
+glu5p_m,glu5p,L-Glutamyl 5-phosphate,Mitochondrion,C5H8NO7P,KEGG:C03287,CHEBI:17798,,2,True,True,True,True,matched_human
+glu5sa_m,glu5sa,L-Glutamate 5-semialdehyde,Mitochondrion,C5H9NO3,KEGG:C01165,CHEBI:17232,,4,True,True,True,True,matched_human
+glucys_c,glucys,gamma-L-Glutamyl-L-cysteine,Cytosol,C8H13N2O5S,KEGG:C00669,CHEBI:17515,HMDB0001049,2,True,True,True,True,matched_human
+glutcoa_m,glutcoa,Glutaryl-CoA,Mitochondrion,C26H37N7O19P3S,KEGG:C00527,CHEBI:15524,,2,True,True,True,True,matched_human
+gly_c,gly,Glycine,Cytosol,C2H5NO2,KEGG:C00037,CHEBI:15428,HMDB0000123,5,True,True,True,True,matched_human
+glyc_c,glyc,Glycerol,Cytosol,C3H8O3,KEGG:C00116,CHEBI:17522,HMDB0000131,3,True,True,True,True,matched_human
+glyc3p_c,glyc3p,sn-Glycerol 3-phosphate,Cytosol,C3H7O6P,KEGG:C00093,CHEBI:15978,,4,True,True,True,True,matched_human
+gthox_c,gthox,Glutathione disulfide,Cytosol,C20H30N6O12S2,KEGG:C00127,CHEBI:17858,HMDB0003337,2,True,True,True,True,matched_human
+gthrd_c,gthrd,Glutathione,Cytosol,C10H16N3O6S,KEGG:C00051,CHEBI:16856,HMDB0000125,4,True,True,True,True,matched_human
+gtp_c,gtp,GTP,Cytosol,C10H12N5O14P3,KEGG:C00044,CHEBI:15996,HMDB0001273,4,True,True,True,True,matched_human
+h_c,h,H,Cytosol,H,KEGG:C00080,CHEBI:24636,,127,True,True,True,True,matched_human
+PMF_c,PMF,Proton Motive Force,Cytosol,H,,,,43,False,False,False,False,unmappable
+h2o_c,h2o,H2O,Cytosol,H2O,KEGG:C00001,CHEBI:15377,HMDB0002111,69,True,True,True,True,matched_human
+h2o2_c,h2o2,Hydrogen peroxide,Cytosol,H2O2,KEGG:C00027,CHEBI:16240,HMDB0003125,5,True,True,True,True,matched_human
+HC00250_c,HC00250,Hydrogen sulfide,Cytosol,HS,KEGG:C00283,CHEBI:16136,,2,True,True,True,True,matched_human
+HC01401_m,HC01401,(S)-3-Hydroxydodecanoyl-CoA,Mitochondrion,C33H54N7O18P3S,KEGG:C05262,CHEBI:27668,,2,True,True,True,True,matched_human
+HC01403_m,HC01403,(S)-Hydroxydecanoyl-CoA,Mitochondrion,C31H50N7O18P3S,KEGG:C05264,CHEBI:28325,,2,True,True,True,True,matched_human
+HC01405_m,HC01405,(S)-3-Hydroxyoctanoyl-CoA,Mitochondrion,C29H46N7O18P3S,KEGG:C05266,CHEBI:28632,,2,True,True,True,True,matched_human
+HC01406_m,HC01406,3-Oxooctanoyl-CoA,Mitochondrion,C29H44N7O18P3S,KEGG:C05267,CHEBI:28264,,2,True,True,True,True,matched_human
+HC01407_m,HC01407,(S)-Hydroxyhexanoyl-CoA,Mitochondrion,C27H42N7O18P3S,KEGG:C05268,CHEBI:28276,,2,True,True,True,True,matched_human
+HC01408_m,HC01408,3-Oxohexanoyl-CoA,Mitochondrion,C27H40N7O18P3S,KEGG:C05269,CHEBI:27648,,2,True,True,True,True,matched_human
+HC01409_m,HC01409,Hexanoyl-CoA,Mitochondrion,C27H42N7O17P3S,KEGG:C05270,CHEBI:27540,HMDB0002845,3,True,True,True,True,matched_human
+HC01410_m,HC01410,trans-Hex-2-enoyl-CoA,Mitochondrion,C27H40N7O17P3S,KEGG:C05271,CHEBI:28706,,3,True,True,True,True,matched_human
+HC01415_m,HC01415,trans-Oct-2-enoyl-CoA,Mitochondrion,C29H44N7O17P3S,KEGG:C05276,CHEBI:27537,,3,True,True,True,True,matched_human
+hco3_c,hco3,HCO3-,Cytosol,CHO3,KEGG:C00288,CHEBI:17544,HMDB0000595,4,True,True,True,True,matched_human
+hcys_L_c,hcys_L,Homocysteine,Cytosol,C4H9NO2S,KEGG:C05330,,,2,True,False,False,True,mapped_not_human
+hdca_c,hdca,Hexadecanoic acid,Cytosol,C16H31O2,KEGG:C00249,CHEBI:15756,HMDB0000220,3,True,True,True,True,matched_human
+hgentis_c,hgentis,Homogentisate,Cytosol,C8H7O4,KEGG:C00544,CHEBI:44747,HMDB0000130,2,True,True,True,True,matched_human
+his_L_c,his_L,L-Histidine,Cytosol,C6H9N3O2,KEGG:C00135,CHEBI:15971,HMDB0000177,3,True,True,True,True,matched_human
+hLkynr_c,hLkynr,3-Hydroxy-L-kynurenine,Cytosol,C10H12N2O4,KEGG:C03227,CHEBI:17380,HMDB0000732,2,True,True,True,True,matched_human
+hmbil_c,hmbil,Hydroxymethylbilane,Cytosol,C40H38N4O17,KEGG:C01024,CHEBI:16645,,2,True,True,True,True,matched_human
+hmgcoa_m,hmgcoa,(S)-3-Hydroxy-3-methylglutaryl-CoA,Mitochondrion,C27H39N7O20P3S,KEGG:C00356,CHEBI:15467,,3,True,True,True,True,matched_human
+ibcoa_m,ibcoa,2-Methylpropanoyl-CoA,Mitochondrion,C25H38N7O17P3S,KEGG:C00630,CHEBI:15479,HMDB0001243,2,True,True,True,True,matched_human
+icit_c,icit,Isocitrate,Cytosol,C6H5O7,KEGG:C00311,CHEBI:30887,HMDB0000193,6,True,True,True,True,matched_human
+ile_L_c,ile_L,L-Isoleucine,Cytosol,C6H13NO2,KEGG:C00407,CHEBI:17191,HMDB0000172,2,True,True,True,True,matched_human
+imp_c,imp,IMP,Cytosol,C10H11N4O8P,KEGG:C00130,CHEBI:17202,HMDB0000175,2,True,True,True,True,matched_human
+ivcoa_m,ivcoa,3-Methylbutanoyl-CoA,Mitochondrion,C26H40N7O17P3S,KEGG:C02939,CHEBI:15487,HMDB0001113,2,True,True,True,True,matched_human
+L2aadp_c,L2aadp,L-2-Aminoadipate,Cytosol,C6H10NO4,KEGG:C00956,CHEBI:37024,HMDB0000510,3,True,True,True,True,matched_human
+L2aadp6sa_c,L2aadp6sa,L-2-Aminoadipate 6-semialdehyde,Cytosol,C6H11NO3,KEGG:C04076,,,2,True,True,True,True,matched_human
+lac_D_m,lac_D,(R)-Lactate,Mitochondrion,C3H5O3,KEGG:C00256,CHEBI:42111,,2,True,True,True,True,matched_human
+lac_L_c,lac_L,(S)-Lactate,Cytosol,C3H5O3,KEGG:C00186,CHEBI:422,HMDB0000190,2,True,True,True,True,matched_human
+leu_L_c,leu_L,L-Leucine,Cytosol,C6H13NO2,KEGG:C00123,CHEBI:15603,HMDB0000687,2,True,True,True,True,matched_human
+Lfmkynr_c,Lfmkynr,L-Formylkynurenine,Cytosol,C11H12N2O4,KEGG:C02700,CHEBI:30249,,2,True,True,True,True,matched_human
+lgt_S_m,lgt_S,(R)-S-Lactoylglutathione,Mitochondrion,C13H20N3O8S,KEGG:C03451,CHEBI:15694,,2,True,True,True,True,matched_human
+Lkynr_c,Lkynr,L-Kynurenine,Cytosol,C10H12N2O3,KEGG:C00328,CHEBI:16946,HMDB0000684,2,True,True,True,True,matched_human
+Lpipecol_c,Lpipecol,L-Pipecolate,Cytosol,C6H11NO2,KEGG:C00408,CHEBI:30913,HMDB0000716,3,True,True,True,True,matched_human
+lpro_m,lpro,Lipoylprotein,Mitochondrion,C8H14NOS2R,KEGG:C02051,,,2,True,True,True,True,matched_human
+lys_L_c,lys_L,L-Lysine,Cytosol,C6H15N2O2,KEGG:C00047,CHEBI:18019,HMDB0000182,4,True,True,True,True,matched_human
+mal_L_c,mal_L,(S)-Malate,Cytosol,C4H4O5,KEGG:C00149,CHEBI:30797,HMDB0000156,12,True,True,True,True,matched_human
+mercplac_c,mercplac,3-Mercaptolactate,Cytosol,C3H5O3S,KEGG:C05823,CHEBI:28580,,2,True,True,True,True,matched_human
+mercppyr_c,mercppyr,Mercaptopyruvate,Cytosol,C3H3O3S,KEGG:C00957,CHEBI:16208,,4,True,True,True,True,matched_human
+met_L_c,met_L,L-Methionine,Cytosol,C5H11NO2S,KEGG:C00073,CHEBI:16643,HMDB0000696,3,True,True,True,True,matched_human
+methf_c,methf,"5,10-Methenyltetrahydrofolate",Cytosol,C20H20N7O6,KEGG:C00445,CHEBI:15638,,3,True,True,True,True,matched_human
+mlthf_c,mlthf,"5,10-Methylenetetrahydrofolate",Cytosol,C20H21N7O6,KEGG:C00143,CHEBI:1989,,2,True,True,True,True,matched_human
+mmcoa_R_m,mmcoa_R,(R)-Methylmalonyl-CoA,Mitochondrion,C25H35N7O19P3S,KEGG:C01213,CHEBI:15465,,2,True,True,True,True,matched_human
+mmcoa_S_m,mmcoa_S,(S)-Methylmalonyl-CoA,Mitochondrion,C25H35N7O19P3S,KEGG:C00683,CHEBI:15466,,3,True,True,True,True,matched_human
+msa_m,msa,3-Oxopropanoate,Mitochondrion,C3H3O3,KEGG:C00222,CHEBI:17960,,3,True,True,True,True,matched_human
+mthgxl_m,mthgxl,Methylglyoxal,Mitochondrion,C3H4O2,KEGG:C00546,CHEBI:17158,,2,True,True,True,True,matched_human
+n4abutn_m,n4abutn,N4-Acetylaminobutanal,Mitochondrion,C6H11NO2,KEGG:C05936,CHEBI:7386,HMDB0004226,2,True,True,True,True,matched_human
+nad_c,nad,NAD,Cytosol,C21H26N7O14P2,KEGG:C00003,CHEBI:15846,HMDB0000902,18,True,True,True,True,matched_human
+nadh_c,nadh,NADH,Cytosol,C21H27N7O14P2,KEGG:C00004,CHEBI:16908,HMDB0001487,18,True,True,True,True,matched_human
+nadp_c,nadp,NADP,Cytosol,C21H25N7O17P3,KEGG:C00006,CHEBI:18009,HMDB0000217,33,True,True,True,True,matched_human
+nadph_c,nadph,NADPH,Cytosol,C21H26N7O17P3,KEGG:C00005,CHEBI:16474,HMDB0000221,33,True,True,True,True,matched_human
+nh4_c,nh4,Ammonia,Cytosol,H4N,KEGG:C00014,CHEBI:16134,,20,True,True,True,True,matched_human
+no_c,no,Nitric oxide,Cytosol,NO,KEGG:C00533,CHEBI:16480,HMDB0003378,2,True,True,True,True,matched_human
+nwharg_c,nwharg,N(omega)-Hydroxyarginine,Cytosol,C6H15N4O3,KEGG:C05933,CHEBI:7101,,2,True,True,True,True,matched_human
+o2_c,o2,Oxygen,Cytosol,O2,KEGG:C00007,CHEBI:15379,HMDB0001377,17,True,True,True,True,matched_human
+o2s_m,o2s,O2.-,Mitochondrion,O2,KEGG:C00704,CHEBI:18421,HMDB0002168,2,True,True,True,True,matched_human
+oaa_c,oaa,Oxaloacetate,Cytosol,C4H2O5,KEGG:C00036,CHEBI:30744,HMDB0000223,5,True,True,True,True,matched_human
+occoa_m,occoa,Octanoyl-CoA,Mitochondrion,C29H46N7O17P3S,KEGG:C01944,CHEBI:15533,HMDB0001070,3,True,True,True,True,matched_human
+orn_c,orn,L-Ornithine,Cytosol,C5H13N2O2,KEGG:C00077,CHEBI:15729,HMDB0000214,4,True,True,True,True,matched_human
+pa_hs_m,pa_hs,Phosphatidate,Mitochondrion,C5H7O8PR2,KEGG:C00416,CHEBI:16337,,3,True,True,True,True,matched_human
+pchol_hs_c,pchol_hs,Phosphatidylcholine,Cytosol,C10H18NO8PR2,KEGG:C00157,CHEBI:16110,,2,True,True,True,True,matched_human
+pcreat_c,pcreat,Phosphocreatine,Cytosol,C4H9N3O5P,KEGG:C02305,CHEBI:58092,,3,True,True,True,True,matched_human
+pe_hs_c,pe_hs,Phosphatidylethanolamine,Cytosol,C7H12NO8PR2,KEGG:C00350,CHEBI:16038,,2,True,True,True,True,matched_human
+pep_c,pep,Phosphoenolpyruvate,Cytosol,C3H2O6P,KEGG:C00074,CHEBI:44897,HMDB0000263,5,True,True,True,True,matched_human
+pglyc_hs_m,pglyc_hs,Phosphatidylglycerol,Mitochondrion,C8H13O10PR2,KEGG:C00344,,,3,True,True,True,True,matched_human
+pgp_hs_m,pgp_hs,Phosphatidylglycerophosphate,Mitochondrion,C8H14O13P2R2,KEGG:C03892,,,2,True,True,True,True,matched_human
+phe_L_c,phe_L,L-Phenylalanine,Cytosol,C9H11NO2,KEGG:C00079,CHEBI:17295,HMDB0000159,3,True,True,True,True,matched_human
+pheme_c,pheme,Heme,Cytosol,C34H30FeN4O4,KEGG:C00032,CHEBI:17627,,2,True,True,True,True,matched_human
+pi_c,pi,Orthophosphate,Cytosol,HO4P,KEGG:C00009,CHEBI:18367,,23,True,True,True,True,matched_human
+pmtcoa_c,pmtcoa,Palmitoyl-CoA,Cytosol,C37H62N7O17P3S,KEGG:C00154,CHEBI:15525,HMDB0001338,2,True,True,True,True,matched_human
+pmtcrn_c,pmtcrn,L-Palmitoylcarnitine,Cytosol,C23H45NO4,KEGG:C02990,CHEBI:17490,HMDB0000222,2,True,True,True,True,matched_human
+ppa_c,ppa,Propanoate,Cytosol,C3H5O2,KEGG:C00163,CHEBI:30768,HMDB0000237,2,True,True,True,True,matched_human
+ppbng_c,ppbng,Porphobilinogen,Cytosol,C10H13N2O4,KEGG:C00931,CHEBI:17381,HMDB0000245,2,True,True,True,True,matched_human
+ppcoa_m,ppcoa,Propanoyl-CoA,Mitochondrion,C24H36N7O17P3S,KEGG:C00100,CHEBI:15539,HMDB0001275,7,True,True,True,True,matched_human
+ppi_c,ppi,Diphosphate,Cytosol,HO7P2,KEGG:C00013,CHEBI:18361,HMDB0000250,6,True,True,True,True,matched_human
+ppp9_m,ppp9,Protoporphyrin,Mitochondrion,C34H32N4O4,KEGG:C02191,CHEBI:15430,,2,True,True,True,True,matched_human
+pppg9_c,pppg9,Protoporphyrinogen IX,Cytosol,C34H38N4O4,KEGG:C01079,CHEBI:15435,,2,True,True,True,True,matched_human
+pro_L_c,pro_L,L-Proline,Cytosol,C5H9NO2,KEGG:C00148,CHEBI:17203,HMDB0000162,2,True,True,True,True,matched_human
+ps_hs_c,ps_hs,Phosphatidylserine,Cytosol,C8H12NO10PR2,KEGG:C02737,CHEBI:18303,,2,True,True,True,True,matched_human
+pser_L_c,pser_L,O-Phospho-L-serine,Cytosol,C3H6NO6P,KEGG:C01005,CHEBI:15811,HMDB0000272,2,True,True,True,True,matched_human
+ptrc_c,ptrc,Putrescine,Cytosol,C4H14N2,KEGG:C00134,CHEBI:17148,HMDB0001414,2,True,True,True,True,matched_human
+pyr_c,pyr,Pyruvate,Cytosol,C3H3O3,KEGG:C00022,CHEBI:32816,HMDB0000243,11,True,True,True,True,matched_human
+q10_m,q10,Ubiquinone,Mitochondrion,C59H90O4,KEGG:C00399,CHEBI:16389,,17,True,True,True,True,matched_human
+q10h2_m,q10h2,Ubiquinol,Mitochondrion,C59H92O4,KEGG:C00390,CHEBI:17976,,17,True,True,True,True,matched_human
+r5p_c,r5p,D-Ribose 5-phosphate,Cytosol,C5H9O8P,KEGG:C00117,CHEBI:17797,,2,True,True,True,True,matched_human
+ru5p_D_c,ru5p_D,D-Ribulose 5-phosphate,Cytosol,C5H9O8P,KEGG:C00199,CHEBI:17363,,3,True,True,True,True,matched_human
+s7p_c,s7p,Sedoheptulose 7-phosphate,Cytosol,C7H13O10P,KEGG:C05382,CHEBI:15721,,2,True,True,True,True,matched_human
+saccrp_L_m,saccrp_L,"N6-(L-1,3-Dicarboxypropyl)-L-lysine",Mitochondrion,C11H19N2O6,KEGG:C00449,CHEBI:16927,,2,True,True,True,True,matched_human
+ser_L_c,ser_L,L-Serine,Cytosol,C3H7NO3,KEGG:C00065,CHEBI:17115,HMDB0000187,6,True,True,True,True,matched_human
+so3_c,so3,Sulfite,Cytosol,O3S,KEGG:C00094,CHEBI:48854,,5,True,True,True,True,matched_human
+so4_c,so4,Sulfate,Cytosol,O4S,KEGG:C00059,CHEBI:16189,HMDB0001448,2,True,True,True,True,matched_human
+succ_c,succ,Succinate,Cytosol,C4H4O4,KEGG:C00042,CHEBI:15741,HMDB0000254,6,True,True,True,True,matched_human
+succoa_m,succoa,Succinyl-CoA,Mitochondrion,C25H35N7O19P3S,KEGG:C00091,CHEBI:15380,,6,True,True,True,True,matched_human
+sucsal_m,sucsal,Succinate semialdehyde,Mitochondrion,C4H5O3,KEGG:C00232,CHEBI:16265,HMDB0001259,2,True,True,True,True,matched_human
+tcynt_c,tcynt,Thiocyanate,Cytosol,CNS,KEGG:C01755,CHEBI:18022,HMDB0001453,3,True,True,False,True,matched_human
+tetd7ecoa_m,tetd7ecoa,Tetradecanoyl-CoA,Mitochondrion,C35H56N7O17P3S,KEGG:C02593,CHEBI:15532,HMDB0001521,3,True,True,True,True,matched_human
+thbpt_c,thbpt,Tetrahydrobiopterin,Cytosol,C9H15N5O3,KEGG:C00272,CHEBI:15372,,2,True,True,True,True,matched_human
+thf_c,thf,Tetrahydrofolate,Cytosol,C19H21N7O6,KEGG:C00101,CHEBI:20506,HMDB0001846,5,True,True,True,True,matched_human
+thp2c_c,thp2c,"(S)-2,3,4,5-Tetrahydropyridine-2-carboxylate",Cytosol,C6H8NO2,KEGG:C00450,CHEBI:49015,HMDB0012130,2,True,True,True,True,matched_human
+thr_L_c,thr_L,L-Threonine,Cytosol,C4H9NO3,KEGG:C00188,CHEBI:16857,HMDB0000167,3,True,True,True,True,matched_human
+trp_L_c,trp_L,L-Tryptophan,Cytosol,C11H12N2O2,KEGG:C00078,CHEBI:16828,HMDB0000929,3,True,True,True,True,matched_human
+tsul_c,tsul,Thiosulfate,Cytosol,O3S2,KEGG:C00320,CHEBI:16094,HMDB0000257,4,True,True,True,True,matched_human
+tyr_L_c,tyr_L,L-Tyrosine,Cytosol,C9H11NO3,KEGG:C00082,CHEBI:17895,HMDB0000158,5,True,True,True,True,matched_human
+uppg3_c,uppg3,Uroporphyrinogen III,Cytosol,C40H36N4O16,KEGG:C01051,CHEBI:15437,HMDB0001086,2,True,True,True,True,matched_human
+urcan_c,urcan,Urocanate,Cytosol,C6H5N2O2,KEGG:C00785,CHEBI:30817,HMDB0000301,2,True,True,True,True,matched_human
+urea_c,urea,Urea,Cytosol,CH4N2O,KEGG:C00086,CHEBI:16199,HMDB0000294,3,True,True,True,True,matched_human
+val_L_c,val_L,L-Valine,Cytosol,C5H11NO2,KEGG:C00183,CHEBI:16414,HMDB0000883,2,True,True,True,True,matched_human
+xu5p_D_c,xu5p_D,D-Xylulose 5-phosphate,Cytosol,C5H9O8P,KEGG:C00231,CHEBI:16332,,3,True,True,True,True,matched_human
+fol_c,fol,Folate,Cytosol,C19H19N7O6,KEGG:C00504,CHEBI:27470,HMDB0000121,3,True,True,True,True,matched_human
+dhf_c,dhf,Dihydrofolate,Cytosol,C19H21N7O6,KEGG:C00415,CHEBI:15633,,2,True,True,True,True,matched_human
+malcoa_c,malcoa,Malonyl-CoA,Cytosol,C24H33N7O19P3S,KEGG:C00083,CHEBI:15531,HMDB0001175,2,True,True,True,True,matched_human
+malACP_c,malACP,Malonyl-[acyl-carrier protein],Cytosol,C3H3O3SR,KEGG:C01209,,,8,True,True,True,True,matched_human
+ACP_c,ACP,acyl carrier protein,Cytosol,HSR,KEGG:C00229,,,10,True,True,True,True,matched_human
+acACP_c,acACP,Acetyl-ACP,Cytosol,C2H3OSR,KEGG:C03939,,,2,True,True,True,True,matched_human
+HC01587_c,HC01587,Acetoacetyl-ACP,Cytosol,C4H5O2SR,KEGG:C05744,,,2,True,True,True,True,matched_human
+HC01321_c,HC01321,(R)-3-Hydroxybutanoyl-ACP,Cytosol,C4H7O2SR,KEGG:C04618,,,2,True,True,True,True,matched_human
+HC01255_c,HC01255,But-2-enoyl-ACP,Cytosol,C4H5OSR,KEGG:C04246,,,2,True,True,True,True,matched_human
+HC01588_c,HC01588,Butyryl-ACP,Cytosol,C4H7OSR,KEGG:C05745,,,2,True,True,True,True,matched_human
+HC01589_c,HC01589,3-Oxohexanoyl-ACP,Cytosol,C6H9O2SR,KEGG:C05746,,,2,True,True,True,True,matched_human
+HC01590_c,HC01590,D-3-Hydroxyhexanoyl-ACP,Cytosol,C6H11O2SR,KEGG:C05747,,,2,True,True,True,True,matched_human
+HC01591_c,HC01591,(2E)-Hexenoyl-ACP,Cytosol,C6H9OSR,KEGG:C05748,CHEBI:10727,,2,True,True,True,True,matched_human
+HC01592_c,HC01592,Hexanoyl-ACP,Cytosol,C6H11OSR,KEGG:C05749,,,2,True,True,True,True,matched_human
+HC01593_c,HC01593,3-Oxooctanoyl-ACP,Cytosol,C8H13O2SR,KEGG:C05750,,,2,True,True,True,True,matched_human
+HC01323_c,HC01323,(R)-3-Hydroxyoctanoyl-ACP,Cytosol,C8H15O2SR,KEGG:C04620,,,2,True,True,True,True,matched_human
+HC01594_c,HC01594,(2E)-Octenoyl-ACP,Cytosol,C8H13OSR,KEGG:C05751,,,2,True,True,True,True,matched_human
+HC01595_c,HC01595,Octanoyl-ACP,Cytosol,C8H15OSR,KEGG:C05752,,,2,True,True,True,True,matched_human
+HC01596_c,HC01596,3-Oxodecanoyl-ACP,Cytosol,C10H17O2SR,KEGG:C05753,,,2,True,True,True,True,matched_human
+HC01322_c,HC01322,(R)-3-Hydroxydecanoyl-ACP,Cytosol,C10H19O2SR,KEGG:C04619,,,2,True,True,True,True,matched_human
+HC01597_c,HC01597,(2E)-Decenoyl-ACP,Cytosol,C10H17OSR,KEGG:C05754,,,2,True,True,True,True,matched_human
+HC01598_c,HC01598,Decanoyl-ACP,Cytosol,C10H19OSR,KEGG:C05755,,,2,True,True,True,True,matched_human
+HC01599_c,HC01599,3-Oxododecanoyl-ACP,Cytosol,C12H21O2SR,KEGG:C05756,,,2,True,True,True,True,matched_human
+HC01600_c,HC01600,D-3-Hydroxydodecanoyl-ACP,Cytosol,C12H23O2SR,KEGG:C05757,,,2,True,True,True,True,matched_human
+HC01601_c,HC01601,(2E)-Dodecenoyl-ACP,Cytosol,C12H21OSR,KEGG:C05758,CHEBI:10725,,2,True,True,True,True,matched_human
+ddcaACP_c,ddcaACP,Dodecanoyl-ACP,Cytosol,C12H23OSR,KEGG:C05223,,,2,True,True,True,True,matched_human
+HC01602_c,HC01602,3-Oxotetradecanoyl-ACP,Cytosol,C14H25O2SR,KEGG:C05759,,,2,True,True,True,True,matched_human
+HC01335_c,HC01335,(R)-3-Hydroxytetradecanoyl-ACP,Cytosol,C14H27O2SR,KEGG:C04688,,,2,True,True,True,True,matched_human
+HC01603_c,HC01603,(2E)-Tetradecenoyl-ACP,Cytosol,C14H25OSR,KEGG:C05760,CHEBI:10735,,2,True,True,True,True,matched_human
+myrsACP_c,myrsACP,Myristoyl-ACP,Cytosol,C14H27OSR,KEGG:C05761,,,2,True,True,True,True,matched_human
+HC01605_c,HC01605,3-Oxohexadecanoyl-ACP,Cytosol,C16H29O2SR,KEGG:C05762,,,2,True,True,True,True,matched_human
+HC01326_c,HC01326,(R)-3-Hydroxypalmitoyl-ACP,Cytosol,C16H31O2SR,KEGG:C04633,,,2,True,True,True,True,matched_human
+HC01606_c,HC01606,(2E)-Hexadecenoyl-ACP,Cytosol,C16H29OSR,KEGG:C05763,,,2,True,True,True,True,matched_human
+palmACP_c,palmACP,Palmitoyl-ACP,Cytosol,C16H31OSR,KEGG:C05764,,,2,True,True,True,True,matched_human
+cbasp_c,cbasp,N-Carbamoyl-L-aspartate,Cytosol,CH2NO5P,,,,2,False,False,False,False,unmappable
+dhor_S_c,dhor_S,(S)-Dihydroorotate,Cytosol,CH2NO5P,,,,2,False,False,False,False,unmappable
+orot_c,orot,Orotate,Cytosol,CH2NO5P,,,,2,False,False,False,False,unmappable

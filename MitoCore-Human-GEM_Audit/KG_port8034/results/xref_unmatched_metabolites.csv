@@ -1,0 +1,8 @@
+id,unique_id,name,status,namespaces,rescue_potential
+6a2ohxnt_c,6a2ohxnt,6-Amino-2-oxohexanoate,mapped_not_human,chebi;hmdb;kegg.compound;metanetx.chemical;pubchem.compound,"has KG-usable id (mapped, but no human route in KG)"
+biomass_c,biomass,Biomass,unmappable,,no identifier at all (only name / stoichiometry / structure)
+PMF_c,PMF,Proton Motive Force,unmappable,,no identifier at all (only name / stoichiometry / structure)
+hcys_L_c,hcys_L,Homocysteine,mapped_not_human,kegg.compound;metanetx.chemical,"has KG-usable id (mapped, but no human route in KG)"
+cbasp_c,cbasp,N-Carbamoyl-L-aspartate,unmappable,,no identifier at all (only name / stoichiometry / structure)
+dhor_S_c,dhor_S,(S)-Dihydroorotate,unmappable,,no identifier at all (only name / stoichiometry / structure)
+orot_c,orot,Orotate,unmappable,,no identifier at all (only name / stoichiometry / structure)
