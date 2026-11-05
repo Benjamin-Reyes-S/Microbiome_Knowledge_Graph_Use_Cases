@@ -1,0 +1,238 @@
+id,name,subsystem,reaction_class,status,namespaces,rescue_potential
+EX_2hb_e,EX_2hb_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_ac_e,EX_ac_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_acac_e,EX_acac_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_akg_e,EX_akg_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_ala_B_e,EX_ala_B_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_ala_L_e,EX_ala_L_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_arg_L_e,EX_arg_L_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_argsuc_e,EX_argsuc_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_asn_L_e,EX_asn_L_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_asp_L_e,EX_asp_L_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_bhb_e,EX_bhb_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_bilirub_e,EX_bilirub_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_biomass_e,EX_biomass_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_but_e,EX_but_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_chol_e,EX_chol_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_cit_e,EX_cit_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_citr_L_e,EX_citr_L_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_co_e,EX_co_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_co2_e,EX_co2_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_creat_e,EX_creat_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_cyan_e,EX_cyan_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_cys_L_e,EX_cys_L_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_etoh_e,EX_etoh_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_fe2_e,EX_fe2_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_for_e,EX_for_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_fum_e,EX_fum_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_glc_D_e,EX_glc_D_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_gln_L_e,EX_gln_L_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_glu_L_e,EX_glu_L_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_gly_e,EX_gly_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_glyc_e,EX_glyc_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_h_e,EX_h_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_h2o_e,EX_h2o_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_HC00250_e,EX_HC00250_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_hco3_e,EX_hco3_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_hdca_e,EX_hdca_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_his_L_e,EX_his_L_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_icit_e,EX_icit_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_ile_L_e,EX_ile_L_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_lac_L_e,EX_lac_L_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_leu_L_e,EX_leu_L_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_lys_L_e,EX_lys_L_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_mal_L_e,EX_mal_L_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_mercplac_e,EX_mercplac_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_met_L_e,EX_met_L_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_nad_e,EX_nad_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_nadh_e,EX_nadh_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_nh4_e,EX_nh4_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_no_e,EX_no_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_o2_e,EX_o2_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_oaa_e,EX_oaa_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_pchol_hs_e,EX_pchol_hs_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_pcreat_e,EX_pcreat_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_pe_hs_e,EX_pe_hs_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_phe_L_e,EX_phe_L_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_pi_e,EX_pi_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_ppa_e,EX_ppa_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_pro_L_e,EX_pro_L_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_ps_hs_e,EX_ps_hs_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_ser_L_e,EX_ser_L_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_so3_e,EX_so3_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_succ_e,EX_succ_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_tcynt_e,EX_tcynt_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_thr_L_e,EX_thr_L_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_trp_L_e,EX_trp_L_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_tsul_e,EX_tsul_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_tyr_L_e,EX_tyr_L_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_urea_e,EX_urea_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_val_L_e,EX_val_L_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+EX_fol_e,EX_fol_e,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+OF_ATP_MitoCore,R_OF_ATP_MitoCore Maximum ATP production (ATP hydrolysis),Objective Function - ATP,artificial,unmappable,,no identifier at all (only name / stoichiometry / structure)
+OF_HEME_MitoCore,R_OF_HEME_MitoCore Maximum Heme production,Objective Function - Heme,artificial,unmappable,,no identifier at all (only name / stoichiometry / structure)
+OF_LIPID_MitoCore,R_OF_LIPID_MitoCore Maximum lipid synthesis (Mito Inner Membrane),Objective Function - Lipid synthesis,artificial,unmappable,,no identifier at all (only name / stoichiometry / structure)
+OF_PROTEIN_MitoCore,R_OF_PROTEIN_MitoCore Maxmium production of amino acids for protein synthesis,Objective Function - Protein Synthesis,artificial,unmappable,,no identifier at all (only name / stoichiometry / structure)
+CI_MitoCore,R_CI_MitoCore NADH dehydrogenase,Electron transport chain CI,transport,mapped_not_human,bigg.reaction;ec-code;kegg.reaction;metanetx.reaction;rhea,"has KG-usable id (mapped to a KG node, but no human route)"
+NNT_MitoCore,R_NNT_MitoCore NADP+ + NADH --> NADPH + NAD+,TCA cycle periphery,metabolic,mapped_not_human,bigg.reaction;ec-code;kegg.reaction;metanetx.reaction;rhea,"has KG-usable id (mapped to a KG node, but no human route)"
+AKGMALtm,R_AKGMALtm Malate - Oxoglutarate (OGC) Antiporter,Malate aspartate shuttle,transport,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+ASPGLUmB_MitoCore,R_ASPGLUmB_MitoCore Glutamate/Aspartate Antiporter (AGC1) - glutamate (in) for aspartate (out),Malate aspartate shuttle,transport,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+r2435,"R_r2435 carnitine carrier - Carnitine out, acyl carnitine in",Carnitine shuttle,transport,unmappable,bigg.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+r1155,R_r1155 2-oxobutanoate transport into mitochondrion,Threonine degradation,transport,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+METAT2_MitoCore,R_METAT2_MitoCore S-Adenosyl-L-methionine + demethylated methyl donor --> S-Adenosyl-L-homocysteine + methyl donor,Methionine degradation,metabolic,unmappable,,no identifier at all (only name / stoichiometry / structure)
+3SPYRSP,R_3SPYRSP 3-Sulfinylpyruvate + H2O --> Sulfite + Pyruvate,Cysteine degradation I,metabolic,mapped_not_human,bigg.reaction;kegg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+AMCOXO,R_AMCOXO 2-Aminomuconate + NADPH + H+ + H2O --> 2-Oxoadipate + Ammonia + NADP+,Tryptophan Metabolism,metabolic,mapped_not_human,bigg.reaction;kegg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+AMCOXO2_MitoCore,R_AMCOXO2_MitoCore 2-Aminomuconate + NADH + H+ + H2O --> 2-Oxoadipate + NH3 + NAD+,Tryptophan Metabolism,metabolic,mapped_not_human,kegg.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+2OXOADPTmB_MitoCore,R_2OXOADPTmB_MitoCore oxodicarboxylate carrier (ODC) - oxoadipate (in) for oxoglutarate (out),Tryptophan Metabolism,transport,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+2OXOADPTmC_MitoCore,R_2OXOADPTmC_MitoCore oxodicarboxylate carrier (ODC) reverse - oxoadipate (out) for oxoglutarate (in),Tryptophan Metabolism,transport,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+PPD2CSPc_MitoCore,R_PPD2CSPc_MitoCore 6-Amino-2-oxohexanoate --> delta1-Piperideine-2-carboxylate + H2O,Lysine degradation (L-pipecolate pathway),metabolic,mapped_not_human,bigg.reaction;kegg.reaction;metanetx.reaction;rhea,"has KG-usable id (mapped to a KG node, but no human route)"
+2AMADPTmB_MitoCore,R_2AMADPTmB_MitoCore Oxodicarboxylate carrier (ODC) - L-aminoadipate (in) for oxoglutarate (out),Lysine degradation (L-pipecolate pathway),transport,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+2AMADPTmC_MitoCore,R_2AMADPTmC_MitoCore Oxodicarboxylate carrier (ODC) reverse - L-aminoadipate (out) for oxoglutarate (in),Lysine degradation (L-pipecolate pathway),transport,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+G5SADrm,R_G5SADrm L-Glutamate 5-semialdehyde --> (S)-1-Pyrroline-5-carboxylate + H2O,Proline degradation/synthesis,metabolic,mapped_not_human,bigg.reaction;ec-code;kegg.reaction;metanetx.reaction;rhea,"has KG-usable id (mapped to a KG node, but no human route)"
+4aabutn_MitoCore,R_4aabutn_MitoCore 4-Acetamidobutanoate + H2O --> 4-Aminobutanoate + Acetate,Arginine degradation,metabolic,mapped_not_human,ec-code;kegg.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+4ABUTtm,R_4ABUTtm 4-aminobutanoate (GABA) mitochondrial transport,GABA shunt - transport,transport,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+AOBUTDsm,R_AOBUTDsm L-2-Amino-3-oxobutanoic acid --> Aminoacetone + CO2,Glycine degradation,metabolic,mapped_not_human,bigg.reaction;ec-code;kegg.reaction;metanetx.reaction;rhea,"has KG-usable id (mapped to a KG node, but no human route)"
+ACALDtm,R_ACALDtm Acetaldehyde diffusion into mitochondrion,Alcohol metabolism,transport,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+5AOPtm,R_5AOPtm 5-Aminolevulinate transport out of mitochondrion,Haem Synthesis,transport,mapped_not_human,bigg.reaction;metanetx.reaction;rhea,"has KG-usable id (mapped to a KG node, but no human route)"
+PHEMEtm,R_PHEMEtm Heme transport out of mitochondrion,Haem Synthesis,metabolic,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+GLYC3Ptm,R_GLYC3Ptm Glycerol 3-phosphate transport - diffusion,Cardiolipin synthesis,transport,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+CLPN_MitoCore,R_CLPN_MitoCore 2 Phosphatidylglycerol --> Cardiolipin + Glycerol,Cardiolipin synthesis,metabolic,mapped_not_human,kegg.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+CITtamB,R_CITtamB Citrate Carrier (CIC) - Citrate for Malate,Mitochondrial transporters - characterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+r0913,R_r0913 Citrate Carrier (CIC) - Isocitrate for Malate,Mitochondrial transporters - characterised,transport,unmappable,bigg.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+CITtbm,R_CITtbm Citrate Carrier (CIC) - Citrate for PEP,Mitochondrial transporters - characterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+r0917,R_r0917 Citrate Carrier (CIC) - Citrate for Isocitrate,Mitochondrial transporters - characterised,transport,unmappable,bigg.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+r0917b_MitoCore,R_r0917b_MitoCore Citrate Carrier (CIC) - Citrate for Isocitrate,Mitochondrial transporters - characterised,transport,unmappable,bigg.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+PIt2mB_MitoCore,R_PIt2mB_MitoCore Phosphate carrier (PIC) - Symport phosphate and H+ together,Mitochondrial transporters - characterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+HtmB_MitoCore,R_HtmB_MitoCore UCP uncoupling protein - Proton Cyto to Proton Mito,Mitochondrial transporters - characterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+MALtm,R_MALtm Dicarboxylate carrier (DIC) - antiport malate for phosphate,Mitochondrial transporters - characterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+MALSO3tm,R_MALSO3tm Dicarboxylate carrier (DIC) - antiport malate for sulfite,Mitochondrial transporters - characterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+MALTSULtm,R_MALTSULtm Dicarboxylate carrier (DIC) - antiport malate for thiosulfate,Mitochondrial transporters - characterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+MALSO4tm,R_MALSO4tm Dicarboxylate carrier (DIC) - antiport malate for sulfate,Mitochondrial transporters - characterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+SUCCt2m,R_SUCCt2m Dicarboxylate carrier (DIC) - antiport succinate for phosphate,Mitochondrial transporters - characterised,transport,unmappable,bigg.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+r0830,R_r0830 Dicarboxylate carrier (DIC) - antiport succinate for sulfite,Mitochondrial transporters - characterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+r0830B_MitoCore,R_r0830B_MitoCore Dicarboxylate carrier (DIC) - antiport succinate for thiosulfate,Mitochondrial transporters - characterised,transport,unmappable,,no identifier at all (only name / stoichiometry / structure)
+r0829,R_r0829 Dicarboxylate carrier (DIC) - antiport succinate for sulfate,Mitochondrial transporters - characterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+SUCCt3m_MitoCore,R_SUCCt3m_MitoCore Dicarboxylate carrier (DIC) - antiport succinate for malate,Mitochondrial transporters - characterised,transport,unmappable,,no identifier at all (only name / stoichiometry / structure)
+COAtmB_MitoCore,R_COAtmB_MitoCore CoA carrier (CoAPC) - antiport CoA for AMP,Mitochondrial transporters - characterised,transport,unmappable,bigg.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+COAtmC_MitoCore,R_COAtmC_MitoCore CoA carrier (CoAPC) - antiport CoA for ADP,Mitochondrial transporters - characterised,transport,unmappable,bigg.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+GLUt2mB_MitoCore,R_GLUt2mB_MitoCore Glutamate Carrier (GC2) - Symport L-glutamate with proton together,Mitochondrial transporters - characterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+ORNt4mB_MitoCore,R_ORNt4mB_MitoCore Ornithine carrier (ORC1) - antiport ornithine for citrulline,Mitochondrial transporters - characterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+r2398B_MitoCore,R_r2398B_MitoCore Ornithine carrier (ORC1) - antiport lysine for citrulline,Mitochondrial transporters - characterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+r2402B_MitoCore,R_r2402B_MitoCore Ornithine carrier (ORC1) - arginine for citrulline,Mitochondrial transporters - characterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+LYStmB_MitoCore,R_LYStmB_MitoCore Basic amino acid carrier (hBAC) - lysine,Mitochondrial transporters - characterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+ORNt3mB_MitoCore,R_ORNt3mB_MitoCore Basic amino acid carrier (hBAC) - ornithine,Mitochondrial transporters - characterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+ARGtmB_MitoCore,R_ARGtmB_MitoCore Basic amino acid carrier (hBAC) - arginine,Mitochondrial transporters - characterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+r1427,R_r1427 Basic amino acid carrier (hBAC) - L-histidine,Mitochondrial transporters - characterised,transport,unmappable,bigg.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+PYRt2m,R_PYRt2m Pyruvate Carrier - pyruvate transport via proton symport,Mitochondrial transporters - characterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction;rhea;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+ACACt2mB_MitoCore,R_ACACt2mB_MitoCore Pyruvate Carrier - Acetoacetate transport via proton symport,Mitochondrial transporters - characterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+ASNtm,R_ASNtm Unknown amino acid carrier - L-Asparagine,Mitochondrial transporters - uncharacterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+GLNtm,R_GLNtm Unknown amino acid carrier - L-Glutamine,Mitochondrial transporters - uncharacterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+PROtm,R_PROtm Unknown amino acid carrier - L-Proline,Mitochondrial transporters - uncharacterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+r1078,R_r1078 Unknown amino acid carrier - L-Tyrosine,Mitochondrial transporters - uncharacterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+r1436,R_r1436 Unknown amino acid carrier - L-Methionine,Mitochondrial transporters - uncharacterised,transport,unmappable,bigg.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+r1455,R_r1455 Unknown amino acid carrier - L-Phenylalanine,Mitochondrial transporters - uncharacterised,transport,unmappable,bigg.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+TRPtm_MitoCore,R_TRPtm_MitoCore Unknown amino acid carrier - L-Tryptophan,Mitochondrial transporters - uncharacterised,transport,unmappable,,no identifier at all (only name / stoichiometry / structure)
+GLYtm,R_GLYtm Unknown amino acid carrier - Glycine,Mitochondrial transporters - uncharacterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+ILEt5m,R_ILEt5m Unknown amino acid carrier - L-Isoleucine,Mitochondrial transporters - uncharacterised,transport,unmappable,bigg.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+LEUt5m,R_LEUt5m Unknown amino acid carrier - L-Leucine,Mitochondrial transporters - uncharacterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+VALt5m,R_VALt5m Unknown amino acid carrier - L-Valine,Mitochondrial transporters - uncharacterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+r1434,R_r1434 Unknown amino acid carrier - L-Alanine,Mitochondrial transporters - uncharacterised,transport,unmappable,bigg.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+r1435,R_r1435 Unknown amino acid carrier - L-Serine,Mitochondrial transporters - uncharacterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+r1440,R_r1440 Unknown amino acid carrier - L-Threonine,Mitochondrial transporters - uncharacterised,transport,unmappable,bigg.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+BALAtmr,R_BALAtmr Beta-alanine reversible mitochondrial transport (diffusion),Mitochondrial transporters - uncharacterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+UREAtm,R_UREAtm Urea transport,Mitochondrial transporters - uncharacterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction;rhea,"has KG-usable id (mapped to a KG node, but no human route)"
+FUMtmB_MitoCore,R_FUMtmB_MitoCore Fumarate transport,Mitochondrial transporters - uncharacterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+BHBtmB_MitoCore,R_BHBtmB_MitoCore (R)-3-Hydroxybutanoate mitochondrial transport,Mitochondrial transporters - uncharacterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+PPAtmB_MitoCore,R_PPAtmB_MitoCore Propanoate mitochondrial transport,Mitochondrial transporters - uncharacterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+BUTt2mB_MitoCore,R_BUTt2mB_MitoCore Butyrate mitochondrial transport,Mitochondrial transporters - uncharacterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+FORt2mB_MitoCore,R_FORt2mB_MitoCore Formate mitochondrial transport,Mitochondrial transporters - uncharacterised,transport,unmappable,bigg.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+r0962B_MitoCore,R_r0962B_MitoCore Folate mitochondrial transport,Mitochondrial transporters - uncharacterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+CHLtmB_MitoCore,R_CHLtmB_MitoCore Choline mitochondrial transport,Mitochondrial transporters - uncharacterised,transport,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+CO2tm,"R_CO2tm CO2 transport (diffusion), mitochondrial",Mitochondrial transport - diffusion / artificial,artificial,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+H2Otm,"R_H2Otm H2O transport, mitochondrial",Mitochondrial transport - diffusion / artificial,artificial,mapped_not_human,bigg.reaction;metanetx.reaction;rhea,"has KG-usable id (mapped to a KG node, but no human route)"
+O2tm,R_O2tm O2 transport (diffusion),Mitochondrial transport - diffusion / artificial,artificial,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+GLYCtm,R_GLYCtm glycerol transport,Mitochondrial transport - diffusion / artificial,artificial,mapped_not_human,bigg.reaction;metanetx.reaction;rhea,"has KG-usable id (mapped to a KG node, but no human route)"
+CYANtm,R_CYANtm Cyanide transport via diffusion,Mitochondrial transport - diffusion / artificial,artificial,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+TCYNTtmB_MitoCore,R_TCYNTtmB_MitoCore Thiocyanate transport via diffusion (mitochondrial),Mitochondrial transport - diffusion / artificial,artificial,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+CREATtmdiffir,R_CREATtmdiffir Creatine transport to/from mitochondria,Mitochondrial transport - diffusion / artificial,artificial,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+PCREATtmdiffirB_MitoCore,R_PCREATtmdiffirB_MitoCore Phosphocreatine transport to/from mitochondria,Mitochondrial transport - diffusion / artificial,artificial,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+r0941,R_r0941 Bicarbonate diffusion,Mitochondrial transport - diffusion / artificial,artificial,mapped_not_human,bigg.reaction;metanetx.reaction;rhea,"has KG-usable id (mapped to a KG node, but no human route)"
+r0838B_MitoCore,R_r0838B_MitoCore Ammonia free diffusion,Mitochondrial transport - diffusion / artificial,artificial,unmappable,bigg.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+Biomasst_MitoCore,R_Biomasst_MitoCore Biomass pseudo transport,Mitochondrial transport - diffusion / artificial,artificial,unmappable,,no identifier at all (only name / stoichiometry / structure)
+PCFLOPm,R_PCFLOPm phosphatidylcholine flippase,Mitochondrial transport - lipids,transport,mapped_not_human,bigg.reaction;ec-code;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+PSFLIPm,R_PSFLIPm phosphatidylserine flippase,Mitochondrial transport - lipids,transport,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+PEFLIPm,R_PEFLIPm phosphatidylethanolamine flippase,Mitochondrial transport - lipids,transport,mapped_not_human,bigg.reaction;ec-code;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+Biomass_MitoCore,R_Biomass_MitoCore Biomass Sink,Boundary conditions - core,artificial,unmappable,,no identifier at all (only name / stoichiometry / structure)
+O2t,R_O2t o2 transport (diffusion),Boundary conditions - core,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+CO2t,R_CO2t CO2 transporter via diffusion,Boundary conditions - core,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+HCO3t_MitoCore,R_HCO3t_MitoCore Bicarbonate diffusion,Boundary conditions - core,exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+GLCt1r,R_GLCt1r glucose transport,Boundary conditions - core,exchange_demand,unmappable,bigg.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+HDCAtr,R_HDCAtr fatty acid transport via diffusion,Boundary conditions - core,exchange_demand,unmappable,bigg.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+HDCAtm_MitoCore,R_HDCAtm_MitoCore fatty acid accumulation - mitochondria,Boundary conditions - core,exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+L_LACt2r,R_L_LACt2r L-lactate reversible transport via proton symport,Boundary conditions - core,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+BHBt,R_BHBt (R)-3-Hydroxybutanoate transport via H+ symport,Boundary conditions - core,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+ACACt2,R_ACACt2 acetoacetate transport via proton symport,Boundary conditions - core,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+ETOHt,R_ETOHt ethanol reversible transport,Boundary conditions - alternative fuels,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+BUTt2r,"R_BUTt2r Butyrate transport via proton symport, reversible",Boundary conditions - alternative fuels,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+GLYCt,R_GLYCt glycerol transport via channel,Boundary conditions - alternative fuels,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction;rhea,"has KG-usable id (mapped to a KG node, but no human route)"
+r0942,R_r0942 Creatine storage,Boundary conditions - alternative fuels,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+r0942b_MitoCore,R_r0942b_MitoCore Phosphocreatine storage,Boundary conditions - alternative fuels,exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+HIStiDF,R_HIStiDF L-histidine transport via diffusion (extracellular to cytosol),Boundary conditions - essential amino acids,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+ILEtec,R_ILEtec L-isoleucine transport via diffusion (extracellular to cytosol),Boundary conditions - essential amino acids,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+LEUtec,R_LEUtec L-leucine transport via diffusion (extracellular to cytosol),Boundary conditions - essential amino acids,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+LYStiDF,R_LYStiDF L-lysine transport via diffusion (extracellular to cytosol),Boundary conditions - essential amino acids,exchange_demand,unmappable,bigg.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+METtec,R_METtec L-methionine transport via diffusion (extracellular to cytosol),Boundary conditions - essential amino acids,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+PHEtec,R_PHEtec L-phenylalanine transport via diffusion (extracellular to cytosol),Boundary conditions - essential amino acids,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+r2534,R_r2534 L-threonine transport,Boundary conditions - essential amino acids,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+TRPt,R_TRPt L-tryptophan transport,Boundary conditions - essential amino acids,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+VALtec,R_VALtec L-valine transport via diffusion (extracellular to cytosol),Boundary conditions - essential amino acids,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+ARGtiDF,R_ARGtiDF L-arginine transport via diffusion (extracellular to cytosol),Boundary conditions - nonessential amino acids,exchange_demand,unmappable,bigg.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+ASPte,R_ASPte L-aspartate transport,Boundary conditions - nonessential amino acids,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+GLUt_MitoCore,R_GLUt_MitoCore L-glutamate transport,Boundary conditions - nonessential amino acids,exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+r2525,R_r2525 L_glutamine transport,Boundary conditions - nonessential amino acids,exchange_demand,unmappable,bigg.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+GLYt2r,R_GLYt2r glycine reversible transport via proton symport,Boundary conditions - nonessential amino acids,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+PROt2r,R_PROt2r L-proline reversible transport via proton symport,Boundary conditions - nonessential amino acids,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+r2526,R_r2526 L-serine transport,Boundary conditions - nonessential amino acids,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+TYRt,R_TYRt L-tyrosine transport,Boundary conditions - nonessential amino acids,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+r2532,R_r2532 L-asparagine transport,Boundary conditions - nonessential amino acids,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+ALAt2r,R_ALAt2r L-alanine reversible transport via proton symport,Boundary conditions - nonessential amino acids,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+FUMt_MitoCore,R_FUMt_MitoCore Fumarate transport,Boundary Conditions - Biomarkers,exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+SUMt_MitoCore,R_SUMt_MitoCore Succinate transport,Boundary Conditions - Biomarkers,exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+r0817,R_r0817 Citrulline transport,Boundary Conditions - Biomarkers,exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+NH4t3r,R_NH4t3r ammonia transport via proton antiport,Boundary Conditions - Biomarkers,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+ACt2r,R_ACt2r acetate reversible transport via proton symport,Boundary Conditions - Biomarkers,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+PPAt,"R_PPAt Propanoate transport, diffusion",Boundary Conditions - Biomarkers,exchange_demand,unmappable,bigg.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+2HBt2,R_2HBt2 2-hydroxybutyrate cotransport with proton,Boundary Conditions - Biomarkers,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+CHOLtu,R_CHOLtu Choline uniport,Boundary Conditions - Biomarkers,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction;rhea;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+r1088,R_r1088 Citrate transport,Boundary Conditions - Biomarkers,exchange_demand,unmappable,bigg.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+ICITt_MitoCore,R_ICITt_MitoCore Isocitrate transport,Boundary Conditions - Biomarkers,exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+UREAt,R_UREAt Urea transport via facilitate diffusion,Boundary Conditions - Biomarkers,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction;rhea;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+r1512,R_r1512 Bilirubin transport,Boundary Conditions - Biomarkers,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+ARGSUCt_MitoCore,R_ARGSUCt_MitoCore Argininosuccinate transport,Boundary Conditions - Biomarkers,exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+MAL_Lte,R_MAL_Lte Malate transport,Boundary Conditions - Biomarkers,exchange_demand,unmappable,bigg.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+OAAt_MitoCore,R_OAAt_MitoCore Oxaloacetate transport,Boundary Conditions - Biomarkers,exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+AKGt_MitoCore,R_AKGt_MitoCore 2-Oxoglutarate transport,Boundary Conditions - Biomarkers,exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+MERCPLACt_MitoCore,R_MERCPLACt_MitoCore 3-Mercaptolactate transport,Boundary Conditions - Biomarkers,exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+r0899,R_r0899 Beta-alanine,Boundary Conditions - Misc,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+FE2t,R_FE2t iron (II) transport,Boundary Conditions - Misc,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction;rhea;tcdb,"has KG-usable id (mapped to a KG node, but no human route)"
+H2Ot,R_H2Ot H2O transport via diffusion,Boundary Conditions - Misc,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction;rhea,"has KG-usable id (mapped to a KG node, but no human route)"
+Hct_MitoCore,R_Hct_MitoCore Proton escape - cytosolic,Boundary Conditions - Misc,exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+Hmt_MitoCore,R_Hmt_MitoCore Proton escape - mitochondrial,Boundary Conditions - Misc,exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+SO3t_MitoCore,R_SO3t_MitoCore Sulfite,Boundary Conditions - Misc,exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+TSULt_MitoCore,R_TSULt_MitoCore Thiosulfate,Boundary Conditions - Misc,exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+r0940,R_r0940 hydrogen sulfide,Boundary Conditions - Misc,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+CYANt,R_CYANt Cyanide transport via diffusion (extracellular to cytosol),Boundary Conditions - Misc,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+TCYNTt,R_TCYNTt Thiocyanate,Boundary Conditions - Misc,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+r1423,R_r1423 Phosphate facilitated diffusion,Boundary Conditions - Misc,exchange_demand,unmappable,bigg.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+FORt_MitoCore,R_FORt_MitoCore Formate,Boundary Conditions - Misc,exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+FOLt_MitoCore,R_FOLt_MitoCore Folate,Boundary Conditions - Misc,exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+NADHt_MitoCore,R_NADHt_MitoCore NADH pool,Boundary Conditions - Misc,exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+NADt_MitoCore,R_NADt_MitoCore NAD+ pool,Boundary Conditions - Misc,exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+NADHtm_MitoCore,R_NADHtm_MitoCore NADH pool mitochondrial,Boundary Conditions - Misc,exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+NADtm_MitoCore,R_NADtm_MitoCore NAD+ pool mitochondrial,Boundary Conditions - Misc,exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)
+COt,R_COt CO transporter via diffusion,Boundary Conditions - Misc,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+NOt,R_NOt NO transport (diffusion),Boundary Conditions - Misc,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+PCHOLHSTDe,R_PCHOLHSTDe Phosphatidylcholine,Boundary Conditions - Lipids,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+PSt3,R_PSt3 Phosphatidylserine,Boundary Conditions - Lipids,exchange_demand,mapped_not_human,bigg.reaction;ec-code;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+PEt,R_PEt Phosphatidylethanolamine,Boundary Conditions - Lipids,exchange_demand,mapped_not_human,bigg.reaction;metanetx.reaction,"has KG-usable id (mapped to a KG node, but no human route)"
+DM_orot_c,Orotate demand,(none),exchange_demand,unmappable,,no identifier at all (only name / stoichiometry / structure)

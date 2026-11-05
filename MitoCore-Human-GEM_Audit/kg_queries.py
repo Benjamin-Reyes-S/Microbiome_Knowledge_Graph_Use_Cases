@@ -4,7 +4,18 @@ REACTIONS, GENES, METABOLITES.  Scripts import these strings and run them unchan
 Parameter  $h = 'NCBITaxon:9606' (Homo sapiens).
 Pattern of each section:  *_NODES  -> every KG node of the type (+ matching ids/xrefs), one row per node
                           route R*/G*/M*  -> nodes connected to human by that route (id [, n_support])
-Routes are never merged; strong = R1, R2, G1, M1a, M1b.  Protein is the only node type with a direct taxon edge.
+Routes are never merged; strong = R1, R2, G1, M1a, M1b, M3.
+Taxon edges: Protein -BELONGS_TO-> Taxon (main), Compound -FOUND_IN-> Taxon (new: ChEBI/KEGG compounds), Gene(NCBIGene/EMBLCDS/LocusTag)
+-BELONGS_TO-> Taxon (new, not used for the KEGG:hsa genes of the model).  MetabolicModel / ModelGene (BIGG.MODEL, BIGG.GENE) are NOT used.
+
+Identifier namespaces in the KG (ids are prefixed; the ARRAY properties bigg_ids / metanetx_ids can hold several ids per node, and
+one model id can therefore match several KG nodes; the *_XREF queries explode the arrays into one row per node x id):
+  Reaction  KEGG:R#####  (equation, bigg_ids[], metanetx_ids[], CATALYZED_BY enzyme/KO, PARTICIPATES_IN pathway)
+            BIGG.R:<id>  (name, bigg_ids[], metanetx_ids[]; reactant/product edges only: no enzyme/KO, no pathway, no taxon route)
+  Compound  KEGG:C#####  (kegg_id, chebi_id (merged ChEBI), bigg_ids[], metanetx_ids[], formula)
+            CHEBI:<n>    (chebi_id, metanetx_ids[], bigg_ids[]; FOUND_IN taxon, IS_A to KEGG compounds). A KEGG compound with a ChEBI id is
+            ONE node (KEGG:C..., chebi_id property); no separate CHEBI: node exists for it, so there is no chebi_id join.
+            BIGG.M:<id>  (bigg_ids[]; only HAS_REACTANT/PRODUCT of BIGG.R reactions)
 """
 
 # =====================================================================================================================
@@ -18,7 +29,20 @@ MATCH (r:Reaction)
 OPTIONAL MATCH (r)-[:CATALYZED_BY]->(e:Enzyme)
 WITH r, collect(DISTINCT e.id) AS ecs
 OPTIONAL MATCH (r)-[:CATALYZED_BY]->(k:KeggOrthology)
-RETURN r.id AS id, r.name AS name, r.equation AS equation, ecs, collect(DISTINCT k.id) AS kos
+RETURN r.id AS id, split(r.id, ':')[0] AS source_db, r.name AS name, r.equation AS equation,
+       r.bigg_ids AS bigg_ids, r.metanetx_ids AS metanetx_ids, ecs, collect(DISTINCT k.id) AS kos
+"""
+
+# cross-reference map, one row per (Reaction node x id): the arrays exploded, so one model id can hit several KG nodes
+REACTIONS["R_XREF_BIGG"] = """
+MATCH (r:Reaction) WHERE r.bigg_ids IS NOT NULL
+UNWIND r.bigg_ids AS x
+RETURN r.id AS id, 'bigg.reaction' AS namespace, x AS xref
+"""
+REACTIONS["R_XREF_METANETX"] = """
+MATCH (r:Reaction) WHERE r.metanetx_ids IS NOT NULL
+UNWIND r.metanetx_ids AS x
+RETURN r.id AS id, 'metanetx.reaction' AS namespace, x AS xref
 """
 
 # R1: reaction -> enzyme (EC) <- human protein            [strong]  n = distinct human proteins
@@ -36,6 +60,12 @@ RETURN r.id AS id, count(DISTINCT p) AS n_support
 # R3: reaction <- module -> pathway <- human taxon         [weak, supporting only]
 REACTIONS["R3_module_pathway"] = """
 MATCH (r:Reaction)<-[:HAS_REACTION]-(:Module)-[:PART_OF]->(pw:Pathway)<-[:HAS_PATHWAY]-(:Taxon {id:$h})
+RETURN r.id AS id, count(DISTINCT pw) AS n_support
+"""
+
+# R3b: reaction -PARTICIPATES_IN-> pathway <- human taxon  (direct edge, new in this KG)   [weak, supporting only]
+REACTIONS["R3b_pathway_direct"] = """
+MATCH (r:Reaction)-[:PARTICIPATES_IN]->(pw:Pathway)<-[:HAS_PATHWAY]-(:Taxon {id:$h})
 RETURN r.id AS id, count(DISTINCT pw) AS n_support
 """
 
@@ -143,7 +173,24 @@ METABOLITES = {}
 # every Compound node
 METABOLITES["M_NODES"] = """
 MATCH (x:Compound)
-RETURN x.id AS id, x.name AS name, x.synonyms AS synonyms
+RETURN x.id AS id, split(x.id, ':')[0] AS source_db, x.name AS name, x.synonyms AS synonyms, x.formula AS formula,
+       x.kegg_id AS kegg_id, x.chebi_id AS chebi_id, x.bigg_ids AS bigg_ids, x.metanetx_ids AS metanetx_ids
+"""
+
+# cross-reference map, one row per (Compound node x id); chebi_id is a scalar, bigg_ids / metanetx_ids are arrays
+METABOLITES["M_XREF_CHEBI"] = """
+MATCH (x:Compound) WHERE x.chebi_id IS NOT NULL
+RETURN x.id AS id, 'chebi' AS namespace, x.chebi_id AS xref
+"""
+METABOLITES["M_XREF_BIGG"] = """
+MATCH (x:Compound) WHERE x.bigg_ids IS NOT NULL
+UNWIND x.bigg_ids AS v
+RETURN x.id AS id, 'bigg.metabolite' AS namespace, v AS xref
+"""
+METABOLITES["M_XREF_METANETX"] = """
+MATCH (x:Compound) WHERE x.metanetx_ids IS NOT NULL
+UNWIND x.metanetx_ids AS v
+RETURN x.id AS id, 'metanetx.chemical' AS namespace, v AS xref
 """
 
 # M1a: compound in a reaction that is human via R1 (enzyme route)   n = distinct supporting reactions   [strong, derived]
@@ -162,6 +209,12 @@ RETURN x.id AS id, count(DISTINCT r) AS n_support
 METABOLITES["M2_pathway"] = """
 MATCH (x:Compound)-[:PARTICIPATES_IN]->(pw:Pathway)<-[:HAS_PATHWAY]-(:Taxon {id:$h})
 RETURN x.id AS id, count(DISTINCT pw) AS n_support
+"""
+
+# M3: compound -FOUND_IN-> human taxon (direct taxon edge, new in this KG; mostly ChEBI nodes)   n = number of taxon edges   [strong, direct]
+METABOLITES["M3_found_in"] = """
+MATCH (x:Compound)-[:FOUND_IN]->(:Taxon {id:$h})
+RETURN x.id AS id, count(*) AS n_support
 """
 
 # compounds in no reaction at all (no evidence possible through M1)

@@ -1,0 +1,5 @@
+entity,ids,matched_human,mapped
+reactions,KEGG+EC only,5580,5837
+reactions,+ BiGG + MetaNetX,5584,11707
+metabolites,KEGG only,1502,1792
+metabolites,+ ChEBI + BiGG + MetaNetX,1716,3710

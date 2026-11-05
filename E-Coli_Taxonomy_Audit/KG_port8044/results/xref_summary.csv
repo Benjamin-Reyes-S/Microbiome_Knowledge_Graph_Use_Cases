@@ -1,0 +1,4 @@
+component,unmatched,rescue_potential,n,pct
+reactions,1768,"has KG-usable id (mapped to a KG node, but no taxon route)",1768,100.0
+reactions (metabolic/isolated only),796,"has KG-usable id (mapped to a KG node, but no taxon route)",796,100.0
+metabolites,445,"has KG-usable id (mapped to a KG node, but no taxon route)",445,100.0

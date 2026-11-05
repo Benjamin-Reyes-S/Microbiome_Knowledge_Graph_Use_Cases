@@ -3,33 +3,39 @@
 All knowledge-graph access goes through `cypher()`, which only allows read-only
 queries against the Neo4j HTTP transaction endpoint (user neo4j, empty password).
 """
-import base64, csv, json, re, urllib.request
+import base64, csv, json, os, re, sys, urllib.request
 from pathlib import Path
 
 import numpy as np
 import pandas as pd
 
 BASE = Path(__file__).resolve().parent
-DATA = BASE / "data"
-RESULTS = BASE / "results"
-FIGURES = BASE / "figures"
-for p in (RESULTS, FIGURES):
-    p.mkdir(exist_ok=True)
+DATA = BASE / "data"                      # inputs (paper supplements, pathway files): shared by all KG versions
 
-NEO4J_URL = "http://localhost:8004/db/neo4j/tx/commit"
+# The KG endpoint is mandatory and comes from the environment (set by organizer.sh from its port argument).
+NEO4J_URL = os.getenv("NEO4J_URL")
+_m = re.match(r"^https?://[^:/]+:(\d+)/", NEO4J_URL or "")
+if not _m:
+    sys.exit("NEO4J_URL is not set or has no port. Run the pipeline via: ./organizer.sh <port>")
+VERSION_KG = f"KG_port{_m.group(1)}"      # one output folder per KG version
+OUT = BASE / VERSION_KG
+RESULTS, FIGURES = OUT / "results", OUT / "figures"
+for p in (RESULTS, FIGURES):
+    p.mkdir(parents=True, exist_ok=True)
+
 _WRITE = re.compile(r"\b(CREATE|MERGE|SET|DELETE|REMOVE|DROP|LOAD\s+CSV|FOREACH|CALL\s*\{|apoc\.(create|merge|periodic))\b", re.I)
 
 # pathway -> (KEGG module in KG, taxonomic requirement used in the paper, supp. file prefix of paper per-reaction table)
 PATHWAYS = {
     "Wood-Ljungdahl":              dict(module="KEGG:M00377", taxa=["Viruses", "Unknown", "Bacteria"],
                                         kegg_csv="KEGG-WoodLjungdahl pathway.csv", supp1="WoodLjungdahlKEGGModule.csv",
-                                        supp_rx="Supp. file 13_", bgp_csv="BGP-WoodLjungdahl.csv", supp1_bgp="WoodLjungdahlUser.csv"),
+                                        supp_rx="Supp. file 13_"),
     "Hydrogenotrophic methanogenesis": dict(module="KEGG:M00567", taxa=["Archaea"],
                                         kegg_csv="KEGG-hydrogenotrophic methanogenesis.csv", supp1="hydrogenotrophicMethanogenesisKEGGModule.csv",
-                                        supp_rx="Supp. file 14_", bgp_csv="BGP-hydrogenotrophic methanogenesis.csv", supp1_bgp="hydrogenotrophicMethanogenesisUser.csv"),
+                                        supp_rx="Supp. file 14_"),
     "Acetoclastic methanogenesis": dict(module="KEGG:M00357", taxa=["Archaea"],
                                         kegg_csv="KEGG-acetoclastic methanogenesis.csv", supp1="acetoclasticMethanogenesisKEGGModule.csv",
-                                        supp_rx="Supp. file 15_", bgp_csv="BGP-acetoclastic methanogenesis.csv", supp1_bgp="acetoclasticMethanogenesisUser.csv"),
+                                        supp_rx="Supp. file 15_"),
 }
 
 
@@ -90,15 +96,14 @@ RETURN r.id AS rid, collect(p.i) AS idx
 
 
 def counts_from_matches(matches, df, samples, rids_all=()):
-    """matches: {rid: [protein row idx]} -> per-reaction sample sums + module sums (unique proteins / summed over reactions)."""
+    """matches: {rid: [protein row idx]} -> per-reaction sample sums + module sums.
+    Module count = sum over reactions (a protein matching several reactions counts once per reaction, as in the paper)."""
     X = df[samples].to_numpy()
     rx = {rid: X[idx].sum(axis=0) if idx else np.zeros(len(samples)) for rid, idx in matches.items()}
     for rid in rids_all:
         rx.setdefault(rid, np.zeros(len(samples)))
-    union = sorted({i for idx in matches.values() for i in idx})
-    mod_unique = X[union].sum(axis=0) if union else np.zeros(len(samples))
     mod_multi = sum(rx.values()) if rx else np.zeros(len(samples))
-    return rx, mod_unique, mod_multi, len(union)
+    return rx, mod_multi
 
 
 def parse_pathway_csv(path):

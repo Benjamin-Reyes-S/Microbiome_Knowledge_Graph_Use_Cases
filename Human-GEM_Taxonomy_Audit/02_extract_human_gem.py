@@ -66,7 +66,8 @@ rows = []
 for x in m.metabolites:
     rows.append(dict(id=x.id, unique_id=x.id[:-1], name=x.name, compartment=x.compartment, formula=x.formula,
                      kegg_compound=j("KEGG:" + tail(k) for k in ann(x, "kegg.compound")),
-                     chebi=j(ann(x, "chebi")), hmdb=j(ann(x, "hmdb")), n_reactions=len(x.reactions)))
+                     chebi=j(ann(x, "chebi")), bigg_metabolite=j(ann(x, "bigg.metabolite")),
+                     metanetx_chemical=j(ann(x, "metanetx.chemical")), hmdb=j(ann(x, "hmdb")), n_reactions=len(x.reactions)))
 pd.DataFrame(rows).to_csv(c.RESULTS / "Human_GEM_metabolites.csv", index=False)
 
 for n in ("reactions", "genes", "metabolites"):

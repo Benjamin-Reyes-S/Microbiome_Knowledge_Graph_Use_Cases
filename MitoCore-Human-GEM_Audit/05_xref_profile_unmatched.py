@@ -9,8 +9,9 @@ Outputs (results/):  xref_coverage_{reactions,metabolites}.csv   one row per nam
                      xref_unmatched_{reactions,metabolites}.csv  one row per unmatched entity with its namespaces + rescue_potential
                      xref_summary.csv                                  headline: unmatched without KG-usable id but with another id
 Figures: fig7_xref_reactions.png, fig9_xref_metabolites.png  (A: coverage per namespace, B: top id combinations)
-KG-usable namespaces = ids that the strict match in 03 can use today (reactions: kegg.reaction, ec-code; metabolites: kegg.compound;
-genes are not profiled). Everything else is a candidate for a new KG cross-reference / mapping table.
+KG-usable namespaces = ids that the match in 03 can use today (reactions: kegg.reaction, ec-code, bigg.reaction, metanetx.reaction;
+metabolites: kegg.compound, chebi, bigg.metabolite, metanetx.chemical; genes are not profiled).
+Everything else is a candidate for a new KG cross-reference / mapping table.
 """
 import numpy as np
 import pandas as pd
@@ -19,12 +20,13 @@ import plotstyle as ps
 
 R = c.RESULTS
 plt = ps.plt
-KG_USABLE = {"reactions": {"kegg.reaction", "ec-code"}, "metabolites": {"kegg.compound"}}
+KG_USABLE = {"reactions": {"kegg.reaction", "ec-code", "bigg.reaction", "metanetx.reaction"},
+             "metabolites": {"kegg.compound", "chebi", "bigg.metabolite", "metanetx.chemical"}}
 
 # ---------------- namespaces carried by each model entity ----------------
 model = c.load_model()
 # not external identifiers: `sbo` is an ontology term present on every entity, `vmh*` is the model's own id namespace (always present)
-NOT_XREF = {"sbo", "vmhreaction", "vmhmetabolite", "bigg.reaction", "bigg.metabolite"}
+NOT_XREF = {"sbo", "vmhreaction", "vmhmetabolite"}
 ns = lambda o: set(c.xref_ns(o)) - NOT_XREF
 ns_r = {r.id: ns(r) for r in model.reactions}
 ns_m = {}                                           # unique metabolite = compartment-collapsed id (union over the copies)
@@ -68,9 +70,9 @@ def profile(name, d, ns_col="ns"):
     # per unmatched entity: which ids it has, and what that means for fixing it
     def potential(s):
         if s & usable:
-            return "has KG-usable id (mapped, but no human route in KG)"
+            return "has KG-usable id (mapped to a KG node, but no human route)"
         if s:
-            return "no KG-usable id, but another id type (new KG xref / mapping would rescue)"
+            return "no KG-usable id, but another id type (a new KG cross-reference could map it)"
         return "no identifier at all (only name / stoichiometry / structure)"
     unm["namespaces"] = unm[ns_col].map(lambda s: ";".join(sorted(s)))
     unm["rescue_potential"] = unm[ns_col].map(potential)

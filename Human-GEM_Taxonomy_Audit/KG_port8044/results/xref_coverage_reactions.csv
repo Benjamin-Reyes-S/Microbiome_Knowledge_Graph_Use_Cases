@@ -1,0 +1,33 @@
+component,group,namespace,n,group_size,pct,kg_usable
+reactions,matched to human,bigg.reaction,3637,5584,65.1,True
+reactions,matched to human,ec-code,5543,5584,99.3,True
+reactions,matched to human,kegg.reaction,2338,5584,41.9,True
+reactions,matched to human,metanetx.reaction,4285,5584,76.7,True
+reactions,matched to human,reactome,176,5584,3.2,False
+reactions,matched to human,rhea,2061,5584,36.9,False
+reactions,matched to human,seed.reaction,1921,5584,34.4,False
+reactions,matched to human,tcdb,3,5584,0.1,False
+reactions,unmatched: exchange / artificial,bigg.reaction,1553,1670,93.0,True
+reactions,unmatched: exchange / artificial,ec-code,0,1670,0.0,True
+reactions,unmatched: exchange / artificial,kegg.reaction,0,1670,0.0,True
+reactions,unmatched: exchange / artificial,metanetx.reaction,3,1670,0.2,True
+reactions,unmatched: exchange / artificial,reactome,0,1670,0.0,False
+reactions,unmatched: exchange / artificial,rhea,0,1670,0.0,False
+reactions,unmatched: exchange / artificial,seed.reaction,0,1670,0.0,False
+reactions,unmatched: exchange / artificial,tcdb,0,1670,0.0,False
+reactions,unmatched: metabolic / isolated,bigg.reaction,937,1289,72.7,True
+reactions,unmatched: metabolic / isolated,ec-code,142,1289,11.0,True
+reactions,unmatched: metabolic / isolated,kegg.reaction,161,1289,12.5,True
+reactions,unmatched: metabolic / isolated,metanetx.reaction,846,1289,65.6,True
+reactions,unmatched: metabolic / isolated,reactome,8,1289,0.6,False
+reactions,unmatched: metabolic / isolated,rhea,136,1289,10.6,False
+reactions,unmatched: metabolic / isolated,seed.reaction,185,1289,14.4,False
+reactions,unmatched: metabolic / isolated,tcdb,7,1289,0.5,False
+reactions,unmatched: transport,bigg.reaction,3477,4205,82.7,True
+reactions,unmatched: transport,ec-code,10,4205,0.2,True
+reactions,unmatched: transport,kegg.reaction,1,4205,0.0,True
+reactions,unmatched: transport,metanetx.reaction,3060,4205,72.8,True
+reactions,unmatched: transport,reactome,23,4205,0.5,False
+reactions,unmatched: transport,rhea,606,4205,14.4,False
+reactions,unmatched: transport,seed.reaction,736,4205,17.5,False
+reactions,unmatched: transport,tcdb,992,4205,23.6,False

@@ -1,3 +1,0 @@
-1) First, some reactions have multiple EC-numbers. In the published experimental data, only one EC-number was considered for each reaction. 
-2) The second reason for the differences is the missing matching of proteins by K-numbers, which also catalyze the same reaction. They were not considered in the published data. 
-3) The last reason is the usage of deprecated EC-numbers in the published data. EC- numbers are transferred to new EC- numbers occasionally. All three reasons lead to a minor loss of information in the published dataset due to less matched proteins. 

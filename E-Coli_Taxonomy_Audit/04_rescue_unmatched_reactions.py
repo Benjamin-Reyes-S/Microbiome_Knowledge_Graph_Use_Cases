@@ -17,7 +17,7 @@ import plotstyle as ps
 R = c.RESULTS
 mr = pd.read_csv(R / "match_reactions.csv").fillna("")
 mm = pd.read_csv(R / "match_metabolites.csv").fillna("")
-kr = pd.read_csv(R / "KG_taxon_reactions.csv").fillna("")
+kr = pd.read_csv(R / "KG_taxon_reactions.csv", low_memory=False).fillna("")
 split = lambda s: [x for x in s.split(";") if x] if isinstance(s, str) else []
 UBIQ = {"KEGG:C00001", "KEGG:C00080"}                       # water, proton (not decisive for reaction identity)
 

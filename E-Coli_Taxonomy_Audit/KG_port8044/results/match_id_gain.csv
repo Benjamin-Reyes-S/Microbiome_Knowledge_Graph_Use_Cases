@@ -1,0 +1,5 @@
+entity,ids,matched_taxon,mapped
+reactions,KEGG+EC only,940,1077
+reactions,+ BiGG + MetaNetX,944,2712
+metabolites,KEGG only,719,796
+metabolites,+ ChEBI + BiGG + MetaNetX,724,1169

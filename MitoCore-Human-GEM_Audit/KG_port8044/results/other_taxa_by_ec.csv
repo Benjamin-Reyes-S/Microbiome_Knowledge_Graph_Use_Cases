@@ -1,0 +1,10 @@
+id,taxon_group,n_proteins,n_taxa
+EC:1.1.1.381,Fungi,2,3
+EC:1.1.1.381,Bacteria,6,7
+EC:1.6.5.9,Bacteria,20,22
+EC:1.6.5.9,Land plants,11,2
+EC:1.6.5.9,Fungi,6,5
+EC:2.7.8.8,Bacteria,10,11
+EC:2.7.8.8,Land plants,5,3
+EC:2.7.8.8,Archaea,1,1
+EC:2.7.8.8,Fungi,4,6

@@ -12,18 +12,17 @@ for pw, d in c.PATHWAYS.items():
     res = c.cypher(c.MATCH_KG_Q, module=d["module"], prots=prots, taxa=d["taxa"])
     matches = {r["rid"]: r["idx"] for r in res}
     kg_rids = [r["rid"] for r in c.cypher("MATCH (:Module {id:$m})-[:HAS_REACTION]->(r:Reaction) RETURN r.id AS rid", m=d["module"])]
-    rx, uniq, multi, nprot = c.counts_from_matches(matches, df, samples, kg_rids)
+    rx, multi = c.counts_from_matches(matches, df, samples, kg_rids)
     paper_ids = set(c.load_supp_reactions(d["supp_rx"]))
     shared = {k: v for k, v in rx.items() if k in paper_ids}
     for rid, v in rx.items():
         rows.append(dict(pathway=pw, rid=rid, n_proteins=len(matches.get(rid, [])), **dict(zip(samples, v))))
         matches_out[rid + "|" + pw] = [df.iloc[i, 0] for i in matches.get(rid, [])]
     for variant, vec in (("KG all reactions (summed over reactions)", multi),
-                         ("KG reactions shared with paper (summed over reactions)", sum(shared.values())),
-                         ("KG all reactions (unique proteins)", uniq)):
+                         ("KG reactions shared with paper (summed over reactions)", sum(shared.values()))):
         mod_rows.append(dict(pathway=pw, variant=variant, steps_found=sum(1 for v in matches.values() if v), steps_total=len(kg_rids),
-                             unique_proteins=nprot, **dict(zip(samples, vec))))
-    print(pw, d["module"], "reactions", len(kg_rids), "found", sum(1 for v in matches.values() if v), "unique proteins", nprot)
+                             **dict(zip(samples, vec))))
+    print(pw, d["module"], "reactions", len(kg_rids), "found", sum(1 for v in matches.values() if v))
 pd.DataFrame(rows).to_csv(c.RESULTS / "kg_reaction_counts.csv", index=False)
 pd.DataFrame(mod_rows).to_csv(c.RESULTS / "kg_module_counts.csv", index=False)
 json.dump(matches_out, open(c.RESULTS / "kg_matched_proteins.json", "w"))

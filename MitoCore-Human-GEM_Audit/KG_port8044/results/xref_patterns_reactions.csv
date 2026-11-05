@@ -1,0 +1,13 @@
+pattern,n,pct
+(no identifier),103,43.5
+bigg.reaction;metanetx.reaction;tcdb,46,19.4
+bigg.reaction;metanetx.reaction,40,16.9
+bigg.reaction,24,10.1
+bigg.reaction;metanetx.reaction;rhea,7,3.0
+bigg.reaction;ec-code;kegg.reaction;metanetx.reaction;rhea,4,1.7
+bigg.reaction;metanetx.reaction;rhea;tcdb,4,1.7
+bigg.reaction;ec-code;metanetx.reaction,3,1.3
+bigg.reaction;kegg.reaction;metanetx.reaction,2,0.8
+kegg.reaction,2,0.8
+bigg.reaction;kegg.reaction;metanetx.reaction;rhea,1,0.4
+ec-code;kegg.reaction,1,0.4

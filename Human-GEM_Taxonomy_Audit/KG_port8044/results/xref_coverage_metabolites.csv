@@ -1,0 +1,19 @@
+component,group,namespace,n,group_size,pct,kg_usable
+metabolites,matched to human,bigg.metabolite,1272,1716,74.1,True
+metabolites,matched to human,chebi,1507,1716,87.8,True
+metabolites,matched to human,hmdb,1174,1716,68.4,False
+metabolites,matched to human,inchi,1333,1716,77.7,False
+metabolites,matched to human,kegg.compound,1585,1716,92.4,True
+metabolites,matched to human,lipidmaps,551,1716,32.1,False
+metabolites,matched to human,metanetx.chemical,1698,1716,99.0,True
+metabolites,matched to human,pubchem.compound,1330,1716,77.5,False
+metabolites,matched to human,seed.compound,1403,1716,81.8,False
+metabolites,unmatched,bigg.metabolite,1777,2386,74.5,True
+metabolites,unmatched,chebi,703,2386,29.5,True
+metabolites,unmatched,hmdb,560,2386,23.5,False
+metabolites,unmatched,inchi,1568,2386,65.7,False
+metabolites,unmatched,kegg.compound,287,2386,12.0,True
+metabolites,unmatched,lipidmaps,365,2386,15.3,False
+metabolites,unmatched,metanetx.chemical,1895,2386,79.4,True
+metabolites,unmatched,pubchem.compound,1198,2386,50.2,False
+metabolites,unmatched,seed.compound,412,2386,17.3,False
